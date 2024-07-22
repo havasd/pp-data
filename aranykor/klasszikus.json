@@ -1,0 +1,12882 @@
+[
+{
+ "name": "Klasszikus",
+ "date": "2014-07-01",
+ "price": 0.999262
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-02",
+ "price": 1.001245
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-03",
+ "price": 1.001335
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-04",
+ "price": 1.000391
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-07",
+ "price": 1.000096
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-08",
+ "price": 0.999607
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-09",
+ "price": 0.999735
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-10",
+ "price": 0.999404
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-11",
+ "price": 0.999579
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-14",
+ "price": 1.000045
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-15",
+ "price": 0.999704
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-16",
+ "price": 1.000203
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-17",
+ "price": 0.99961
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-18",
+ "price": 1.001163
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-21",
+ "price": 1.002327
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-22",
+ "price": 1.004454
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-23",
+ "price": 1.00406
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-24",
+ "price": 1.00398
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-25",
+ "price": 1.004235
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-28",
+ "price": 1.004598
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-29",
+ "price": 1.003434
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-30",
+ "price": 1.002622
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-07-31",
+ "price": 0.996948
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-05",
+ "price": 1.024377
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-06",
+ "price": 1.02451
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-07",
+ "price": 1.027654
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-08",
+ "price": 1.030663
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-09",
+ "price": 1.029007
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-10",
+ "price": 1.0291
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-12",
+ "price": 1.028766
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-13",
+ "price": 1.031086
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-14",
+ "price": 1.032228
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-15",
+ "price": 1.032322
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-16",
+ "price": 1.035291
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-19",
+ "price": 1.035347
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-20",
+ "price": 1.036844
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-21",
+ "price": 1.038339
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-22",
+ "price": 1.039065
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-23",
+ "price": 1.046095
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-26",
+ "price": 1.04783
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-27",
+ "price": 1.047789
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-28",
+ "price": 1.047057
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-29",
+ "price": 1.047599
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-30",
+ "price": 1.045857
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-01-31",
+ "price": 1.045944
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-02",
+ "price": 1.047526
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-03",
+ "price": 1.049575
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-04",
+ "price": 1.048015
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-05",
+ "price": 1.046794
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-06",
+ "price": 1.044714
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-09",
+ "price": 1.044202
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-10",
+ "price": 1.04549
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-11",
+ "price": 1.043517
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-12",
+ "price": 1.047053
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-13",
+ "price": 1.047779
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-01",
+ "price": 0.99384
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-04",
+ "price": 0.996133
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-05",
+ "price": 0.994343
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-06",
+ "price": 0.990287
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-07",
+ "price": 0.991395
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-16",
+ "price": 1.047897
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-17",
+ "price": 1.046777
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-18",
+ "price": 1.043599
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-19",
+ "price": 1.044891
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-20",
+ "price": 1.045744
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-23",
+ "price": 1.047462
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-08",
+ "price": 0.992013
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-11",
+ "price": 0.993817
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-12",
+ "price": 0.993831
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-13",
+ "price": 0.995981
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-14",
+ "price": 0.999393
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-15",
+ "price": 0.99899
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-24",
+ "price": 1.049877
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-25",
+ "price": 1.050726
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-26",
+ "price": 1.052367
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-27",
+ "price": 1.052364
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-02-28",
+ "price": 1.052457
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-18",
+ "price": 1.00309
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-19",
+ "price": 1.005641
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-21",
+ "price": 1.007335
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-22",
+ "price": 1.006389
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-25",
+ "price": 1.007677
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-26",
+ "price": 1.00932
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-27",
+ "price": 1.011185
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-28",
+ "price": 1.007704
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-29",
+ "price": 1.008881
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-08-31",
+ "price": 1.00908
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-01",
+ "price": 1.006751
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-02",
+ "price": 1.006478
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-03",
+ "price": 1.007154
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-06",
+ "price": 1.008824
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-07",
+ "price": 1.00738
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-08",
+ "price": 1.008553
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-09",
+ "price": 1.009407
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-10",
+ "price": 1.007096
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-13",
+ "price": 1.009072
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-14",
+ "price": 1.009897
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-15",
+ "price": 1.010284
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-16",
+ "price": 1.005548
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-01",
+ "price": 1.008891
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-02",
+ "price": 1.009179
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-03",
+ "price": 1.012136
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-04",
+ "price": 1.012807
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-05",
+ "price": 1.014295
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-17",
+ "price": 1.007757
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-18",
+ "price": 1.007863
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-20",
+ "price": 1.009063
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-21",
+ "price": 1.010157
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-22",
+ "price": 1.009444
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-27",
+ "price": 1.010653
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-08",
+ "price": 1.016438
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-09",
+ "price": 1.015042
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-10",
+ "price": 1.013645
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-11",
+ "price": 1.011845
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-12",
+ "price": 1.008989
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-15",
+ "price": 1.00895
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-16",
+ "price": 1.010892
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-01",
+ "price": 1.025294
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-02",
+ "price": 1.025936
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-03",
+ "price": 1.027442
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-04",
+ "price": 1.027183
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-05",
+ "price": 1.028775
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-28",
+ "price": 1.013005
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-29",
+ "price": 1.012927
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-30",
+ "price": 1.014634
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-10-31",
+ "price": 1.017302
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-17",
+ "price": 1.011457
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-18",
+ "price": 1.011149
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-19",
+ "price": 1.010285
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-22",
+ "price": 1.010249
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-23",
+ "price": 1.008892
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-24",
+ "price": 1.00967
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-08",
+ "price": 1.028023
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-09",
+ "price": 1.02641
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-10",
+ "price": 1.02507
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-11",
+ "price": 1.024743
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-12",
+ "price": 1.024
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-13",
+ "price": 1.024091
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-03",
+ "price": 1.018554
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-04",
+ "price": 1.017777
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-05",
+ "price": 1.017718
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-06",
+ "price": 1.016707
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-07",
+ "price": 1.01713
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-25",
+ "price": 1.009251
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-26",
+ "price": 1.009388
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-29",
+ "price": 1.008358
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-09-30",
+ "price": 1.007856
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-15",
+ "price": 1.021158
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-16",
+ "price": 1.015226
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-17",
+ "price": 1.01428
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-18",
+ "price": 1.019355
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-19",
+ "price": 1.020638
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-22",
+ "price": 1.024427
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-10",
+ "price": 1.019717
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-11",
+ "price": 1.018899
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-12",
+ "price": 1.019521
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-13",
+ "price": 1.019681
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-14",
+ "price": 1.020449
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-17",
+ "price": 1.020889
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-23",
+ "price": 1.023426
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-29",
+ "price": 1.024346
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-30",
+ "price": 1.025002
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-12-31",
+ "price": 1.025135
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-18",
+ "price": 1.022745
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-19",
+ "price": 1.021299
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-20",
+ "price": 1.020164
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-21",
+ "price": 1.023869
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-24",
+ "price": 1.024413
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-25",
+ "price": 1.024839
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-26",
+ "price": 1.026668
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-27",
+ "price": 1.027062
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-28",
+ "price": 1.02677
+},
+{
+ "name": "Klasszikus",
+ "date": "2014-11-30",
+ "price": 1.026883
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-02",
+ "price": 1.053777
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-03",
+ "price": 1.052126
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-04",
+ "price": 1.051887
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-05",
+ "price": 1.050152
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-06",
+ "price": 1.051
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-09",
+ "price": 1.048087
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-10",
+ "price": 1.044303
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-11",
+ "price": 1.046493
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-12",
+ "price": 1.047637
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-13",
+ "price": 1.045535
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-16",
+ "price": 1.046657
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-17",
+ "price": 1.046227
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-18",
+ "price": 1.047782
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-19",
+ "price": 1.053101
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-20",
+ "price": 1.056405
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-23",
+ "price": 1.057791
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-24",
+ "price": 1.056308
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-25",
+ "price": 1.056747
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-26",
+ "price": 1.053641
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-27",
+ "price": 1.052488
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-30",
+ "price": 1.055159
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-03-31",
+ "price": 1.054404
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-03",
+ "price": 1.062539
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-04",
+ "price": 1.063613
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-05",
+ "price": 1.065644
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-06",
+ "price": 1.063679
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-07",
+ "price": 1.063426
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-08",
+ "price": 1.063521
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-01",
+ "price": 1.065053
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-02",
+ "price": 1.065693
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-05",
+ "price": 1.067831
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-06",
+ "price": 1.069046
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-07",
+ "price": 1.070254
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-08",
+ "price": 1.072471
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-01",
+ "price": 1.054922
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-02",
+ "price": 1.055704
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-03",
+ "price": 1.05858
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-04",
+ "price": 1.056816
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-07",
+ "price": 1.057823
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-08",
+ "price": 1.059036
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-10",
+ "price": 1.065193
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-11",
+ "price": 1.065275
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-12",
+ "price": 1.065424
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-13",
+ "price": 1.066785
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-14",
+ "price": 1.066125
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-17",
+ "price": 1.066145
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-18",
+ "price": 1.064477
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-09",
+ "price": 1.073103
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-12",
+ "price": 1.071626
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-13",
+ "price": 1.070208
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-14",
+ "price": 1.069383
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-15",
+ "price": 1.069576
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-16",
+ "price": 1.069057
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-09",
+ "price": 1.05948
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-10",
+ "price": 1.060714
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-11",
+ "price": 1.060854
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-14",
+ "price": 1.060553
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-15",
+ "price": 1.061533
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-16",
+ "price": 1.061467
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-19",
+ "price": 1.064051
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-24",
+ "price": 1.049423
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-25",
+ "price": 1.050149
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-26",
+ "price": 1.052007
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-27",
+ "price": 1.057426
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-28",
+ "price": 1.05817
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-19",
+ "price": 1.06839
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-20",
+ "price": 1.067766
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-21",
+ "price": 1.067157
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-22",
+ "price": 1.069396
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-26",
+ "price": 1.073687
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-27",
+ "price": 1.07397
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-17",
+ "price": 1.061465
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-18",
+ "price": 1.059922
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-21",
+ "price": 1.062929
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-22",
+ "price": 1.061416
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-23",
+ "price": 1.061954
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-08-31",
+ "price": 1.059345
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-28",
+ "price": 1.074015
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-29",
+ "price": 1.072047
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-30",
+ "price": 1.069387
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-10-31",
+ "price": 1.069477
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-24",
+ "price": 1.062805
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-25",
+ "price": 1.064273
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-28",
+ "price": 1.062076
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-29",
+ "price": 1.062624
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-09-30",
+ "price": 1.064009
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-04",
+ "price": 1.062022
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-05",
+ "price": 1.060557
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-06",
+ "price": 1.058074
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-07",
+ "price": 1.055012
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-01",
+ "price": 1.059337
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-02",
+ "price": 1.058977
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-03",
+ "price": 1.059598
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-06",
+ "price": 1.057488
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-07",
+ "price": 1.058825
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-01",
+ "price": 1.053922
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-02",
+ "price": 1.055326
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-03",
+ "price": 1.055479
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-07",
+ "price": 1.057082
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-08",
+ "price": 1.060689
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-01",
+ "price": 1.065993
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-02",
+ "price": 1.064914
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-03",
+ "price": 1.065151
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-04",
+ "price": 1.061094
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-05",
+ "price": 1.060965
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-08",
+ "price": 1.059088
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-08",
+ "price": 1.057912
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-11",
+ "price": 1.059432
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-12",
+ "price": 1.055618
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-13",
+ "price": 1.057094
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-14",
+ "price": 1.056006
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-15",
+ "price": 1.059202
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-18",
+ "price": 1.05956
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-19",
+ "price": 1.061051
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-08",
+ "price": 1.056048
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-09",
+ "price": 1.060434
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-10",
+ "price": 1.062254
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-13",
+ "price": 1.062919
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-14",
+ "price": 1.063403
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-15",
+ "price": 1.06332
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-16",
+ "price": 1.06613
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-09",
+ "price": 1.063079
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-10",
+ "price": 1.063814
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-13",
+ "price": 1.065209
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-14",
+ "price": 1.064751
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-15",
+ "price": 1.065694
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-16",
+ "price": 1.06689
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-17",
+ "price": 1.063946
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-09",
+ "price": 1.056336
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-10",
+ "price": 1.055038
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-11",
+ "price": 1.055672
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-12",
+ "price": 1.054774
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-15",
+ "price": 1.0502
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-16",
+ "price": 1.05067
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-17",
+ "price": 1.051105
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-20",
+ "price": 1.062428
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-21",
+ "price": 1.061808
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-22",
+ "price": 1.062679
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-26",
+ "price": 1.063552
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-27",
+ "price": 1.065405
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-28",
+ "price": 1.066029
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-29",
+ "price": 1.066053
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-17",
+ "price": 1.066078
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-20",
+ "price": 1.067086
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-21",
+ "price": 1.066905
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-22",
+ "price": 1.06496
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-23",
+ "price": 1.066238
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-24",
+ "price": 1.065197
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-27",
+ "price": 1.062606
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-20",
+ "price": 1.065401
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-21",
+ "price": 1.065196
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-22",
+ "price": 1.065726
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-23",
+ "price": 1.067064
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-24",
+ "price": 1.067364
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-27",
+ "price": 1.069657
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-28",
+ "price": 1.068679
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-18",
+ "price": 1.051383
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-19",
+ "price": 1.052215
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-22",
+ "price": 1.056397
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-23",
+ "price": 1.058744
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-24",
+ "price": 1.059247
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-25",
+ "price": 1.058804
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-05-31",
+ "price": 1.066231
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-28",
+ "price": 1.062772
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-29",
+ "price": 1.06222
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-30",
+ "price": 1.061372
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-07-31",
+ "price": 1.063005
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-29",
+ "price": 1.064689
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-04-30",
+ "price": 1.061307
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-26",
+ "price": 1.059847
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-29",
+ "price": 1.055642
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-06-30",
+ "price": 1.058636
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-02",
+ "price": 1.071472
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-03",
+ "price": 1.072511
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-04",
+ "price": 1.0742
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-05",
+ "price": 1.074223
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-06",
+ "price": 1.074157
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-09",
+ "price": 1.073262
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-10",
+ "price": 1.072634
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-11",
+ "price": 1.071927
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-12",
+ "price": 1.071028
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-13",
+ "price": 1.070048
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-16",
+ "price": 1.071808
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-17",
+ "price": 1.074975
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-18",
+ "price": 1.076226
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-19",
+ "price": 1.075735
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-20",
+ "price": 1.077361
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-23",
+ "price": 1.078504
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-24",
+ "price": 1.077796
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-25",
+ "price": 1.078171
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-26",
+ "price": 1.078838
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-27",
+ "price": 1.07779
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-11-30",
+ "price": 1.077787
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-02",
+ "price": 1.096376
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-03",
+ "price": 1.093657
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-04",
+ "price": 1.091873
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-05",
+ "price": 1.092239
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-06",
+ "price": 1.09284
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-09",
+ "price": 1.094604
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-10",
+ "price": 1.095784
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-11",
+ "price": 1.094681
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-12",
+ "price": 1.094356
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-13",
+ "price": 1.093029
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-17",
+ "price": 1.092986
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-18",
+ "price": 1.093126
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-19",
+ "price": 1.090995
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-20",
+ "price": 1.093361
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-23",
+ "price": 1.09408
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-24",
+ "price": 1.0964
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-25",
+ "price": 1.096167
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-26",
+ "price": 1.09564
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-27",
+ "price": 1.096487
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-30",
+ "price": 1.097471
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-01",
+ "price": 1.099554
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-04",
+ "price": 1.099572
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-05",
+ "price": 1.09605
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-06",
+ "price": 1.095982
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-07",
+ "price": 1.093865
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-08",
+ "price": 1.095259
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-04",
+ "price": 1.071735
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-05",
+ "price": 1.072934
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-06",
+ "price": 1.071902
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-07",
+ "price": 1.069054
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-08",
+ "price": 1.067077
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-11",
+ "price": 1.06675
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-05-31",
+ "price": 1.095275
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-11",
+ "price": 1.096249
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-12",
+ "price": 1.09639
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-13",
+ "price": 1.100678
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-14",
+ "price": 1.102776
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-15",
+ "price": 1.103166
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-18",
+ "price": 1.102894
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-19",
+ "price": 1.104894
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-12",
+ "price": 1.071709
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-13",
+ "price": 1.072165
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-14",
+ "price": 1.072819
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-15",
+ "price": 1.068242
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-18",
+ "price": 1.064798
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-19",
+ "price": 1.06486
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-20",
+ "price": 1.063274
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-01",
+ "price": 1.082002
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-02",
+ "price": 1.082953
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-03",
+ "price": 1.08408
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-04",
+ "price": 1.086379
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-05",
+ "price": 1.086481
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-07",
+ "price": 1.087542
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-01",
+ "price": 1.077895
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-02",
+ "price": 1.075969
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-03",
+ "price": 1.074405
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-04",
+ "price": 1.070266
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-07",
+ "price": 1.069584
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-08",
+ "price": 1.069133
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-01",
+ "price": 1.077895
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-02",
+ "price": 1.074195
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-03",
+ "price": 1.074568
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-04",
+ "price": 1.073792
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-05",
+ "price": 1.071953
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-08",
+ "price": 1.069758
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-20",
+ "price": 1.104305
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-21",
+ "price": 1.103688
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-22",
+ "price": 1.10284
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-25",
+ "price": 1.102861
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-26",
+ "price": 1.102634
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-27",
+ "price": 1.100309
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-28",
+ "price": 1.097975
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-21",
+ "price": 1.063445
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-22",
+ "price": 1.067528
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-25",
+ "price": 1.06639
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-26",
+ "price": 1.067534
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-27",
+ "price": 1.068964
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-28",
+ "price": 1.071378
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-29",
+ "price": 1.075541
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-08",
+ "price": 1.086911
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-09",
+ "price": 1.087186
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-10",
+ "price": 1.088859
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-11",
+ "price": 1.090576
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-16",
+ "price": 1.092001
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-17",
+ "price": 1.093009
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-18",
+ "price": 1.09443
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-09",
+ "price": 1.068362
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-10",
+ "price": 1.068075
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-11",
+ "price": 1.064007
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-12",
+ "price": 1.064083
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-14",
+ "price": 1.063186
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-15",
+ "price": 1.063154
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-16",
+ "price": 1.067435
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-09",
+ "price": 1.066583
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-10",
+ "price": 1.066785
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-11",
+ "price": 1.064327
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-12",
+ "price": 1.06627
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-15",
+ "price": 1.069851
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-16",
+ "price": 1.071489
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-17",
+ "price": 1.073186
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-29",
+ "price": 1.097148
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-04-30",
+ "price": 1.097238
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-01-31",
+ "price": 1.075694
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-21",
+ "price": 1.095407
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-22",
+ "price": 1.095787
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-23",
+ "price": 1.097561
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-24",
+ "price": 1.097603
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-25",
+ "price": 1.097595
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-29",
+ "price": 1.099796
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-30",
+ "price": 1.101868
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-17",
+ "price": 1.068572
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-18",
+ "price": 1.069615
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-21",
+ "price": 1.07091
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-22",
+ "price": 1.071108
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-23",
+ "price": 1.072966
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-28",
+ "price": 1.073187
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-29",
+ "price": 1.074462
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-18",
+ "price": 1.073861
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-19",
+ "price": 1.074237
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-22",
+ "price": 1.076846
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-23",
+ "price": 1.075618
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-24",
+ "price": 1.077282
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-25",
+ "price": 1.078694
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-26",
+ "price": 1.079322
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-01",
+ "price": 1.095428
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-02",
+ "price": 1.09545
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-03",
+ "price": 1.095945
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-06",
+ "price": 1.09564
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-07",
+ "price": 1.097003
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-08",
+ "price": 1.097491
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-03-31",
+ "price": 1.101361
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-30",
+ "price": 1.073473
+},
+{
+ "name": "Klasszikus",
+ "date": "2015-12-31",
+ "price": 1.073189
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-02-29",
+ "price": 1.07852
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-09",
+ "price": 1.096457
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-10",
+ "price": 1.09359
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-13",
+ "price": 1.091092
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-14",
+ "price": 1.09067
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-15",
+ "price": 1.092437
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-16",
+ "price": 1.090931
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-17",
+ "price": 1.092563
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-20",
+ "price": 1.093786
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-21",
+ "price": 1.0957
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-22",
+ "price": 1.097165
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-23",
+ "price": 1.098086
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-24",
+ "price": 1.087143
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-27",
+ "price": 1.088789
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-28",
+ "price": 1.093786
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-29",
+ "price": 1.096267
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-06-30",
+ "price": 1.096572
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-01",
+ "price": 1.09891
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-04",
+ "price": 1.098765
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-05",
+ "price": 1.09804
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-06",
+ "price": 1.099843
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-07",
+ "price": 1.10068
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-08",
+ "price": 1.101886
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-11",
+ "price": 1.10345
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-12",
+ "price": 1.105771
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-13",
+ "price": 1.106637
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-14",
+ "price": 1.108858
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-15",
+ "price": 1.109339
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-18",
+ "price": 1.110103
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-19",
+ "price": 1.110404
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-20",
+ "price": 1.110699
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-21",
+ "price": 1.110901
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-22",
+ "price": 1.110485
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-25",
+ "price": 1.110811
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-02",
+ "price": 1.117429
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-03",
+ "price": 1.117969
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-04",
+ "price": 1.116423
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-07",
+ "price": 1.118408
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-08",
+ "price": 1.118793
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-09",
+ "price": 1.117123
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-10",
+ "price": 1.11389
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-11",
+ "price": 1.112773
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-14",
+ "price": 1.110232
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-01",
+ "price": 1.132748
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-02",
+ "price": 1.131793
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-03",
+ "price": 1.133265
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-06",
+ "price": 1.132664
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-07",
+ "price": 1.132895
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-08",
+ "price": 1.13292
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-09",
+ "price": 1.134426
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-10",
+ "price": 1.135327
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-13",
+ "price": 1.13572
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-26",
+ "price": 1.111964
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-27",
+ "price": 1.111937
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-28",
+ "price": 1.112425
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-29",
+ "price": 1.112092
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-07-31",
+ "price": 1.112349
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-15",
+ "price": 1.112342
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-16",
+ "price": 1.110595
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-17",
+ "price": 1.1107
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-18",
+ "price": 1.109924
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-21",
+ "price": 1.110557
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-22",
+ "price": 1.112055
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-23",
+ "price": 1.112752
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-24",
+ "price": 1.11376
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-25",
+ "price": 1.114116
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-28",
+ "price": 1.115143
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-14",
+ "price": 1.136903
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-15",
+ "price": 1.137611
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-16",
+ "price": 1.136998
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-17",
+ "price": 1.136461
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-20",
+ "price": 1.137305
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-21",
+ "price": 1.139245
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-22",
+ "price": 1.140086
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-23",
+ "price": 1.139719
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-24",
+ "price": 1.1377
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-27",
+ "price": 1.137896
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-29",
+ "price": 1.116377
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-11-30",
+ "price": 1.116671
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-02-28",
+ "price": 1.13644
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-03",
+ "price": 1.115146
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-04",
+ "price": 1.116242
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-05",
+ "price": 1.115195
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-06",
+ "price": 1.114419
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-07",
+ "price": 1.112935
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-10",
+ "price": 1.1128
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-01",
+ "price": 1.111554
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-02",
+ "price": 1.109351
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-03",
+ "price": 1.107128
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-04",
+ "price": 1.109179
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-05",
+ "price": 1.110472
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-01",
+ "price": 1.112841
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-02",
+ "price": 1.112678
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-05",
+ "price": 1.113568
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-06",
+ "price": 1.115359
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-07",
+ "price": 1.116245
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-01",
+ "price": 1.115143
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-02",
+ "price": 1.114112
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-05",
+ "price": 1.116048
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-06",
+ "price": 1.117319
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-07",
+ "price": 1.120188
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-08",
+ "price": 1.121769
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-09",
+ "price": 1.123842
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-12",
+ "price": 1.123629
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-13",
+ "price": 1.126776
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-11",
+ "price": 1.111417
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-12",
+ "price": 1.111878
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-13",
+ "price": 1.111317
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-14",
+ "price": 1.111366
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-15",
+ "price": 1.111441
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-17",
+ "price": 1.112707
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-08",
+ "price": 1.111246
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-09",
+ "price": 1.111987
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-10",
+ "price": 1.112373
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-11",
+ "price": 1.115021
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-12",
+ "price": 1.115097
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-15",
+ "price": 1.115714
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-16",
+ "price": 1.114826
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-08",
+ "price": 1.115755
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-09",
+ "price": 1.112672
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-12",
+ "price": 1.112521
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-13",
+ "price": 1.111283
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-14",
+ "price": 1.110878
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-15",
+ "price": 1.111865
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-14",
+ "price": 1.126513
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-15",
+ "price": 1.126388
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-16",
+ "price": 1.127292
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-19",
+ "price": 1.128043
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-20",
+ "price": 1.13027
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-21",
+ "price": 1.131122
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-22",
+ "price": 1.130536
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-23",
+ "price": 1.130772
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-27",
+ "price": 1.130439
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-28",
+ "price": 1.130545
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-29",
+ "price": 1.131275
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-02",
+ "price": 1.132773
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-03",
+ "price": 1.133446
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-04",
+ "price": 1.134553
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-05",
+ "price": 1.134647
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-06",
+ "price": 1.132738
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-09",
+ "price": 1.131511
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-10",
+ "price": 1.13096
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-11",
+ "price": 1.133074
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-12",
+ "price": 1.132042
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-13",
+ "price": 1.131645
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-18",
+ "price": 1.115068
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-19",
+ "price": 1.116622
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-20",
+ "price": 1.119126
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-21",
+ "price": 1.120801
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-24",
+ "price": 1.123198
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-25",
+ "price": 1.123545
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-17",
+ "price": 1.113752
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-18",
+ "price": 1.114067
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-19",
+ "price": 1.113174
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-22",
+ "price": 1.112537
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-23",
+ "price": 1.112525
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-16",
+ "price": 1.111293
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-19",
+ "price": 1.114928
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-20",
+ "price": 1.115433
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-21",
+ "price": 1.116661
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-22",
+ "price": 1.117226
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-23",
+ "price": 1.115654
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-30",
+ "price": 1.131667
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-12-31",
+ "price": 1.131732
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-16",
+ "price": 1.13154
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-17",
+ "price": 1.131155
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-18",
+ "price": 1.130698
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-19",
+ "price": 1.130646
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-20",
+ "price": 1.130819
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-23",
+ "price": 1.131322
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-24",
+ "price": 1.132167
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-25",
+ "price": 1.133251
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-26",
+ "price": 1.13373
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-26",
+ "price": 1.123257
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-27",
+ "price": 1.122171
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-28",
+ "price": 1.122314
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-10-31",
+ "price": 1.122164
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-24",
+ "price": 1.113166
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-25",
+ "price": 1.111911
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-26",
+ "price": 1.111134
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-29",
+ "price": 1.11245
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-30",
+ "price": 1.113361
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-08-31",
+ "price": 1.113208
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-26",
+ "price": 1.11373
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-27",
+ "price": 1.114279
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-28",
+ "price": 1.114823
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-29",
+ "price": 1.114947
+},
+{
+ "name": "Klasszikus",
+ "date": "2016-09-30",
+ "price": 1.114978
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-27",
+ "price": 1.134202
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-30",
+ "price": 1.133067
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-01-31",
+ "price": 1.133349
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-03",
+ "price": 1.143122
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-04",
+ "price": 1.143348
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-05",
+ "price": 1.144234
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-06",
+ "price": 1.145191
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-07",
+ "price": 1.145204
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-10",
+ "price": 1.145338
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-11",
+ "price": 1.145031
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-12",
+ "price": 1.144645
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-13",
+ "price": 1.145715
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-18",
+ "price": 1.14614
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-19",
+ "price": 1.146046
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-20",
+ "price": 1.14686
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-21",
+ "price": 1.14735
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-24",
+ "price": 1.148347
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-25",
+ "price": 1.149984
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-26",
+ "price": 1.149406
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-27",
+ "price": 1.150014
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-28",
+ "price": 1.150248
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-04-30",
+ "price": 1.150375
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-02",
+ "price": 1.151216
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-03",
+ "price": 1.149166
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-04",
+ "price": 1.14957
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-05",
+ "price": 1.151246
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-08",
+ "price": 1.151717
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-09",
+ "price": 1.154584
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-10",
+ "price": 1.156088
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-11",
+ "price": 1.15663
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-12",
+ "price": 1.1581
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-15",
+ "price": 1.158452
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-16",
+ "price": 1.156432
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-17",
+ "price": 1.154463
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-18",
+ "price": 1.153499
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-19",
+ "price": 1.154962
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-22",
+ "price": 1.155598
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-23",
+ "price": 1.154526
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-24",
+ "price": 1.155809
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-25",
+ "price": 1.156184
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-26",
+ "price": 1.155866
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-29",
+ "price": 1.155732
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-30",
+ "price": 1.155974
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-05-31",
+ "price": 1.155931
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-03",
+ "price": 1.155559
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-04",
+ "price": 1.155491
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-05",
+ "price": 1.156115
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-06",
+ "price": 1.154934
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-07",
+ "price": 1.153259
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-10",
+ "price": 1.15489
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-11",
+ "price": 1.15536
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-12",
+ "price": 1.157028
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-01",
+ "price": 1.139384
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-02",
+ "price": 1.137952
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-03",
+ "price": 1.139394
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-06",
+ "price": 1.138378
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-07",
+ "price": 1.136979
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-08",
+ "price": 1.136493
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-09",
+ "price": 1.136006
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-10",
+ "price": 1.135214
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-13",
+ "price": 1.136609
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-13",
+ "price": 1.159639
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-14",
+ "price": 1.15984
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-17",
+ "price": 1.159975
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-18",
+ "price": 1.159309
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-19",
+ "price": 1.160188
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-20",
+ "price": 1.158171
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-21",
+ "price": 1.156154
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-24",
+ "price": 1.155152
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-25",
+ "price": 1.15497
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-26",
+ "price": 1.156476
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-27",
+ "price": 1.155882
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-14",
+ "price": 1.136041
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-16",
+ "price": 1.138022
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-17",
+ "price": 1.136612
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-20",
+ "price": 1.135964
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-21",
+ "price": 1.133595
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-22",
+ "price": 1.134971
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-23",
+ "price": 1.136439
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-24",
+ "price": 1.13757
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-27",
+ "price": 1.137592
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-28",
+ "price": 1.139199
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-02",
+ "price": 1.179371
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-03",
+ "price": 1.181006
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-04",
+ "price": 1.180274
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-05",
+ "price": 1.180916
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-06",
+ "price": 1.180936
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-09",
+ "price": 1.180529
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-10",
+ "price": 1.180063
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-11",
+ "price": 1.182265
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-12",
+ "price": 1.182762
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-01",
+ "price": 1.155972
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-02",
+ "price": 1.157915
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-06",
+ "price": 1.156896
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-07",
+ "price": 1.1576
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-08",
+ "price": 1.158631
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-09",
+ "price": 1.159339
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-12",
+ "price": 1.158215
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-13",
+ "price": 1.159366
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-01",
+ "price": 1.16579
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-04",
+ "price": 1.165439
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-05",
+ "price": 1.166205
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-06",
+ "price": 1.16734
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-07",
+ "price": 1.166991
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-08",
+ "price": 1.166166
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-11",
+ "price": 1.169794
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-12",
+ "price": 1.170865
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-13",
+ "price": 1.170916
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-28",
+ "price": 1.155367
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-07-31",
+ "price": 1.155184
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-29",
+ "price": 1.141422
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-30",
+ "price": 1.142206
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-03-31",
+ "price": 1.140878
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-13",
+ "price": 1.18405
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-16",
+ "price": 1.185696
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-17",
+ "price": 1.185697
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-18",
+ "price": 1.186536
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-19",
+ "price": 1.185007
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-20",
+ "price": 1.18484
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-24",
+ "price": 1.1845
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-25",
+ "price": 1.186209
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-26",
+ "price": 1.185132
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-14",
+ "price": 1.159524
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-15",
+ "price": 1.158112
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-16",
+ "price": 1.158573
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-19",
+ "price": 1.160521
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-20",
+ "price": 1.159864
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-21",
+ "price": 1.160955
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-22",
+ "price": 1.160509
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-23",
+ "price": 1.160642
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-26",
+ "price": 1.161981
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-14",
+ "price": 1.173359
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-15",
+ "price": 1.174206
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-18",
+ "price": 1.175132
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-19",
+ "price": 1.17491
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-20",
+ "price": 1.175173
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-21",
+ "price": 1.17756
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-22",
+ "price": 1.178551
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-25",
+ "price": 1.179438
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-26",
+ "price": 1.179908
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-27",
+ "price": 1.179799
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-01",
+ "price": 1.15346
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-02",
+ "price": 1.153899
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-03",
+ "price": 1.155218
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-04",
+ "price": 1.156691
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-07",
+ "price": 1.158693
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-08",
+ "price": 1.159586
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-09",
+ "price": 1.159333
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-10",
+ "price": 1.157427
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-27",
+ "price": 1.187721
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-30",
+ "price": 1.187849
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-10-31",
+ "price": 1.188043
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-27",
+ "price": 1.160315
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-28",
+ "price": 1.158111
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-29",
+ "price": 1.155271
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-06-30",
+ "price": 1.155294
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-28",
+ "price": 1.177224
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-29",
+ "price": 1.178531
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-09-30",
+ "price": 1.178585
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-11",
+ "price": 1.156277
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-14",
+ "price": 1.156181
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-15",
+ "price": 1.156701
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-16",
+ "price": 1.158169
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-17",
+ "price": 1.157412
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-18",
+ "price": 1.156835
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-21",
+ "price": 1.157702
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-22",
+ "price": 1.159973
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-23",
+ "price": 1.160104
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-24",
+ "price": 1.162331
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-25",
+ "price": 1.16508
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-28",
+ "price": 1.164785
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-29",
+ "price": 1.162782
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-30",
+ "price": 1.164883
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-08-31",
+ "price": 1.166516
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-02",
+ "price": 1.189214
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-03",
+ "price": 1.188487
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-06",
+ "price": 1.190337
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-07",
+ "price": 1.19046
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-08",
+ "price": 1.191444
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-09",
+ "price": 1.192599
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-10",
+ "price": 1.189975
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-13",
+ "price": 1.189375
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-14",
+ "price": 1.187609
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-15",
+ "price": 1.185354
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-16",
+ "price": 1.187582
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-17",
+ "price": 1.188077
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-20",
+ "price": 1.188842
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-21",
+ "price": 1.19158
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-22",
+ "price": 1.19433
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-23",
+ "price": 1.195299
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-24",
+ "price": 1.194141
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-27",
+ "price": 1.191715
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-28",
+ "price": 1.192259
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-29",
+ "price": 1.18958
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-11-30",
+ "price": 1.190093
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-01",
+ "price": 1.188985
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-04",
+ "price": 1.188985
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-05",
+ "price": 1.188953
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-06",
+ "price": 1.188409
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-07",
+ "price": 1.19033
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-08",
+ "price": 1.191666
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-11",
+ "price": 1.189978
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-12",
+ "price": 1.190498
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-13",
+ "price": 1.191072
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-02",
+ "price": 1.184464
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-03",
+ "price": 1.182637
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-04",
+ "price": 1.182929
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-07",
+ "price": 1.182073
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-08",
+ "price": 1.180595
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-09",
+ "price": 1.17945
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-10",
+ "price": 1.180981
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-11",
+ "price": 1.182282
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-14",
+ "price": 1.181329
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-14",
+ "price": 1.191286
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-15",
+ "price": 1.1923
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-18",
+ "price": 1.19609
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-19",
+ "price": 1.196763
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-20",
+ "price": 1.196256
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-21",
+ "price": 1.195909
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-22",
+ "price": 1.195819
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-27",
+ "price": 1.196177
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-28",
+ "price": 1.195694
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-29",
+ "price": 1.195514
+},
+{
+ "name": "Klasszikus",
+ "date": "2017-12-31",
+ "price": 1.195626
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-15",
+ "price": 1.175893
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-16",
+ "price": 1.175733
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-17",
+ "price": 1.172496
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-18",
+ "price": 1.171197
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-22",
+ "price": 1.168507
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-23",
+ "price": 1.166246
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-24",
+ "price": 1.17072
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-25",
+ "price": 1.170484
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-28",
+ "price": 1.170661
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-29",
+ "price": 1.16806
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-01",
+ "price": 1.170607
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-04",
+ "price": 1.174112
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-05",
+ "price": 1.174431
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-06",
+ "price": 1.175918
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-07",
+ "price": 1.173686
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-08",
+ "price": 1.1724
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-11",
+ "price": 1.171212
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-12",
+ "price": 1.16946
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-13",
+ "price": 1.164071
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-02",
+ "price": 1.195393
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-03",
+ "price": 1.197497
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-04",
+ "price": 1.201455
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-05",
+ "price": 1.204293
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-08",
+ "price": 1.205647
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-09",
+ "price": 1.205567
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-10",
+ "price": 1.204487
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-11",
+ "price": 1.205936
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-12",
+ "price": 1.205376
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-01",
+ "price": 1.186324
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-02",
+ "price": 1.18226
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-05",
+ "price": 1.183635
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-06",
+ "price": 1.184547
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-07",
+ "price": 1.184074
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-08",
+ "price": 1.183798
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-09",
+ "price": 1.186836
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-10",
+ "price": 1.186893
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-12",
+ "price": 1.187797
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-30",
+ "price": 1.166977
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-05-31",
+ "price": 1.166649
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-14",
+ "price": 1.163483
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-15",
+ "price": 1.165181
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-18",
+ "price": 1.161673
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-19",
+ "price": 1.158783
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-20",
+ "price": 1.159909
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-21",
+ "price": 1.159161
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-22",
+ "price": 1.158948
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-25",
+ "price": 1.15789
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-26",
+ "price": 1.158098
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-27",
+ "price": 1.158904
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-15",
+ "price": 1.203829
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-16",
+ "price": 1.20416
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-17",
+ "price": 1.205551
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-18",
+ "price": 1.203569
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-19",
+ "price": 1.201749
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-22",
+ "price": 1.204664
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-23",
+ "price": 1.208405
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-24",
+ "price": 1.205581
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-25",
+ "price": 1.203664
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-26",
+ "price": 1.205237
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-13",
+ "price": 1.186592
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-14",
+ "price": 1.18655
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-19",
+ "price": 1.184168
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-20",
+ "price": 1.185371
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-21",
+ "price": 1.186488
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-22",
+ "price": 1.184362
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-23",
+ "price": 1.181852
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-26",
+ "price": 1.183538
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-27",
+ "price": 1.183042
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-28",
+ "price": 1.182737
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-01",
+ "price": 1.197009
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-02",
+ "price": 1.190678
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-05",
+ "price": 1.18293
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-06",
+ "price": 1.182145
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-07",
+ "price": 1.184238
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-08",
+ "price": 1.181421
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-09",
+ "price": 1.182373
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-12",
+ "price": 1.184462
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-13",
+ "price": 1.186259
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-28",
+ "price": 1.159126
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-29",
+ "price": 1.161628
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-06-30",
+ "price": 1.161687
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-29",
+ "price": 1.201783
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-30",
+ "price": 1.199956
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-01-31",
+ "price": 1.199738
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-29",
+ "price": 1.185437
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-03-31",
+ "price": 1.185655
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-14",
+ "price": 1.18814
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-15",
+ "price": 1.186626
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-16",
+ "price": 1.187192
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-19",
+ "price": 1.187101
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-20",
+ "price": 1.185882
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-21",
+ "price": 1.188286
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-22",
+ "price": 1.187768
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-23",
+ "price": 1.189652
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-26",
+ "price": 1.192173
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-27",
+ "price": 1.189494
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-03",
+ "price": 1.185834
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-04",
+ "price": 1.183944
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-05",
+ "price": 1.184749
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-06",
+ "price": 1.182928
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-09",
+ "price": 1.184774
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-10",
+ "price": 1.186224
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-11",
+ "price": 1.185842
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-12",
+ "price": 1.187383
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-02-28",
+ "price": 1.189133
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-13",
+ "price": 1.185735
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-16",
+ "price": 1.184543
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-17",
+ "price": 1.185541
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-18",
+ "price": 1.187243
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-19",
+ "price": 1.186155
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-20",
+ "price": 1.184265
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-21",
+ "price": 1.184322
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-23",
+ "price": 1.183734
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-24",
+ "price": 1.183817
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-25",
+ "price": 1.182949
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-26",
+ "price": 1.185079
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-27",
+ "price": 1.186944
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-04-30",
+ "price": 1.18648
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-01",
+ "price": 1.17018
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-02",
+ "price": 1.164924
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-03",
+ "price": 1.166445
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-06",
+ "price": 1.166684
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-07",
+ "price": 1.165881
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-08",
+ "price": 1.160925
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-09",
+ "price": 1.1592
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-10",
+ "price": 1.155481
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-13",
+ "price": 1.149404
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-14",
+ "price": 1.151639
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-15",
+ "price": 1.148951
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-16",
+ "price": 1.147837
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-17",
+ "price": 1.148644
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-21",
+ "price": 1.152364
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-22",
+ "price": 1.152837
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-23",
+ "price": 1.152829
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-24",
+ "price": 1.154006
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-27",
+ "price": 1.156502
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-28",
+ "price": 1.156168
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-29",
+ "price": 1.156237
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-30",
+ "price": 1.153232
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-08-31",
+ "price": 1.152628
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-01",
+ "price": 1.164803
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-03",
+ "price": 1.166537
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-04",
+ "price": 1.165714
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-05",
+ "price": 1.165208
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-06",
+ "price": 1.162143
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-07",
+ "price": 1.160076
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-10",
+ "price": 1.1569
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-11",
+ "price": 1.158757
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-12",
+ "price": 1.160707
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-03",
+ "price": 1.15277
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-04",
+ "price": 1.15128
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-05",
+ "price": 1.149638
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-06",
+ "price": 1.148346
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-07",
+ "price": 1.148486
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-10",
+ "price": 1.148997
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-11",
+ "price": 1.145783
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-12",
+ "price": 1.145026
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-13",
+ "price": 1.145973
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-05",
+ "price": 1.147988
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-06",
+ "price": 1.149453
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-07",
+ "price": 1.152118
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-08",
+ "price": 1.15022
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-09",
+ "price": 1.149533
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-10",
+ "price": 1.149584
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-12",
+ "price": 1.147591
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-13",
+ "price": 1.148244
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-14",
+ "price": 1.150254
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-13",
+ "price": 1.16086
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-14",
+ "price": 1.160067
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-15",
+ "price": 1.160119
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-17",
+ "price": 1.156939
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-18",
+ "price": 1.156267
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-19",
+ "price": 1.154763
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-20",
+ "price": 1.152739
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-21",
+ "price": 1.151807
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-27",
+ "price": 1.154665
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-28",
+ "price": 1.155803
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-14",
+ "price": 1.144848
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-17",
+ "price": 1.143163
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-18",
+ "price": 1.142305
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-19",
+ "price": 1.145264
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-20",
+ "price": 1.145823
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-21",
+ "price": 1.146063
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-24",
+ "price": 1.146723
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-25",
+ "price": 1.146661
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-26",
+ "price": 1.147316
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-15",
+ "price": 1.151048
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-16",
+ "price": 1.150472
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-19",
+ "price": 1.148918
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-20",
+ "price": 1.147898
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-21",
+ "price": 1.151261
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-22",
+ "price": 1.152577
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-23",
+ "price": 1.151907
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-26",
+ "price": 1.156465
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-27",
+ "price": 1.158568
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-12-31",
+ "price": 1.156275
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-27",
+ "price": 1.149205
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-28",
+ "price": 1.151279
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-09-30",
+ "price": 1.151382
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-28",
+ "price": 1.162621
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-29",
+ "price": 1.161687
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-11-30",
+ "price": 1.164749
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-02",
+ "price": 1.159886
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-03",
+ "price": 1.157811
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-04",
+ "price": 1.160591
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-05",
+ "price": 1.159978
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-06",
+ "price": 1.160506
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-09",
+ "price": 1.161747
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-10",
+ "price": 1.162827
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-11",
+ "price": 1.160799
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-02",
+ "price": 1.160346
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-03",
+ "price": 1.160182
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-04",
+ "price": 1.163071
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-07",
+ "price": 1.163843
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-08",
+ "price": 1.162907
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-09",
+ "price": 1.166013
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-10",
+ "price": 1.166171
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-11",
+ "price": 1.165996
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-12",
+ "price": 1.162327
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-13",
+ "price": 1.162491
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-16",
+ "price": 1.160176
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-17",
+ "price": 1.16028
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-18",
+ "price": 1.163527
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-19",
+ "price": 1.164089
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-20",
+ "price": 1.164437
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-23",
+ "price": 1.164389
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-24",
+ "price": 1.165998
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-25",
+ "price": 1.166984
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-14",
+ "price": 1.167329
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-15",
+ "price": 1.170712
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-16",
+ "price": 1.170528
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-17",
+ "price": 1.16835
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-18",
+ "price": 1.167722
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-21",
+ "price": 1.166825
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-22",
+ "price": 1.165656
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-23",
+ "price": 1.166368
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-24",
+ "price": 1.168513
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-25",
+ "price": 1.17072
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-01",
+ "price": 1.150858
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-02",
+ "price": 1.151196
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-03",
+ "price": 1.150629
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-04",
+ "price": 1.148736
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-05",
+ "price": 1.14693
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-08",
+ "price": 1.146358
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-09",
+ "price": 1.144201
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-10",
+ "price": 1.138353
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-11",
+ "price": 1.135013
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-12",
+ "price": 1.136008
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-01",
+ "price": 1.174296
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-04",
+ "price": 1.175067
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-05",
+ "price": 1.175295
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-06",
+ "price": 1.17731
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-07",
+ "price": 1.176286
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-08",
+ "price": 1.174812
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-11",
+ "price": 1.175337
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-12",
+ "price": 1.175998
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-13",
+ "price": 1.175623
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-14",
+ "price": 1.174861
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-26",
+ "price": 1.170736
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-27",
+ "price": 1.171752
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-30",
+ "price": 1.170737
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-07-31",
+ "price": 1.169681
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-28",
+ "price": 1.168239
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-29",
+ "price": 1.16802
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-30",
+ "price": 1.169087
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-01-31",
+ "price": 1.170653
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-13",
+ "price": 1.136059
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-15",
+ "price": 1.136563
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-16",
+ "price": 1.13967
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-17",
+ "price": 1.141908
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-18",
+ "price": 1.140919
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-19",
+ "price": 1.141336
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-24",
+ "price": 1.137601
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-25",
+ "price": 1.139522
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-26",
+ "price": 1.137729
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-29",
+ "price": 1.139626
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-15",
+ "price": 1.175613
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-18",
+ "price": 1.176203
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-19",
+ "price": 1.176934
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-20",
+ "price": 1.178462
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-21",
+ "price": 1.178155
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-22",
+ "price": 1.179063
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-25",
+ "price": 1.180568
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-26",
+ "price": 1.179812
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-27",
+ "price": 1.177666
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-02-28",
+ "price": 1.176622
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-30",
+ "price": 1.142981
+},
+{
+ "name": "Klasszikus",
+ "date": "2018-10-31",
+ "price": 1.144517
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-01",
+ "price": 1.207522
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-02",
+ "price": 1.209819
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-03",
+ "price": 1.214256
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-04",
+ "price": 1.215556
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-05",
+ "price": 1.215801
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-08",
+ "price": 1.214752
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-09",
+ "price": 1.21468
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-10",
+ "price": 1.213784
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-11",
+ "price": 1.213526
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-12",
+ "price": 1.212141
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-15",
+ "price": 1.212632
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-16",
+ "price": 1.213858
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-17",
+ "price": 1.21419
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-18",
+ "price": 1.21564
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-19",
+ "price": 1.216959
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-22",
+ "price": 1.217048
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-23",
+ "price": 1.220102
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-24",
+ "price": 1.223046
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-25",
+ "price": 1.223011
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-26",
+ "price": 1.222058
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-29",
+ "price": 1.222271
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-30",
+ "price": 1.2203
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-07-31",
+ "price": 1.219371
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-02",
+ "price": 1.226038
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-03",
+ "price": 1.22571
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-04",
+ "price": 1.22454
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-05",
+ "price": 1.224492
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-06",
+ "price": 1.223581
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-09",
+ "price": 1.224979
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-10",
+ "price": 1.224208
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-11",
+ "price": 1.22829
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-12",
+ "price": 1.230398
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-13",
+ "price": 1.230207
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-01",
+ "price": 1.216944
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-02",
+ "price": 1.219126
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-05",
+ "price": 1.217363
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-06",
+ "price": 1.216659
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-07",
+ "price": 1.217601
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-08",
+ "price": 1.220261
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-09",
+ "price": 1.220257
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-10",
+ "price": 1.22031
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-12",
+ "price": 1.221306
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-16",
+ "price": 1.231427
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-17",
+ "price": 1.231996
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-18",
+ "price": 1.232878
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-19",
+ "price": 1.232769
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-20",
+ "price": 1.233304
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-23",
+ "price": 1.235072
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-24",
+ "price": 1.235251
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-25",
+ "price": 1.234067
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-26",
+ "price": 1.23273
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-27",
+ "price": 1.233815
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-13",
+ "price": 1.224315
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-14",
+ "price": 1.223846
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-15",
+ "price": 1.223814
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-16",
+ "price": 1.224914
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-21",
+ "price": 1.224686
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-22",
+ "price": 1.221031
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-23",
+ "price": 1.218354
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-26",
+ "price": 1.221165
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-27",
+ "price": 1.222045
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-28",
+ "price": 1.222535
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-09-30",
+ "price": 1.232533
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-29",
+ "price": 1.22401
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-30",
+ "price": 1.224774
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-08-31",
+ "price": 1.224826
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-02",
+ "price": 1.192948
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-03",
+ "price": 1.192564
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-06",
+ "price": 1.190783
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-07",
+ "price": 1.187652
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-08",
+ "price": 1.18774
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-09",
+ "price": 1.186248
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-10",
+ "price": 1.186493
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-13",
+ "price": 1.183678
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-14",
+ "price": 1.185511
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-15",
+ "price": 1.187788
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-16",
+ "price": 1.188824
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-17",
+ "price": 1.18771
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-20",
+ "price": 1.186851
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-21",
+ "price": 1.187899
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-22",
+ "price": 1.188881
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-23",
+ "price": 1.188779
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-24",
+ "price": 1.188862
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-27",
+ "price": 1.189357
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-01",
+ "price": 1.17547
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-04",
+ "price": 1.17652
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-05",
+ "price": 1.176285
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-06",
+ "price": 1.177666
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-07",
+ "price": 1.175297
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-08",
+ "price": 1.17588
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-11",
+ "price": 1.177918
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-12",
+ "price": 1.177348
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-13",
+ "price": 1.177738
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-03",
+ "price": 1.19752
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-04",
+ "price": 1.195667
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-05",
+ "price": 1.195269
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-06",
+ "price": 1.197313
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-07",
+ "price": 1.197695
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-11",
+ "price": 1.199146
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-12",
+ "price": 1.198256
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-13",
+ "price": 1.199754
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-14",
+ "price": 1.200124
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-17",
+ "price": 1.200738
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-01",
+ "price": 1.230108
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-02",
+ "price": 1.227086
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-03",
+ "price": 1.228537
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-04",
+ "price": 1.231194
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-07",
+ "price": 1.231047
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-08",
+ "price": 1.228804
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-09",
+ "price": 1.230359
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-10",
+ "price": 1.228782
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-11",
+ "price": 1.230557
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-01",
+ "price": 1.193545
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-02",
+ "price": 1.194343
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-03",
+ "price": 1.193877
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-04",
+ "price": 1.193351
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-05",
+ "price": 1.193716
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-08",
+ "price": 1.193567
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-09",
+ "price": 1.191354
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-10",
+ "price": 1.192973
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-11",
+ "price": 1.193052
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-28",
+ "price": 1.190711
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-29",
+ "price": 1.192239
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-30",
+ "price": 1.193139
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-05-31",
+ "price": 1.194441
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-14",
+ "price": 1.177633
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-18",
+ "price": 1.181153
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-19",
+ "price": 1.181977
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-20",
+ "price": 1.182111
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-21",
+ "price": 1.185702
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-22",
+ "price": 1.185435
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-25",
+ "price": 1.185456
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-26",
+ "price": 1.185578
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-27",
+ "price": 1.189348
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-28",
+ "price": 1.190172
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-18",
+ "price": 1.205997
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-19",
+ "price": 1.206072
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-20",
+ "price": 1.20842
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-21",
+ "price": 1.206333
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-24",
+ "price": 1.206469
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-25",
+ "price": 1.204419
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-26",
+ "price": 1.203731
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-27",
+ "price": 1.204584
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-28",
+ "price": 1.205206
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-06-30",
+ "price": 1.205306
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-14",
+ "price": 1.230849
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-15",
+ "price": 1.232936
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-16",
+ "price": 1.232201
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-17",
+ "price": 1.231089
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-18",
+ "price": 1.230675
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-21",
+ "price": 1.231843
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-22",
+ "price": 1.233974
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-24",
+ "price": 1.235774
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-25",
+ "price": 1.235757
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-28",
+ "price": 1.237144
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-29",
+ "price": 1.23837
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-12",
+ "price": 1.192616
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-15",
+ "price": 1.190832
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-16",
+ "price": 1.191958
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-17",
+ "price": 1.191235
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-18",
+ "price": 1.193579
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-23",
+ "price": 1.194926
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-24",
+ "price": 1.195477
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-25",
+ "price": 1.195331
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-26",
+ "price": 1.196083
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-29",
+ "price": 1.195199
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-29",
+ "price": 1.192023
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-03-31",
+ "price": 1.192126
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-30",
+ "price": 1.239228
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-10-31",
+ "price": 1.237549
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-04-30",
+ "price": 1.194012
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-02",
+ "price": 1.25269
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-03",
+ "price": 1.254151
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-06",
+ "price": 1.251482
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-07",
+ "price": 1.251062
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-08",
+ "price": 1.25203
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-09",
+ "price": 1.254779
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-10",
+ "price": 1.256565
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-13",
+ "price": 1.258291
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-14",
+ "price": 1.254921
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-15",
+ "price": 1.254702
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-16",
+ "price": 1.254483
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-17",
+ "price": 1.255355
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-20",
+ "price": 1.256537
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-21",
+ "price": 1.252512
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-22",
+ "price": 1.253571
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-23",
+ "price": 1.253882
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-24",
+ "price": 1.254925
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-27",
+ "price": 1.252494
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-28",
+ "price": 1.251611
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-29",
+ "price": 1.250479
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-30",
+ "price": 1.250269
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-01-31",
+ "price": 1.246477
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-01",
+ "price": 1.186252
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-02",
+ "price": 1.190422
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-03",
+ "price": 1.186122
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-06",
+ "price": 1.197758
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-07",
+ "price": 1.195593
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-08",
+ "price": 1.197165
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-09",
+ "price": 1.199291
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-14",
+ "price": 1.201761
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-15",
+ "price": 1.198038
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-03",
+ "price": 1.248842
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-04",
+ "price": 1.24999
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-05",
+ "price": 1.25213
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-06",
+ "price": 1.254853
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-07",
+ "price": 1.255676
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-10",
+ "price": 1.256697
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-11",
+ "price": 1.258193
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-12",
+ "price": 1.259502
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-13",
+ "price": 1.255548
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-04",
+ "price": 1.240421
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-05",
+ "price": 1.242249
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-06",
+ "price": 1.243258
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-07",
+ "price": 1.245211
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-08",
+ "price": 1.241426
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-11",
+ "price": 1.243407
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-12",
+ "price": 1.243326
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-13",
+ "price": 1.245113
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-14",
+ "price": 1.243971
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-16",
+ "price": 1.198636
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-17",
+ "price": 1.204371
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-20",
+ "price": 1.204578
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-21",
+ "price": 1.19851
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-22",
+ "price": 1.202303
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-23",
+ "price": 1.204447
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-24",
+ "price": 1.206256
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-27",
+ "price": 1.206337
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-28",
+ "price": 1.208526
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-14",
+ "price": 1.251699
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-17",
+ "price": 1.2495
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-18",
+ "price": 1.251239
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-19",
+ "price": 1.253191
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-20",
+ "price": 1.250469
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-21",
+ "price": 1.251282
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-24",
+ "price": 1.24505
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-25",
+ "price": 1.239657
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-15",
+ "price": 1.245074
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-18",
+ "price": 1.245638
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-19",
+ "price": 1.244971
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-20",
+ "price": 1.245401
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-21",
+ "price": 1.245438
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-22",
+ "price": 1.247293
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-25",
+ "price": 1.250441
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-26",
+ "price": 1.251387
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-27",
+ "price": 1.251619
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-29",
+ "price": 1.220382
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-04-30",
+ "price": 1.216547
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-26",
+ "price": 1.239639
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-27",
+ "price": 1.23109
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-28",
+ "price": 1.225223
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-02-29",
+ "price": 1.225276
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-28",
+ "price": 1.251542
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-29",
+ "price": 1.248216
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-11-30",
+ "price": 1.248274
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-02",
+ "price": 1.242815
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-03",
+ "price": 1.241272
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-04",
+ "price": 1.243988
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-05",
+ "price": 1.243933
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-06",
+ "price": 1.24559
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-07",
+ "price": 1.245649
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-09",
+ "price": 1.249048
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-10",
+ "price": 1.247212
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-02",
+ "price": 1.232453
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-03",
+ "price": 1.233653
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-04",
+ "price": 1.237629
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-05",
+ "price": 1.233687
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-06",
+ "price": 1.227776
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-09",
+ "price": 1.212939
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-10",
+ "price": 1.216328
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-11",
+ "price": 1.206488
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-12",
+ "price": 1.177196
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-13",
+ "price": 1.182289
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-02",
+ "price": 1.226144
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-03",
+ "price": 1.231084
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-04",
+ "price": 1.230104
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-05",
+ "price": 1.232046
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-08",
+ "price": 1.23204
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-09",
+ "price": 1.231915
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-10",
+ "price": 1.228031
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-11",
+ "price": 1.221878
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-12",
+ "price": 1.226178
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-04",
+ "price": 1.210397
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-05",
+ "price": 1.212734
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-06",
+ "price": 1.211359
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-07",
+ "price": 1.212539
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-08",
+ "price": 1.214861
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-11",
+ "price": 1.215235
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-12",
+ "price": 1.216536
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-13",
+ "price": 1.215159
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-14",
+ "price": 1.216386
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-15",
+ "price": 1.216231
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-11",
+ "price": 1.247224
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-12",
+ "price": 1.249095
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-13",
+ "price": 1.247988
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-14",
+ "price": 1.248045
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-16",
+ "price": 1.250518
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-17",
+ "price": 1.251093
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-18",
+ "price": 1.252628
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-19",
+ "price": 1.251269
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-20",
+ "price": 1.250605
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-23",
+ "price": 1.252896
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-30",
+ "price": 1.25072
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-16",
+ "price": 1.155119
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-17",
+ "price": 1.16952
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-18",
+ "price": 1.15275
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-19",
+ "price": 1.163156
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-20",
+ "price": 1.164043
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-23",
+ "price": 1.166844
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-24",
+ "price": 1.186993
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-25",
+ "price": 1.188403
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-26",
+ "price": 1.19844
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-27",
+ "price": 1.191246
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-30",
+ "price": 1.189201
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-03-31",
+ "price": 1.190809
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-15",
+ "price": 1.227305
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-16",
+ "price": 1.229431
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-17",
+ "price": 1.228377
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-18",
+ "price": 1.228371
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-19",
+ "price": 1.229327
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-22",
+ "price": 1.230856
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-23",
+ "price": 1.235188
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-24",
+ "price": 1.235748
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-25",
+ "price": 1.237818
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-26",
+ "price": 1.236324
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-18",
+ "price": 1.226085
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-19",
+ "price": 1.22102
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-20",
+ "price": 1.222649
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-21",
+ "price": 1.219732
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-22",
+ "price": 1.219552
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-25",
+ "price": 1.221446
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-26",
+ "price": 1.224164
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-27",
+ "price": 1.223188
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-28",
+ "price": 1.223493
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-29",
+ "price": 1.224773
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-05-31",
+ "price": 1.224877
+},
+{
+ "name": "Klasszikus",
+ "date": "2019-12-31",
+ "price": 1.250994
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-29",
+ "price": 1.238046
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-06-30",
+ "price": 1.238381
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-01",
+ "price": 1.240322
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-02",
+ "price": 1.244466
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-03",
+ "price": 1.241878
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-04",
+ "price": 1.24206
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-07",
+ "price": 1.244258
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-08",
+ "price": 1.241429
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-09",
+ "price": 1.241791
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-10",
+ "price": 1.238171
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-11",
+ "price": 1.239145
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-14",
+ "price": 1.24208
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-15",
+ "price": 1.240323
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-16",
+ "price": 1.240993
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-17",
+ "price": 1.241383
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-18",
+ "price": 1.239288
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-21",
+ "price": 1.234551
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-22",
+ "price": 1.234905
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-23",
+ "price": 1.233966
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-24",
+ "price": 1.231683
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-25",
+ "price": 1.232036
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-28",
+ "price": 1.238033
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-29",
+ "price": 1.235929
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-09-30",
+ "price": 1.237392
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-02",
+ "price": 1.240062
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-03",
+ "price": 1.244358
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-04",
+ "price": 1.251071
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-05",
+ "price": 1.253953
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-06",
+ "price": 1.253556
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-09",
+ "price": 1.258442
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-10",
+ "price": 1.261209
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-11",
+ "price": 1.261411
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-12",
+ "price": 1.260111
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-13",
+ "price": 1.262088
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-16",
+ "price": 1.266743
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-17",
+ "price": 1.267943
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-18",
+ "price": 1.26971
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-19",
+ "price": 1.269657
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-01",
+ "price": 1.236013
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-02",
+ "price": 1.237177
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-03",
+ "price": 1.236908
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-06",
+ "price": 1.241622
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-07",
+ "price": 1.238445
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-08",
+ "price": 1.241632
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-20",
+ "price": 1.26901
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-23",
+ "price": 1.270897
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-24",
+ "price": 1.275045
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-25",
+ "price": 1.274452
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-09",
+ "price": 1.239739
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-10",
+ "price": 1.240385
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-13",
+ "price": 1.238975
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-14",
+ "price": 1.238435
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-15",
+ "price": 1.23769
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-16",
+ "price": 1.236377
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-17",
+ "price": 1.237021
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-20",
+ "price": 1.239912
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-26",
+ "price": 1.274541
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-27",
+ "price": 1.275976
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-11-30",
+ "price": 1.271819
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-21",
+ "price": 1.241433
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-22",
+ "price": 1.241041
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-23",
+ "price": 1.237106
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-24",
+ "price": 1.235326
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-27",
+ "price": 1.23491
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-28",
+ "price": 1.233565
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-29",
+ "price": 1.235236
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-01",
+ "price": 1.237557
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-02",
+ "price": 1.235718
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-05",
+ "price": 1.237442
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-06",
+ "price": 1.237979
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-07",
+ "price": 1.238635
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-08",
+ "price": 1.240073
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-09",
+ "price": 1.24117
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-30",
+ "price": 1.231746
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-07-31",
+ "price": 1.229608
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-12",
+ "price": 1.241555
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-13",
+ "price": 1.242593
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-14",
+ "price": 1.245098
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-15",
+ "price": 1.24356
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-16",
+ "price": 1.245021
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-19",
+ "price": 1.244533
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-20",
+ "price": 1.244447
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-21",
+ "price": 1.241992
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-01",
+ "price": 1.27272
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-02",
+ "price": 1.273047
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-03",
+ "price": 1.272817
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-04",
+ "price": 1.275378
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-07",
+ "price": 1.276719
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-08",
+ "price": 1.278211
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-09",
+ "price": 1.279212
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-03",
+ "price": 1.232231
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-04",
+ "price": 1.232969
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-05",
+ "price": 1.236622
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-06",
+ "price": 1.237623
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-07",
+ "price": 1.237749
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-10",
+ "price": 1.23878
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-11",
+ "price": 1.23743
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-01",
+ "price": 1.29558
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-02",
+ "price": 1.297082
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-03",
+ "price": 1.298251
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-04",
+ "price": 1.300072
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-05",
+ "price": 1.301146
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-08",
+ "price": 1.302829
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-09",
+ "price": 1.303819
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-22",
+ "price": 1.242317
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-26",
+ "price": 1.239858
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-27",
+ "price": 1.239639
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-28",
+ "price": 1.235383
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-29",
+ "price": 1.236719
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-30",
+ "price": 1.236837
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-10-31",
+ "price": 1.236888
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-10",
+ "price": 1.279324
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-11",
+ "price": 1.277281
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-12",
+ "price": 1.277339
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-14",
+ "price": 1.277598
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-15",
+ "price": 1.281998
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-16",
+ "price": 1.283488
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-17",
+ "price": 1.284822
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-18",
+ "price": 1.284342
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-12",
+ "price": 1.239032
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-13",
+ "price": 1.237442
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-14",
+ "price": 1.237118
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-17",
+ "price": 1.239201
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-18",
+ "price": 1.238093
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-19",
+ "price": 1.235725
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-24",
+ "price": 1.240249
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-25",
+ "price": 1.241237
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-10",
+ "price": 1.302157
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-11",
+ "price": 1.302502
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-12",
+ "price": 1.303682
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-15",
+ "price": 1.302467
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-16",
+ "price": 1.304301
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-17",
+ "price": 1.303325
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-18",
+ "price": 1.300794
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-19",
+ "price": 1.3007
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-04",
+ "price": 1.291114
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-05",
+ "price": 1.293326
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-06",
+ "price": 1.291866
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-07",
+ "price": 1.295887
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-08",
+ "price": 1.300225
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-11",
+ "price": 1.299401
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-12",
+ "price": 1.298108
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-21",
+ "price": 1.282192
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-22",
+ "price": 1.283653
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-23",
+ "price": 1.286145
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-28",
+ "price": 1.288714
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-29",
+ "price": 1.289991
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-30",
+ "price": 1.291276
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-12-31",
+ "price": 1.29106
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-26",
+ "price": 1.245059
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-27",
+ "price": 1.24491
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-28",
+ "price": 1.242157
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-29",
+ "price": 1.242217
+},
+{
+ "name": "Klasszikus",
+ "date": "2020-08-31",
+ "price": 1.240013
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-22",
+ "price": 1.297273
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-23",
+ "price": 1.294528
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-24",
+ "price": 1.295089
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-25",
+ "price": 1.290018
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-26",
+ "price": 1.289329
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-02-28",
+ "price": 1.289449
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-13",
+ "price": 1.299038
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-14",
+ "price": 1.300644
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-15",
+ "price": 1.296243
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-18",
+ "price": 1.299475
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-19",
+ "price": 1.298604
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-20",
+ "price": 1.29831
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-21",
+ "price": 1.29838
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-22",
+ "price": 1.296696
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-25",
+ "price": 1.297567
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-26",
+ "price": 1.29917
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-27",
+ "price": 1.295348
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-28",
+ "price": 1.298264
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-29",
+ "price": 1.293044
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-01-31",
+ "price": 1.293157
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-01",
+ "price": 1.3251
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-04",
+ "price": 1.318379
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-05",
+ "price": 1.32114
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-06",
+ "price": 1.321932
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-07",
+ "price": 1.325062
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-08",
+ "price": 1.326122
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-11",
+ "price": 1.32809
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-12",
+ "price": 1.326438
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-13",
+ "price": 1.326143
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-14",
+ "price": 1.326897
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-15",
+ "price": 1.326416
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-18",
+ "price": 1.324124
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-19",
+ "price": 1.322498
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-20",
+ "price": 1.326018
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-21",
+ "price": 1.325182
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-22",
+ "price": 1.325911
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-25",
+ "price": 1.326652
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-26",
+ "price": 1.327926
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-27",
+ "price": 1.327315
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-28",
+ "price": 1.324788
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-29",
+ "price": 1.320268
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-10-31",
+ "price": 1.320393
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-01",
+ "price": 1.30624
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-02",
+ "price": 1.306853
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-03",
+ "price": 1.308458
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-04",
+ "price": 1.312118
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-07",
+ "price": 1.310487
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-08",
+ "price": 1.312074
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-09",
+ "price": 1.311683
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-10",
+ "price": 1.312583
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-11",
+ "price": 1.314861
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-14",
+ "price": 1.318211
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-15",
+ "price": 1.316674
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-16",
+ "price": 1.313772
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-17",
+ "price": 1.316879
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-18",
+ "price": 1.315541
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-21",
+ "price": 1.316148
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-22",
+ "price": 1.315
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-01",
+ "price": 1.326173
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-02",
+ "price": 1.324622
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-03",
+ "price": 1.325934
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-06",
+ "price": 1.326493
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-07",
+ "price": 1.325541
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-08",
+ "price": 1.325611
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-09",
+ "price": 1.326729
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-10",
+ "price": 1.326012
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-23",
+ "price": 1.314086
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-24",
+ "price": 1.315727
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-25",
+ "price": 1.317498
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-28",
+ "price": 1.317071
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-29",
+ "price": 1.316278
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-06-30",
+ "price": 1.316192
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-13",
+ "price": 1.327581
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-14",
+ "price": 1.325317
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-15",
+ "price": 1.324699
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-16",
+ "price": 1.324381
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-17",
+ "price": 1.322984
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-20",
+ "price": 1.318203
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-21",
+ "price": 1.31782
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-22",
+ "price": 1.323044
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-01",
+ "price": 1.303048
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-06",
+ "price": 1.303992
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-07",
+ "price": 1.303283
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-08",
+ "price": 1.302456
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-09",
+ "price": 1.302274
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-12",
+ "price": 1.301035
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-13",
+ "price": 1.301025
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-14",
+ "price": 1.302167
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-23",
+ "price": 1.326841
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-24",
+ "price": 1.324721
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-27",
+ "price": 1.326442
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-28",
+ "price": 1.321727
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-29",
+ "price": 1.323885
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-09-30",
+ "price": 1.326303
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-15",
+ "price": 1.304573
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-16",
+ "price": 1.307249
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-19",
+ "price": 1.306478
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-20",
+ "price": 1.303225
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-21",
+ "price": 1.305625
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-22",
+ "price": 1.306204
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-23",
+ "price": 1.307283
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-26",
+ "price": 1.308886
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-01",
+ "price": 1.298276
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-02",
+ "price": 1.298102
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-03",
+ "price": 1.295231
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-04",
+ "price": 1.292653
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-05",
+ "price": 1.295314
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-08",
+ "price": 1.294196
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-09",
+ "price": 1.296252
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-10",
+ "price": 1.298238
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-27",
+ "price": 1.309714
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-28",
+ "price": 1.309603
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-29",
+ "price": 1.309288
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-04-30",
+ "price": 1.306439
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-11",
+ "price": 1.301538
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-12",
+ "price": 1.301028
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-16",
+ "price": 1.302536
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-17",
+ "price": 1.301558
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-18",
+ "price": 1.302118
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-19",
+ "price": 1.302258
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-22",
+ "price": 1.302689
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-23",
+ "price": 1.301402
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-01",
+ "price": 1.316582
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-02",
+ "price": 1.317598
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-05",
+ "price": 1.317429
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-06",
+ "price": 1.317387
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-07",
+ "price": 1.319375
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-08",
+ "price": 1.31954
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-09",
+ "price": 1.321648
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-12",
+ "price": 1.321004
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-03",
+ "price": 1.307344
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-04",
+ "price": 1.308201
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-05",
+ "price": 1.309808
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-06",
+ "price": 1.309673
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-07",
+ "price": 1.311099
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-10",
+ "price": 1.310229
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-11",
+ "price": 1.30702
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-02",
+ "price": 1.326592
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-03",
+ "price": 1.326604
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-04",
+ "price": 1.328599
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-05",
+ "price": 1.328735
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-06",
+ "price": 1.328557
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-09",
+ "price": 1.329095
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-10",
+ "price": 1.328685
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-11",
+ "price": 1.330977
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-24",
+ "price": 1.300895
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-25",
+ "price": 1.30051
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-26",
+ "price": 1.303024
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-29",
+ "price": 1.303496
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-30",
+ "price": 1.302928
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-03-31",
+ "price": 1.302593
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-13",
+ "price": 1.322008
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-14",
+ "price": 1.323959
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-15",
+ "price": 1.32486
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-16",
+ "price": 1.324807
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-19",
+ "price": 1.321902
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-20",
+ "price": 1.323933
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-21",
+ "price": 1.326404
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-22",
+ "price": 1.325522
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-23",
+ "price": 1.325925
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-26",
+ "price": 1.327085
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-12",
+ "price": 1.303438
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-13",
+ "price": 1.302094
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-14",
+ "price": 1.303952
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-17",
+ "price": 1.29995
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-18",
+ "price": 1.296756
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-19",
+ "price": 1.294453
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-20",
+ "price": 1.299295
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-21",
+ "price": 1.299714
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-25",
+ "price": 1.301056
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-26",
+ "price": 1.305697
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-12",
+ "price": 1.328878
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-13",
+ "price": 1.329872
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-16",
+ "price": 1.328317
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-17",
+ "price": 1.330468
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-18",
+ "price": 1.330869
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-19",
+ "price": 1.328412
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-23",
+ "price": 1.329642
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-24",
+ "price": 1.329026
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-25",
+ "price": 1.327121
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-27",
+ "price": 1.325737
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-28",
+ "price": 1.325073
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-29",
+ "price": 1.325917
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-30",
+ "price": 1.325144
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-07-31",
+ "price": 1.325197
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-27",
+ "price": 1.304177
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-28",
+ "price": 1.304858
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-05-31",
+ "price": 1.305519
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-26",
+ "price": 1.323497
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-27",
+ "price": 1.326006
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-30",
+ "price": 1.325887
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-08-31",
+ "price": 1.327505
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-01",
+ "price": 1.27243
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-04",
+ "price": 1.277952
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-05",
+ "price": 1.273243
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-06",
+ "price": 1.266088
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-07",
+ "price": 1.268143
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-08",
+ "price": 1.261737
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-11",
+ "price": 1.259583
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-12",
+ "price": 1.260499
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-13",
+ "price": 1.266143
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-14",
+ "price": 1.26549
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-19",
+ "price": 1.263715
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-20",
+ "price": 1.261816
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-21",
+ "price": 1.257545
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-22",
+ "price": 1.254667
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-25",
+ "price": 1.254124
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-26",
+ "price": 1.252442
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-27",
+ "price": 1.256881
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-28",
+ "price": 1.262728
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-29",
+ "price": 1.256484
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-04-30",
+ "price": 1.256593
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-02",
+ "price": 1.322335
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-03",
+ "price": 1.32443
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-04",
+ "price": 1.328357
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-05",
+ "price": 1.326522
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-08",
+ "price": 1.326039
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-09",
+ "price": 1.325571
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-10",
+ "price": 1.322574
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-11",
+ "price": 1.326102
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-12",
+ "price": 1.324781
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-15",
+ "price": 1.324315
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-16",
+ "price": 1.323137
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-17",
+ "price": 1.319186
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-18",
+ "price": 1.314105
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-19",
+ "price": 1.312295
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-22",
+ "price": 1.309294
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-23",
+ "price": 1.305442
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-24",
+ "price": 1.309443
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-25",
+ "price": 1.31037
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-26",
+ "price": 1.304501
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-29",
+ "price": 1.30469
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-11-30",
+ "price": 1.303341
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-01",
+ "price": 1.263966
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-02",
+ "price": 1.267248
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-03",
+ "price": 1.265078
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-07",
+ "price": 1.264136
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-08",
+ "price": 1.261923
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-09",
+ "price": 1.256146
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-10",
+ "price": 1.250562
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-13",
+ "price": 1.231506
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-01",
+ "price": 1.300387
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-02",
+ "price": 1.298365
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-03",
+ "price": 1.29978
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-06",
+ "price": 1.305765
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-07",
+ "price": 1.30971
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-08",
+ "price": 1.309846
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-09",
+ "price": 1.309315
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-10",
+ "price": 1.313809
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-01",
+ "price": 1.268123
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-02",
+ "price": 1.276157
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-03",
+ "price": 1.2784
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-04",
+ "price": 1.269039
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-07",
+ "price": 1.266134
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-08",
+ "price": 1.264028
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-09",
+ "price": 1.271338
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-01",
+ "price": 1.300389
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-02",
+ "price": 1.301036
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-03",
+ "price": 1.298112
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-04",
+ "price": 1.296558
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-07",
+ "price": 1.297667
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-08",
+ "price": 1.303965
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-09",
+ "price": 1.308424
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-10",
+ "price": 1.304902
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-14",
+ "price": 1.232775
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-15",
+ "price": 1.231675
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-16",
+ "price": 1.223659
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-17",
+ "price": 1.225098
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-20",
+ "price": 1.227497
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-21",
+ "price": 1.229389
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-22",
+ "price": 1.229586
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-23",
+ "price": 1.235741
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-11",
+ "price": 1.313891
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-13",
+ "price": 1.309996
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-14",
+ "price": 1.304747
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-15",
+ "price": 1.302733
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-16",
+ "price": 1.306712
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-17",
+ "price": 1.305287
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-20",
+ "price": 1.302385
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-21",
+ "price": 1.306185
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-10",
+ "price": 1.264859
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-11",
+ "price": 1.264607
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-16",
+ "price": 1.267991
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-17",
+ "price": 1.272847
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-18",
+ "price": 1.274591
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-21",
+ "price": 1.271392
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-22",
+ "price": 1.270547
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-23",
+ "price": 1.266024
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-24",
+ "price": 1.265614
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-11",
+ "price": 1.299704
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-14",
+ "price": 1.295672
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-15",
+ "price": 1.297105
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-16",
+ "price": 1.297449
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-17",
+ "price": 1.29684
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-18",
+ "price": 1.293583
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-21",
+ "price": 1.288482
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-22",
+ "price": 1.286785
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-24",
+ "price": 1.24291
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-27",
+ "price": 1.237333
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-28",
+ "price": 1.235393
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-29",
+ "price": 1.23284
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-06-30",
+ "price": 1.234652
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-22",
+ "price": 1.306396
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-23",
+ "price": 1.309183
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-27",
+ "price": 1.313738
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-28",
+ "price": 1.313581
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-29",
+ "price": 1.315321
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-30",
+ "price": 1.311865
+},
+{
+ "name": "Klasszikus",
+ "date": "2021-12-31",
+ "price": 1.31115
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-25",
+ "price": 1.267183
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-26",
+ "price": 1.267262
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-28",
+ "price": 1.265238
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-29",
+ "price": 1.275994
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-30",
+ "price": 1.269485
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-03-31",
+ "price": 1.272987
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-23",
+ "price": 1.283559
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-24",
+ "price": 1.272461
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-25",
+ "price": 1.283869
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-02-28",
+ "price": 1.279079
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-03",
+ "price": 1.314146
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-04",
+ "price": 1.308787
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-05",
+ "price": 1.306822
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-06",
+ "price": 1.305045
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-07",
+ "price": 1.305071
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-10",
+ "price": 1.304687
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-11",
+ "price": 1.310454
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-12",
+ "price": 1.314564
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-02",
+ "price": 1.255261
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-03",
+ "price": 1.256906
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-04",
+ "price": 1.254617
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-05",
+ "price": 1.248528
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-06",
+ "price": 1.246018
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-09",
+ "price": 1.24102
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-10",
+ "price": 1.233085
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-11",
+ "price": 1.234033
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-13",
+ "price": 1.311446
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-14",
+ "price": 1.308845
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-17",
+ "price": 1.309772
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-18",
+ "price": 1.303796
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-19",
+ "price": 1.302726
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-20",
+ "price": 1.30334
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-21",
+ "price": 1.302065
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-24",
+ "price": 1.296874
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-12",
+ "price": 1.236331
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-13",
+ "price": 1.24575
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-16",
+ "price": 1.245792
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-17",
+ "price": 1.252545
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-18",
+ "price": 1.249521
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-19",
+ "price": 1.249346
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-20",
+ "price": 1.252394
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-23",
+ "price": 1.260549
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-24",
+ "price": 1.256399
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-25",
+ "price": 1.297971
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-26",
+ "price": 1.300976
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-27",
+ "price": 1.299097
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-28",
+ "price": 1.297781
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-01-31",
+ "price": 1.302269
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-25",
+ "price": 1.25836
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-26",
+ "price": 1.258503
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-27",
+ "price": 1.259161
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-30",
+ "price": 1.259328
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-05-31",
+ "price": 1.262181
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-01",
+ "price": 1.254491
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-02",
+ "price": 1.247976
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-03",
+ "price": 1.250494
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-04",
+ "price": 1.251433
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-05",
+ "price": 1.252364
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-08",
+ "price": 1.254945
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-09",
+ "price": 1.250906
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-10",
+ "price": 1.261641
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-11",
+ "price": 1.259025
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-12",
+ "price": 1.264875
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-15",
+ "price": 1.268057
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-16",
+ "price": 1.271542
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-17",
+ "price": 1.268366
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-18",
+ "price": 1.266599
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-19",
+ "price": 1.257773
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-22",
+ "price": 1.256238
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-23",
+ "price": 1.257361
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-24",
+ "price": 1.258857
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-25",
+ "price": 1.263692
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-26",
+ "price": 1.258244
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-29",
+ "price": 1.25459
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-30",
+ "price": 1.246339
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-08-31",
+ "price": 1.243947
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-01",
+ "price": 1.234353
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-04",
+ "price": 1.236446
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-05",
+ "price": 1.233617
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-06",
+ "price": 1.233589
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-07",
+ "price": 1.235341
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-08",
+ "price": 1.23615
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-11",
+ "price": 1.235872
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-01",
+ "price": 1.315406
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-02",
+ "price": 1.318454
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-03",
+ "price": 1.318216
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-06",
+ "price": 1.313843
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-07",
+ "price": 1.318568
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-08",
+ "price": 1.317888
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-09",
+ "price": 1.322315
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-12",
+ "price": 1.234303
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-13",
+ "price": 1.226151
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-14",
+ "price": 1.222548
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-15",
+ "price": 1.22246
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-18",
+ "price": 1.224923
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-19",
+ "price": 1.22518
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-20",
+ "price": 1.228693
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-21",
+ "price": 1.233801
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-10",
+ "price": 1.316481
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-13",
+ "price": 1.315658
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-14",
+ "price": 1.313176
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-15",
+ "price": 1.309764
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-16",
+ "price": 1.304631
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-17",
+ "price": 1.299893
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-20",
+ "price": 1.297459
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-21",
+ "price": 1.292162
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-22",
+ "price": 1.299494
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-02",
+ "price": 1.271074
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-03",
+ "price": 1.279577
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-04",
+ "price": 1.2897
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-05",
+ "price": 1.295879
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-06",
+ "price": 1.303862
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-09",
+ "price": 1.308529
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-10",
+ "price": 1.311136
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-11",
+ "price": 1.317739
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-12",
+ "price": 1.3257
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-03",
+ "price": 1.22326
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-04",
+ "price": 1.233466
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-05",
+ "price": 1.230811
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-06",
+ "price": 1.229039
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-07",
+ "price": 1.226539
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-10",
+ "price": 1.226104
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-11",
+ "price": 1.219728
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-12",
+ "price": 1.219263
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-13",
+ "price": 1.219013
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-22",
+ "price": 1.238187
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-25",
+ "price": 1.239032
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-26",
+ "price": 1.236168
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-27",
+ "price": 1.245437
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-28",
+ "price": 1.245224
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-29",
+ "price": 1.248273
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-07-31",
+ "price": 1.248552
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-23",
+ "price": 1.295305
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-24",
+ "price": 1.296613
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-27",
+ "price": 1.298631
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-02-28",
+ "price": 1.298742
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-13",
+ "price": 1.327571
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-16",
+ "price": 1.32527
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-17",
+ "price": 1.317493
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-18",
+ "price": 1.325755
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-19",
+ "price": 1.32071
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-20",
+ "price": 1.321081
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-23",
+ "price": 1.322454
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-24",
+ "price": 1.327561
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-25",
+ "price": 1.32279
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-14",
+ "price": 1.198931
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-15",
+ "price": 1.199139
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-17",
+ "price": 1.207828
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-18",
+ "price": 1.205174
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-19",
+ "price": 1.203517
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-20",
+ "price": 1.206248
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-21",
+ "price": 1.209483
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-24",
+ "price": 1.209595
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-25",
+ "price": 1.220453
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-26",
+ "price": 1.221202
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-02",
+ "price": 1.219733
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-03",
+ "price": 1.220802
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-04",
+ "price": 1.22573
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-07",
+ "price": 1.234459
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-08",
+ "price": 1.237487
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-09",
+ "price": 1.240438
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-10",
+ "price": 1.255293
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-11",
+ "price": 1.272582
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-14",
+ "price": 1.269977
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-26",
+ "price": 1.321013
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-27",
+ "price": 1.317719
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-30",
+ "price": 1.311334
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-01-31",
+ "price": 1.313023
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-27",
+ "price": 1.21745
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-28",
+ "price": 1.22537
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-10-31",
+ "price": 1.225685
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-15",
+ "price": 1.273552
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-16",
+ "price": 1.270638
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-17",
+ "price": 1.273079
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-18",
+ "price": 1.279611
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-21",
+ "price": 1.301046
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-22",
+ "price": 1.296948
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-23",
+ "price": 1.297779
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-24",
+ "price": 1.294614
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-25",
+ "price": 1.297327
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-01",
+ "price": 1.232723
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-02",
+ "price": 1.232441
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-05",
+ "price": 1.233142
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-06",
+ "price": 1.231803
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-07",
+ "price": 1.233343
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-08",
+ "price": 1.229238
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-09",
+ "price": 1.222584
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-12",
+ "price": 1.230054
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-13",
+ "price": 1.230124
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-01",
+ "price": 1.295207
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-02",
+ "price": 1.297867
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-05",
+ "price": 1.291878
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-06",
+ "price": 1.28723
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-07",
+ "price": 1.285701
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-08",
+ "price": 1.280906
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-09",
+ "price": 1.273629
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-12",
+ "price": 1.274506
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-13",
+ "price": 1.291774
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-28",
+ "price": 1.29259
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-29",
+ "price": 1.295598
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-11-30",
+ "price": 1.297912
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-14",
+ "price": 1.234156
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-15",
+ "price": 1.232697
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-16",
+ "price": 1.229018
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-19",
+ "price": 1.227417
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-20",
+ "price": 1.223753
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-21",
+ "price": 1.224231
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-22",
+ "price": 1.225173
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-23",
+ "price": 1.222994
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-26",
+ "price": 1.216216
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-27",
+ "price": 1.219051
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-14",
+ "price": 1.286779
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-15",
+ "price": 1.284252
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-16",
+ "price": 1.283071
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-19",
+ "price": 1.28306
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-20",
+ "price": 1.280545
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-21",
+ "price": 1.280785
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-22",
+ "price": 1.279679
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-23",
+ "price": 1.278988
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-27",
+ "price": 1.277674
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-28",
+ "price": 1.221985
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-29",
+ "price": 1.219637
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-09-30",
+ "price": 1.218302
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-28",
+ "price": 1.277816
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-29",
+ "price": 1.270908
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-30",
+ "price": 1.270889
+},
+{
+ "name": "Klasszikus",
+ "date": "2022-12-31",
+ "price": 1.272596
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-01",
+ "price": 1.29524
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-02",
+ "price": 1.291903
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-03",
+ "price": 1.298422
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-06",
+ "price": 1.302286
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-07",
+ "price": 1.298206
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-08",
+ "price": 1.298487
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-09",
+ "price": 1.291658
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-10",
+ "price": 1.292897
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-13",
+ "price": 1.294056
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-14",
+ "price": 1.297021
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-16",
+ "price": 1.293734
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-17",
+ "price": 1.291422
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-20",
+ "price": 1.296019
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-21",
+ "price": 1.297868
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-22",
+ "price": 1.296448
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-23",
+ "price": 1.299261
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-24",
+ "price": 1.302359
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-27",
+ "price": 1.302705
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-28",
+ "price": 1.304282
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-29",
+ "price": 1.302408
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-30",
+ "price": 1.301361
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-03-31",
+ "price": 1.302204
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-03",
+ "price": 1.401863
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-04",
+ "price": 1.403406
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-05",
+ "price": 1.404593
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-06",
+ "price": 1.403142
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-07",
+ "price": 1.399354
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-10",
+ "price": 1.400763
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-11",
+ "price": 1.40348
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-12",
+ "price": 1.406733
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-13",
+ "price": 1.411238
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-01",
+ "price": 1.353982
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-02",
+ "price": 1.366659
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-05",
+ "price": 1.368511
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-06",
+ "price": 1.374068
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-07",
+ "price": 1.372845
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-08",
+ "price": 1.377061
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-09",
+ "price": 1.380113
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-12",
+ "price": 1.382932
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-13",
+ "price": 1.385637
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-14",
+ "price": 1.40996
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-17",
+ "price": 1.411441
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-18",
+ "price": 1.417025
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-19",
+ "price": 1.416152
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-20",
+ "price": 1.415778
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-21",
+ "price": 1.416932
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-24",
+ "price": 1.418641
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-25",
+ "price": 1.420319
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-26",
+ "price": 1.421834
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-14",
+ "price": 1.387208
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-15",
+ "price": 1.388745
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-16",
+ "price": 1.387863
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-19",
+ "price": 1.386006
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-20",
+ "price": 1.38604
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-21",
+ "price": 1.386492
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-22",
+ "price": 1.385039
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-23",
+ "price": 1.386907
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-26",
+ "price": 1.390236
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-27",
+ "price": 1.390972
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-03",
+ "price": 1.303971
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-04",
+ "price": 1.303036
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-05",
+ "price": 1.306961
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-06",
+ "price": 1.309754
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-11",
+ "price": 1.31084
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-12",
+ "price": 1.302418
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-13",
+ "price": 1.302915
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-14",
+ "price": 1.304998
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-17",
+ "price": 1.304328
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-01",
+ "price": 1.429265
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-02",
+ "price": 1.425
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-03",
+ "price": 1.425739
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-04",
+ "price": 1.424212
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-07",
+ "price": 1.426798
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-08",
+ "price": 1.425478
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-09",
+ "price": 1.42508
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-10",
+ "price": 1.427188
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-11",
+ "price": 1.425566
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-27",
+ "price": 1.418774
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-28",
+ "price": 1.42717
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-07-31",
+ "price": 1.428475
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-28",
+ "price": 1.39247
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-29",
+ "price": 1.394516
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-06-30",
+ "price": 1.399627
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-18",
+ "price": 1.304691
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-19",
+ "price": 1.313452
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-20",
+ "price": 1.316566
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-21",
+ "price": 1.319761
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-24",
+ "price": 1.323048
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-25",
+ "price": 1.318606
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-26",
+ "price": 1.322814
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-27",
+ "price": 1.323607
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-28",
+ "price": 1.330644
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-14",
+ "price": 1.426668
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-15",
+ "price": 1.425234
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-16",
+ "price": 1.422638
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-17",
+ "price": 1.422575
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-18",
+ "price": 1.420512
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-21",
+ "price": 1.4214
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-22",
+ "price": 1.421442
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-23",
+ "price": 1.42871
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-24",
+ "price": 1.430243
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-25",
+ "price": 1.432043
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-04-30",
+ "price": 1.331108
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-28",
+ "price": 1.435517
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-29",
+ "price": 1.439772
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-30",
+ "price": 1.439328
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-08-31",
+ "price": 1.439744
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-02",
+ "price": 1.331892
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-03",
+ "price": 1.334378
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-04",
+ "price": 1.333561
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-05",
+ "price": 1.336412
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-08",
+ "price": 1.33764
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-09",
+ "price": 1.336512
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-10",
+ "price": 1.336933
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-11",
+ "price": 1.337894
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-12",
+ "price": 1.338781
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-02",
+ "price": 1.440651
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-03",
+ "price": 1.437863
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-04",
+ "price": 1.436919
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-05",
+ "price": 1.434302
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-06",
+ "price": 1.434897
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-09",
+ "price": 1.436171
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-10",
+ "price": 1.446494
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-11",
+ "price": 1.452584
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-12",
+ "price": 1.453189
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-15",
+ "price": 1.340014
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-16",
+ "price": 1.341261
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-17",
+ "price": 1.34245
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-18",
+ "price": 1.346309
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-19",
+ "price": 1.349329
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-22",
+ "price": 1.350706
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-23",
+ "price": 1.34772
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-24",
+ "price": 1.344639
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-25",
+ "price": 1.344451
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-26",
+ "price": 1.347198
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-13",
+ "price": 1.450266
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-16",
+ "price": 1.455603
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-17",
+ "price": 1.457881
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-18",
+ "price": 1.450817
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-19",
+ "price": 1.445714
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-20",
+ "price": 1.441982
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-24",
+ "price": 1.442574
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-25",
+ "price": 1.446235
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-26",
+ "price": 1.444325
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-27",
+ "price": 1.446677
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-01",
+ "price": 1.442992
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-04",
+ "price": 1.442261
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-05",
+ "price": 1.441291
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-06",
+ "price": 1.442132
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-07",
+ "price": 1.446229
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-08",
+ "price": 1.447641
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-11",
+ "price": 1.448225
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-12",
+ "price": 1.450145
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-13",
+ "price": 1.448289
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-30",
+ "price": 1.347687
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-05-31",
+ "price": 1.347126
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-30",
+ "price": 1.449098
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-10-31",
+ "price": 1.451353
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-14",
+ "price": 1.455324
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-15",
+ "price": 1.453773
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-18",
+ "price": 1.452988
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-19",
+ "price": 1.453441
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-20",
+ "price": 1.451546
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-21",
+ "price": 1.445795
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-22",
+ "price": 1.447886
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-25",
+ "price": 1.449818
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-26",
+ "price": 1.446127
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-27",
+ "price": 1.44323
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-28",
+ "price": 1.44053
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-29",
+ "price": 1.443917
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-09-30",
+ "price": 1.444133
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-02",
+ "price": 1.583708
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-03",
+ "price": 1.587459
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-06",
+ "price": 1.593332
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-07",
+ "price": 1.596394
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-08",
+ "price": 1.598182
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-09",
+ "price": 1.597038
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-10",
+ "price": 1.596141
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-13",
+ "price": 1.596252
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-14",
+ "price": 1.599151
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-15",
+ "price": 1.603205
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-16",
+ "price": 1.603938
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-17",
+ "price": 1.604304
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-21",
+ "price": 1.602667
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-22",
+ "price": 1.601275
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-23",
+ "price": 1.600373
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-24",
+ "price": 1.597391
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-27",
+ "price": 1.597955
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-28",
+ "price": 1.596322
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-29",
+ "price": 1.594308
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-30",
+ "price": 1.594706
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-05-31",
+ "price": 1.598455
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-02",
+ "price": 1.462173
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-03",
+ "price": 1.470075
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-06",
+ "price": 1.467172
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-07",
+ "price": 1.466315
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-08",
+ "price": 1.466298
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-09",
+ "price": 1.466362
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-10",
+ "price": 1.467475
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-01",
+ "price": 1.564576
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-02",
+ "price": 1.566369
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-05",
+ "price": 1.560976
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-06",
+ "price": 1.564199
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-07",
+ "price": 1.561177
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-08",
+ "price": 1.563024
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-09",
+ "price": 1.56847
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-13",
+ "price": 1.466605
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-14",
+ "price": 1.47361
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-15",
+ "price": 1.476516
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-16",
+ "price": 1.477787
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-17",
+ "price": 1.480786
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-20",
+ "price": 1.483126
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-21",
+ "price": 1.487354
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-22",
+ "price": 1.486555
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-12",
+ "price": 1.566745
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-13",
+ "price": 1.560245
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-14",
+ "price": 1.565732
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-15",
+ "price": 1.569986
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-16",
+ "price": 1.570128
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-19",
+ "price": 1.569657
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-20",
+ "price": 1.57101
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-21",
+ "price": 1.57453
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-23",
+ "price": 1.481512
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-24",
+ "price": 1.479851
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-27",
+ "price": 1.480033
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-28",
+ "price": 1.485162
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-29",
+ "price": 1.488151
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-11-30",
+ "price": 1.492008
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-22",
+ "price": 1.575667
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-23",
+ "price": 1.578173
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-26",
+ "price": 1.578763
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-27",
+ "price": 1.577405
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-28",
+ "price": 1.575269
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-02-29",
+ "price": 1.575637
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-02",
+ "price": 1.584101
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-03",
+ "price": 1.58239
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-04",
+ "price": 1.579473
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-05",
+ "price": 1.58036
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-08",
+ "price": 1.580509
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-09",
+ "price": 1.579783
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-02",
+ "price": 1.535107
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-03",
+ "price": 1.532271
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-04",
+ "price": 1.531419
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-05",
+ "price": 1.530622
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-08",
+ "price": 1.533784
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-09",
+ "price": 1.538523
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-10",
+ "price": 1.542667
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-01",
+ "price": 1.495987
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-04",
+ "price": 1.501053
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-05",
+ "price": 1.50441
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-06",
+ "price": 1.506053
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-07",
+ "price": 1.511746
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-08",
+ "price": 1.511767
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-11",
+ "price": 1.510259
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-01",
+ "price": 1.58086
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-04",
+ "price": 1.580252
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-05",
+ "price": 1.579384
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-06",
+ "price": 1.580736
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-07",
+ "price": 1.581092
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-08",
+ "price": 1.582131
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-11",
+ "price": 1.582536
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-10",
+ "price": 1.581779
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-11",
+ "price": 1.579133
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-12",
+ "price": 1.581242
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-15",
+ "price": 1.579129
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-16",
+ "price": 1.570501
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-17",
+ "price": 1.570456
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-18",
+ "price": 1.571899
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-19",
+ "price": 1.57124
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-11",
+ "price": 1.549071
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-12",
+ "price": 1.552124
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-15",
+ "price": 1.552116
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-16",
+ "price": 1.549034
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-17",
+ "price": 1.546461
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-18",
+ "price": 1.54884
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-19",
+ "price": 1.553302
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-22",
+ "price": 1.55444
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-12",
+ "price": 1.514994
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-13",
+ "price": 1.516123
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-14",
+ "price": 1.52632
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-15",
+ "price": 1.530456
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-18",
+ "price": 1.534806
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-19",
+ "price": 1.537261
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-20",
+ "price": 1.543089
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-21",
+ "price": 1.540584
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-12",
+ "price": 1.586063
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-13",
+ "price": 1.583306
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-14",
+ "price": 1.578556
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-18",
+ "price": 1.575238
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-19",
+ "price": 1.57864
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-20",
+ "price": 1.580601
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-21",
+ "price": 1.582768
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-22",
+ "price": 1.582125
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-03",
+ "price": 1.604635
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-04",
+ "price": 1.601203
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-05",
+ "price": 1.605654
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-06",
+ "price": 1.610574
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-07",
+ "price": 1.60852
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-10",
+ "price": 1.61165
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-11",
+ "price": 1.610872
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-22",
+ "price": 1.574412
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-23",
+ "price": 1.57991
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-24",
+ "price": 1.579529
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-25",
+ "price": 1.576372
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-26",
+ "price": 1.578319
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-29",
+ "price": 1.583005
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-04-30",
+ "price": 1.579857
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-23",
+ "price": 1.551383
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-24",
+ "price": 1.552535
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-25",
+ "price": 1.551905
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-26",
+ "price": 1.552673
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-29",
+ "price": 1.553076
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-30",
+ "price": 1.553917
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-01-31",
+ "price": 1.556504
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-22",
+ "price": 1.539261
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-27",
+ "price": 1.542254
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-28",
+ "price": 1.540019
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-29",
+ "price": 1.541414
+},
+{
+ "name": "Klasszikus",
+ "date": "2023-12-31",
+ "price": 1.541802
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-25",
+ "price": 1.581084
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-26",
+ "price": 1.580685
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-27",
+ "price": 1.580195
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-28",
+ "price": 1.583176
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-03-31",
+ "price": 1.583832
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-12",
+ "price": 1.615173
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-13",
+ "price": 1.613042
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-14",
+ "price": 1.61301
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-17",
+ "price": 1.615024
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-18",
+ "price": 1.616268
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-19",
+ "price": 1.617974
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-20",
+ "price": 1.620452
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-21",
+ "price": 1.619966
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-24",
+ "price": 1.619711
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-25",
+ "price": 1.622149
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-26",
+ "price": 1.624688
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-27",
+ "price": 1.625313
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-28",
+ "price": 1.625925
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-06-30",
+ "price": 1.626256
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-01",
+ "price": 1.623798
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-02",
+ "price": 1.623323
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-03",
+ "price": 1.625704
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-04",
+ "price": 1.626646
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-05",
+ "price": 1.626063
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-08",
+ "price": 1.626576
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-09",
+ "price": 1.631354
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-10",
+ "price": 1.633354
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-11",
+ "price": 1.636584
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-12",
+ "price": 1.641833
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-15",
+ "price": 1.642614
+},
+{
+ "name": "Klasszikus",
+ "date": "2024-07-16",
+ "price": 1.643038
+}
+]
