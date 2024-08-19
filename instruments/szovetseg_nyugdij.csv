@@ -1,0 +1,4 @@
+ticker symbol;isin;security name;currency;note;
+SZÖMNYP_KLASS;;Szövetség Nyugdíjpénztár Klasszikus portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/szovetseg_nyugdij/klasszikus.json
+SZÖMNYP_KIEGY;;Szövetség Nyugdíjpénztár Kiegyensúlyozott portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/szovetseg_nyugdij/kiegyensulyozott.json
+SZÖMNYP_NÖVEK;;Szövetség Nyugdíjpénztár Növekedési portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/szovetseg_nyugdij/novekedesi.json
