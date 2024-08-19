@@ -1,0 +1,7 @@
+ticker symbol;isin;security name;currency;note;
+ALFÖNYP_KLASS;;Alfa Nyugdíjpénztár Klasszikus portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/alfa_nyugdij/klasszikus.json
+ALFÖNYP_KIEGY;;Alfa Nyugdíjpénztár Kiegyensúlyozott portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/alfa_nyugdij/kiegyensulyozott.json
+ALFÖNYP_NÖVEK;;Alfa Nyugdíjpénztár Növekedési portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/alfa_nyugdij/novekedesi.json
+ALFÖNYP_SZAKÉ;;Alfa Nyugdíjpénztár Szakértői abszolút hozam portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/alfa_nyugdij/szakertoi.json
+ALFÖNYP_MEGAT;;Alfa Nyugdíjpénztár MegaTrend portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/alfa_nyugdij/megatrend.json
+ALFÖNYP_PÉNZP;;Alfa Nyugdíjpénztár Pénzpiaci portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/alfa_nyugdij/penzpiaci.json

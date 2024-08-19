@@ -1,0 +1,4 @@
+ticker symbol;isin;security name;currency;note;
+HORMNYP_TEMPO;;Horizont Magánnyugdíjpénztár Tempo növekedési portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/horizont_nyugdij/tempo.json
+HORMNYP_RITMO;;Horizont Magánnyugdíjpénztár Ritmo kiegyensúlyozott portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/horizont_nyugdij/ritmo.json
+HORMNYP_PIANO;;Horizont Magánnyugdíjpénztár Piano klasszikus portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/horizont_nyugdij/piano.json

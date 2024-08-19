@@ -1,0 +1,9 @@
+ticker symbol;isin;security name;currency;note;
+ARANY_ÓVATO;;Aranykor Óvatos;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/ovatos.json
+ARANY_RÉGI ;;Aranykor Régi klasszikus;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/regi_klasszikus.json
+ARANY_CSEND;;Aranykor Csendélet;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/csendelet.json
+ARANY_KLASS;;Aranykor Klasszikus;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/klasszikus.json
+ARANY_EGYEN;;Aranykor Egyensúly;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/egyensuly.json
+ARANY_LENDÜ;;Aranykor Lendület;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/lendulet.json
+ARANY_NÖVEK;;Aranykor Növekedési;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/novekedesi.json
+ARANY_ESG D;;Aranykor ESG Dinamikus;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/esg_dinamikus.json
