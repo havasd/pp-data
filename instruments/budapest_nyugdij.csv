@@ -1,6 +1,6 @@
 ticker symbol;isin;security name;currency;note;
-BPÖNYP_AKTÍV;;Budapest Önkéntes Nyugdíjpénztár Aktív portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/budapest_nyugdij/aktiv.json
-BPÖNYP_BEBIZ;;Budapest Önkéntes Nyugdíjpénztár Bebiztosító portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/budapest_nyugdij/bebiztosito.json
 BPMNYP_NÖVEK;;Budapest Magánnyugdíjpénztár Növekedési portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/budapest_nyugdij/novekedesi.json
 BPMNYP_KIEGY;;Budapest Magánnyugdíjpénztár Kiegyensúlyozott portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/budapest_nyugdij/kiegyensulyozott.json
 BPMNYP_KLASS;;Budapest Magánnyugdíjpénztár Klasszikus portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/budapest_nyugdij/klasszikus.json
+BPÖNYP_AKTÍV;;Budapest Önkéntes Nyugdíjpénztár Aktív portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/budapest_nyugdij/aktiv.json
+BPÖNYP_BEBIZ;;Budapest Önkéntes Nyugdíjpénztár Bebiztosító portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/budapest_nyugdij/bebiztosito.json
