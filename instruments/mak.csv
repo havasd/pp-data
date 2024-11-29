@@ -7,14 +7,7 @@ PEMÁP_2027/X;;Prémium Euró Magyar Állampapír 2027/X;EUR;JSON feed url: http
 EMÁP_2027/U;;Euro Magyar Állampapír 2027/U;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/emap_2027_u_eur.json
 PEMÁP_2028/X;;Prémium Euró Magyar Állampapír 2028/X;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/pemap_2028_x_eur.json
 PEMÁP_2028/Y;;Prémium Euró Magyar Állampapír 2028/Y;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/pemap_2028_y_eur.json
-DKJ241223;;Diszkont Kincstárjegy 241223;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d241223.json
-DKJ250122;;Diszkont Kincstárjegy 250122;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250122.json
-DKJ250219;;Diszkont Kincstárjegy 250219;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250219.json
-DKJ250319;;Diszkont Kincstárjegy 250319;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250319.json
-DKJ250430;;Diszkont Kincstárjegy 250430;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250430.json
-DKJ250625;;Diszkont Kincstárjegy 250625;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250625.json
-DKJ250821;;Diszkont Kincstárjegy 250821;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250821.json
-DKJ251029;;Diszkont Kincstárjegy 251029;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d251029.json
+BABA_2032/S;;Babakötvény 2032/S;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/baba_2032_s_baba.json
 BABA_2033/S;;Babakötvény 2033/S;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/baba_2033_s_baba.json
 BABA_2034/S;;Babakötvény 2034/S;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/baba_2034_s_baba.json
 BABA_2035/S;;Babakötvény 2035/S;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/baba_2035_s_baba.json
@@ -83,6 +76,14 @@ KTV_2035/A;;Magyar Államkötvény 2035/A;HUF;JSON feed url: https://cdn.statica
 KTV_2038/A;;Magyar Államkötvény 2038/A;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/ktv_2038_a.json
 KTV_2041/A;;Magyar Államkötvény 2041/A;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/ktv_2041_a.json
 KTV_2051/G;;Magyar Államkötvény 2051/G;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/ktv_2051_g.json
+DKJ241223;;Diszkont Kincstárjegy 241223;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d241223.json
+DKJ250122;;Diszkont Kincstárjegy 250122;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250122.json
+DKJ250219;;Diszkont Kincstárjegy 250219;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250219.json
+DKJ250319;;Diszkont Kincstárjegy 250319;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250319.json
+DKJ250430;;Diszkont Kincstárjegy 250430;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250430.json
+DKJ250625;;Diszkont Kincstárjegy 250625;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250625.json
+DKJ250821;;Diszkont Kincstárjegy 250821;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250821.json
+DKJ251029;;Diszkont Kincstárjegy 251029;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d251029.json
 1MÁP_K2024/49;;Egyéves Magyar Állampapír K2024/49;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2024_49.json
 1MÁP_K2024/50;;Egyéves Magyar Állampapír K2024/50;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2024_50.json
 1MÁP_K2024/51;;Egyéves Magyar Állampapír K2024/51;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2024_51.json
@@ -160,6 +161,7 @@ MÁPP_N2025/44;;Magyar Állampapír Plusz N2025/44;HUF;JSON feed url: https://cd
 MÁPP_N2025/45;;Magyar Állampapír Plusz N2025/45;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_45.json
 MÁPP_N2025/46;;Magyar Állampapír Plusz N2025/46;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_46.json
 MÁPP_N2025/47;;Magyar Állampapír Plusz N2025/47;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_47.json
+MÁPP_N2025/48;;Magyar Állampapír Plusz N2025/48;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_48.json
 MÁPP_N2025/49;;Magyar Állampapír Plusz N2025/49;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_49.json
 MÁPP_N2025/50;;Magyar Állampapír Plusz N2025/50;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_50.json
 MÁPP_N2025/51;;Magyar Állampapír Plusz N2025/51;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_51.json
@@ -316,7 +318,6 @@ MÁPP_N2028/45;;Magyar Állampapír Plusz N2028/45;HUF;JSON feed url: https://cd
 MÁPP_N2028/46;;Magyar Állampapír Plusz N2028/46;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2028_46.json
 MÁPP_N2028/47;;Magyar Állampapír Plusz N2028/47;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2028_47.json
 MÁPP_N2028/48;;Magyar Állampapír Plusz N2028/48;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2028_48.json
-MÁPP_N2028/49;;Magyar Állampapír Plusz N2028/49;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2028_49.json
 MÁPP_N2028/50;;Magyar Állampapír Plusz N2028/50;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2028_50.json
 MÁPP_N2028/51;;Magyar Állampapír Plusz N2028/51;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2028_51.json
 MÁPP_N2028/52;;Magyar Állampapír Plusz N2028/52;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2028_52.json
