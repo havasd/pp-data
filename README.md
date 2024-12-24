@@ -13,6 +13,8 @@ There are 2 types of data available:
 
 ## Available data
 
+In this section you can find the available financial service providers and their instrument's data.
+
 |Data source name                                             | Directory |
 | ----------------------------------------------------------- | ----------- |
 | [Alfa](https://www.alfanyugdij.hu/arfolyamrajzolo/)         | [alfa_nyugdij](./alfa_nyugdij/) |
@@ -52,8 +54,8 @@ This data can be used to import securities straight into Portfolio Performance. 
         You can populate the URL by some pattern as well: `https://cdn.statically.io/gh/havasd/pp-data/main/<source>/<instrumnet>.json`
 
         Where `<source>` is a directory in this repository and `instrument` is the name of the file within that directory.
-    3. Set `Path to Date` to `$.[*].date` and `Path to Close` to `$.[*].price`
+    3. Set `Path to Date` to `$[*].date` and `Path to Close` to `$[*].price`
 3. This should populate the the table in the popup menu
 
-    ![Change Provider to JSON. Fill out Feed URL, Path to Date and Path to Close fields.](images/historical_feed.png)
+    <img src="images/historical_feed.png" alt="Change Provider to JSON. Fill out Feed URL, Path to Date and Path to Close fields." width="450"/>
 
