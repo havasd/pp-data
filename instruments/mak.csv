@@ -52,6 +52,7 @@ FixMÁP_2027/Q32;;Fix Magyar Állampapír 2027/Q32;HUF;JSON feed url: https://cd
 FixMÁP_2027/Q4;;Fix Magyar Állampapír 2027/Q4;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/fixmap_2027_q4.json
 KTV_2027/A;;Magyar Államkötvény 2027/A;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/ktv_2027_a.json
 FixMÁP_2028/Q1;;Fix Magyar Állampapír 2028/Q1;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/fixmap_2028_q1.json
+FixMÁP_2028/Q12;;Fix Magyar Állampapír 2028/Q12;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/fixmap_2028_q12.json
 PMÁP_2028/I;;Prémium Magyar Állampapír 2028/I;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/pmap_2028_i.json
 BMÁP_2028/N;;Bónusz Magyar Állampapír 2028/N;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/bmap_2028_n.json
 BMÁP_2028/O;;Bónusz Magyar Állampapír 2028/O;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/bmap_2028_o.json
@@ -83,7 +84,6 @@ KTV_2035/A;;Magyar Államkötvény 2035/A;HUF;JSON feed url: https://cdn.statica
 KTV_2038/A;;Magyar Államkötvény 2038/A;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/ktv_2038_a.json
 KTV_2041/A;;Magyar Államkötvény 2041/A;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/ktv_2041_a.json
 KTV_2051/G;;Magyar Államkötvény 2051/G;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/ktv_2051_g.json
-1MÁP_K2025/04;;Egyéves Magyar Állampapír K2025/04;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_04.json
 1MÁP_K2025/05;;Egyéves Magyar Állampapír K2025/05;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_05.json
 1MÁP_K2025/06;;Egyéves Magyar Állampapír K2025/06;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_06.json
 1MÁP_K2025/07;;Egyéves Magyar Állampapír K2025/07;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_07.json
