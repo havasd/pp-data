@@ -1,1 +1,6 @@
 ticker symbol;isin;security name;currency;note;
+ARANY_CSEND;;Aranykor Csendélet;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/csendelet.json
+ARANY_KLASS;;Aranykor Klasszikus;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/klasszikus.json
+ARANY_EGYEN;;Aranykor Egyensúly;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/egyensuly.json
+ARANY_LENDÜ;;Aranykor Lendület;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/lendulet.json
+ARANY_ESG D;;Aranykor ESG Dinamikus;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/esg_dinamikus.json
