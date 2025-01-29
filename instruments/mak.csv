@@ -8,6 +8,32 @@ EMÁP_2027/U;;Euro Magyar Állampapír 2027/U;EUR;JSON feed url: https://cdn.sta
 PEMÁP_2028/X;;Prémium Euró Magyar Állampapír 2028/X;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/pemap_2028_x_eur.json
 PEMÁP_2028/Y;;Prémium Euró Magyar Állampapír 2028/Y;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/pemap_2028_y_eur.json
 EMÁP_2028/U;;Euro Magyar Állampapír 2028/U;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/emap_2028_u_eur.json
+1MÁP_K2025/06;;Egyéves Magyar Állampapír K2025/06;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_06.json
+1MÁP_K2025/07;;Egyéves Magyar Állampapír K2025/07;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_07.json
+1MÁP_K2025/08;;Egyéves Magyar Állampapír K2025/08;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_08.json
+1MÁP_K2025/09;;Egyéves Magyar Állampapír K2025/09;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_09.json
+1MÁP_K2025/10;;Egyéves Magyar Állampapír K2025/10;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_10.json
+1MÁP_K2025/11;;Egyéves Magyar Állampapír K2025/11;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_11.json
+1MÁP_K2025/12;;Egyéves Magyar Állampapír K2025/12;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_12.json
+1MÁP_K2025/13;;Egyéves Magyar Állampapír K2025/13;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_13.json
+1MÁP_K2025/14;;Egyéves Magyar Állampapír K2025/14;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_14.json
+1MÁP_K2025/15;;Egyéves Magyar Állampapír K2025/15;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_15.json
+1MÁP_K2025/16;;Egyéves Magyar Állampapír K2025/16;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_16.json
+1MÁP_K2025/17;;Egyéves Magyar Állampapír K2025/17;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_17.json
+1MÁP_K2025/18;;Egyéves Magyar Állampapír K2025/18;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_18.json
+1MÁP_K2025/19;;Egyéves Magyar Állampapír K2025/19;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_19.json
+1MÁP_K2025/20;;Egyéves Magyar Állampapír K2025/20;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_20.json
+1MÁP_K2025/21;;Egyéves Magyar Állampapír K2025/21;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_21.json
+1MÁP_K2025/22;;Egyéves Magyar Állampapír K2025/22;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_22.json
+1MÁP_K2025/23;;Egyéves Magyar Állampapír K2025/23;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_23.json
+DKJ250219;;Diszkont Kincstárjegy 250219;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250219.json
+DKJ250319;;Diszkont Kincstárjegy 250319;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250319.json
+DKJ250430;;Diszkont Kincstárjegy 250430;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250430.json
+DKJ250528;;Diszkont Kincstárjegy 250528;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250528.json
+DKJ250625;;Diszkont Kincstárjegy 250625;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250625.json
+DKJ250821;;Diszkont Kincstárjegy 250821;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250821.json
+DKJ251029;;Diszkont Kincstárjegy 251029;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d251029.json
+DKJ251223;;Diszkont Kincstárjegy 251223;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d251223.json
 PMÁP_2025/I;;Prémium Magyar Állampapír 2025/I;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/pmap_2025_i.json
 PMÁP_2025/K;;Prémium Magyar Állampapír 2025/K;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/pmap_2025_k.json
 PMÁP_2025/J;;Prémium Magyar Állampapír 2025/J;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/pmap_2025_j.json
@@ -78,33 +104,6 @@ BABA_2040/S;;Babakötvény 2040/S;HUF;JSON feed url: https://cdn.statically.io/g
 BABA_2041/S;;Babakötvény 2041/S;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/baba_2041_s_baba.json
 BABA_2042/S;;Babakötvény 2042/S;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/baba_2042_s_baba.json
 BABA_2043/S;;Babakötvény 2043/S;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/baba_2043_s_baba.json
-1MÁP_K2025/06;;Egyéves Magyar Állampapír K2025/06;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_06.json
-1MÁP_K2025/07;;Egyéves Magyar Állampapír K2025/07;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_07.json
-1MÁP_K2025/08;;Egyéves Magyar Állampapír K2025/08;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_08.json
-1MÁP_K2025/09;;Egyéves Magyar Állampapír K2025/09;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_09.json
-1MÁP_K2025/10;;Egyéves Magyar Állampapír K2025/10;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_10.json
-1MÁP_K2025/11;;Egyéves Magyar Állampapír K2025/11;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_11.json
-1MÁP_K2025/12;;Egyéves Magyar Állampapír K2025/12;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_12.json
-1MÁP_K2025/13;;Egyéves Magyar Állampapír K2025/13;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_13.json
-1MÁP_K2025/14;;Egyéves Magyar Állampapír K2025/14;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_14.json
-1MÁP_K2025/15;;Egyéves Magyar Állampapír K2025/15;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_15.json
-1MÁP_K2025/16;;Egyéves Magyar Állampapír K2025/16;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_16.json
-1MÁP_K2025/17;;Egyéves Magyar Állampapír K2025/17;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_17.json
-1MÁP_K2025/18;;Egyéves Magyar Állampapír K2025/18;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_18.json
-1MÁP_K2025/19;;Egyéves Magyar Állampapír K2025/19;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_19.json
-1MÁP_K2025/20;;Egyéves Magyar Állampapír K2025/20;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_20.json
-1MÁP_K2025/21;;Egyéves Magyar Állampapír K2025/21;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_21.json
-1MÁP_K2025/22;;Egyéves Magyar Állampapír K2025/22;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_22.json
-1MÁP_K2025/23;;Egyéves Magyar Állampapír K2025/23;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/1map_k2025_23.json
-DKJ250219;;Diszkont Kincstárjegy 250219;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250219.json
-DKJ250319;;Diszkont Kincstárjegy 250319;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250319.json
-DKJ250430;;Diszkont Kincstárjegy 250430;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250430.json
-DKJ250528;;Diszkont Kincstárjegy 250528;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250528.json
-DKJ250625;;Diszkont Kincstárjegy 250625;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250625.json
-DKJ250821;;Diszkont Kincstárjegy 250821;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d250821.json
-DKJ251029;;Diszkont Kincstárjegy 251029;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d251029.json
-DKJ251223;;Diszkont Kincstárjegy 251223;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/dkj_d251223.json
-MÁPP_N2025/05;;Magyar Állampapír Plusz N2025/05;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_05.json
 MÁPP_N2025/06;;Magyar Állampapír Plusz N2025/06;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_06.json
 MÁPP_N2025/07;;Magyar Állampapír Plusz N2025/07;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_07.json
 MÁPP_N2025/08;;Magyar Állampapír Plusz N2025/08;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mak/mapp_n2025_08.json
