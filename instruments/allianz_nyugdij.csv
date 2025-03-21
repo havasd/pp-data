@@ -1,6 +1,1 @@
 ticker symbol;isin;security name;currency;note;
-ALLÖNYP_KLASS;;Allianz Önkéntes Pénztárak Klasszikus;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/allianz_nyugdij/klasszikus.json
-ALLÖNYP_KIEGY;;Allianz Önkéntes Pénztárak Kiegyensúlyozott;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/allianz_nyugdij/kiegyensulyozott.json
-ALLÖNYP_NÖVEK;;Allianz Önkéntes Pénztárak Növekedési;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/allianz_nyugdij/novekedesi.json
-ALLÖNYP_KOCKÁ;;Allianz Önkéntes Pénztárak Kockázatvállaló;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/allianz_nyugdij/kockazatvallalo.json
-ALLÖNYP_BANKT;;Allianz Önkéntes Pénztárak Banktechnikai járadékosok;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/allianz_nyugdij/banktechnikai.json
