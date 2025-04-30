@@ -1,7 +1,7 @@
 ticker symbol;isin;security name;currency;note;
-OTPNY_NÖVEK;;OTP Önkéntes Nyugdíjpénztári Növekedési portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/otp_nyugdij/novekedesi.json
-OTPNY_KLASS;;OTP Önkéntes Nyugdíjpénztári Klasszikus portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/otp_nyugdij/klasszikus.json
 OTPNY_KOCKÁ;;OTP Önkéntes Nyugdíjpénztári Kockázatkerülő portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/otp_nyugdij/kockazatkerulo.json
 OTPNY_DINAM;;OTP Önkéntes Nyugdíjpénztári Dinamikus portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/otp_nyugdij/dinamikus.json
-OTPNY_ÓVATO;;OTP Önkéntes Nyugdíjpénztári Óvatos portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/otp_nyugdij/ovatos.json
 OTPNY_KIEGY;;OTP Önkéntes Nyugdíjpénztári Kiegyensúlyozott portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/otp_nyugdij/kiegyensulyozott.json
+OTPNY_KLASS;;OTP Önkéntes Nyugdíjpénztári Klasszikus portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/otp_nyugdij/klasszikus.json
+OTPNY_NÖVEK;;OTP Önkéntes Nyugdíjpénztári Növekedési portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/otp_nyugdij/novekedesi.json
+OTPNY_ÓVATO;;OTP Önkéntes Nyugdíjpénztári Óvatos portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/otp_nyugdij/ovatos.json
