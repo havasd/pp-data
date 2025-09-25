@@ -1,14 +1,1 @@
 ticker symbol;isin;security name;currency;note;
-PANÖNYP_ZAFÍR;;Pannónia Nyugdíjpénztár Zafír portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/zafir.json
-PANÖNYP_SMARA;;Pannónia Nyugdíjpénztár Smaragd portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/smaragd.json
-PANÖNYP_RUBIN;;Pannónia Nyugdíjpénztár Rubin portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/rubin.json
-PANÖNYP_MOBIL;;Pannónia Nyugdíjpénztár MOBILITÁS likvid portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/mobilitas_likvid.json
-PANÖNYP_XI.K;;Pannónia Nyugdíjpénztár XI. kerület portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/xi._kerulet.json
-PANÖNYP_QUAES;;Pannónia Nyugdíjpénztár Quaestor portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/quaestor.json
-PANÖNYP_SZOLG;;Pannónia Nyugdíjpénztár Szolgáltatási  portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/szolgaltatasi_.json
-PANÖNYP_IPOSZ;;Pannónia Nyugdíjpénztár IPOSZ beolvadó portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/iposz_beolvado.json
-PANÖNYP_NKMA;;Pannónia Nyugdíjpénztár NKM Abszolút hozamú beolvadó portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/nkm_abszolut_hozamu_beolvado.json
-PANÖNYP_NKMK;;Pannónia Nyugdíjpénztár NKM Kiegyensúlyozott beolvadó portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/nkm_kiegyensulyozott_beolvado.json
-PANÖNYP_GYÉMÁ;;Pannónia Nyugdíjpénztár Gyémánt portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/gyemant.json
-PANÖNYP_DIMEN;;Pannónia Nyugdíjpénztár DIMENZIÓ portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/dimenzio.json
-PANÖNYP_BOROS;;Pannónia Nyugdíjpénztár Borostyán portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/pannonia_nyugdij/borostyan.json
