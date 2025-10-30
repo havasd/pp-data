@@ -4,17 +4,17 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000735857;Erste Nyíltvégű Pénzpiaci Befektetési Alap D sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735857.json
 ;HU0000732789;OTP Prémium Pénzpiaci Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732789.json
 ;HU0000712161;OTP Prémium Pénzpiaci Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712161.json
-;HU0000711619;VIG Lengyel Pénzpiaci Befektetési Alap I sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711619.json
 ;HU0000711601;VIG Lengyel Pénzpiaci Befektetési Alap A sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711601.json
-;HU0000702303;VIG Magyar Pénzpiaci Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702303.json
+;HU0000711619;VIG Lengyel Pénzpiaci Befektetési Alap I sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711619.json
 ;HU0000718135;VIG Magyar Pénzpiaci Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718135.json
+;HU0000702303;VIG Magyar Pénzpiaci Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702303.json
 ;HU0000731484;Accorde Trezor Euró Részalap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731484.json
 ;HU0000730858;Accorde Trezor Forint Rövid Kötvény Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730858.json
 ;HU0000720784;Accorde Trezor USD Alap;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720784.json
 ;HU0000707146;Allianz Rövid Kötvényalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707146.json
-;HU0000701909;Amundi Óvatos Kötvény Alap A Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701909.json
 ;HU0000734850;Amundi Óvatos Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734850.json
 ;HU0000704168;Amundi Óvatos Kötvény Alap C Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000704168.json
+;HU0000701909;Amundi Óvatos Kötvény Alap A Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701909.json
 ;HU0000706627;Amundi Óvatos Kötvény Alap I Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706627.json
 ;HU0000715834;APELSO EUR Rövid Kötvény Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715834.json
 ;HU0000731393;APELSO HUF Rövid Kötvény Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731393.json
@@ -32,16 +32,16 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000702063;Generali Rövid Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702063.json
 ;HU0000701685;HOLD Rövid Futamidejű Kötvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701685.json
 ;HU0000735956;"K&H Állampapír felelős befektetés kötvény alap ""rendszeres"" sorozat";HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735956.json
-;HU0000718762;K&H Állampapír felelős befektetés kötvény alap F sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718762.json
 ;HU0000712872;"K&H Állampapír felelős befektetés kötvény alap ""normál"" sorozat";HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712872.json
+;HU0000718762;K&H Állampapír felelős befektetés kötvény alap F sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718762.json
 ;HU0000702337;K&H aranykosár felelős befektetés nyíltvégű befektetési kötvényalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702337.json
 ;HU0000732284;K&H aranykosár felelős befektetés nyíltvégű befektetési kötvényalap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732284.json
-;HU0000714548;MARKETPROG Bond Derivatív Kötvény Származtatott Részalap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714548.json
 ;HU0000730288;MARKETPROG Bond Derivatív Kötvény Származtatott Részalap D sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730288.json
-;HU0000714688;MARKETPROG Bond Derivatív Kötvény Származtatott Részalap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714688.json
-;HU0000719364;MARKETPROG Bond Derivatív Kötvény Származtatott Részalap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719364.json
 ;HU0000714555;MARKETPROG Bond Derivatív Kötvény Származtatott Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714555.json
 ;HU0000719356;MARKETPROG Bond Derivatív Kötvény Származtatott Részalap C sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719356.json
+;HU0000719364;MARKETPROG Bond Derivatív Kötvény Származtatott Részalap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719364.json
+;HU0000714688;MARKETPROG Bond Derivatív Kötvény Származtatott Részalap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714688.json
+;HU0000714548;MARKETPROG Bond Derivatív Kötvény Származtatott Részalap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714548.json
 ;HU0000715339;MBH Bázis Euró Rövid Kötvény Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715339.json
 ;HU0000702691;MBH Bázis Hazai Rövid Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702691.json
 ;HU0000715446;MBH Bázis Hazai Rövid Kötvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715446.json
@@ -49,10 +49,10 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000708052;MBH Bonitas Dollár Kötvény Alap;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708052.json
 ;HU0000707138;MBH Bonitas Euro Kötvény Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707138.json
 ;HU0000702725;MBH Bonitas Kötvényalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702725.json
-;HU0000711668;MBH Dollár Rövid Kötvény Alap A sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711668.json
 ;HU0000727656;MBH Dollár Rövid Kötvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727656.json
-;HU0000702170;OTP Dollár Rövid Kötvény Alap A sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702170.json
+;HU0000711668;MBH Dollár Rövid Kötvény Alap A sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711668.json
 ;HU0000732763;OTP Dollár Rövid Kötvény Alap I sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732763.json
+;HU0000702170;OTP Dollár Rövid Kötvény Alap A sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702170.json
 ;HU0000732771;OTP Euró Rövid Kötvény Alap I sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732771.json
 ;HU0000702162;OTP Euró Rövid Kötvény Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702162.json
 ;HU0000713912;OTP Optima Tőkegarantált Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713912.json
@@ -61,9 +61,9 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000718242;PRESTIGE Start Kötvény Származtatott Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718242.json
 ;HU0000733126;PRESTIGE Start Kötvény Származtatott Befektetési Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733126.json
 ;HU0000733134;PRESTIGE Start Kötvény Származtatott Befektetési Alap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733134.json
-;HU0000731351;Raiffeisen ESG Rövid Kötvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731351.json
-;HU0000731377;Raiffeisen ESG Rövid Kötvény Alapok Alapja U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731377.json
 ;HU0000731369;Raiffeisen ESG Rövid Kötvény Alapok Alapja E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731369.json
+;HU0000731377;Raiffeisen ESG Rövid Kötvény Alapok Alapja U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731377.json
+;HU0000731351;Raiffeisen ESG Rövid Kötvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731351.json
 ;HU0000708508;Raiffeisen Euró Prémium Rövid kötvény Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708508.json
 ;HU0000702758;Raiffeisen Kamat Prémium Rövid Kötvény Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702758.json
 ;HU0000725338;Reverse MAX Kötvény származtatott Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725338.json
@@ -71,86 +71,86 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000734918;SIFI Rövid Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734918.json
 ;HU0000731781;VIG Cseh Rövid Kötvény Befektetési Alap A sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731781.json
 ;HU0000731799;VIG Cseh Rövid Kötvény Befektetési Alap I sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731799.json
+;HU0000731963;VIG Fejlett Piaci Rövid Kötvény Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731963.json
+;HU0000731971;VIG Fejlett Piaci Rövid Kötvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731971.json
 ;HU0000732052;VIG Fejlett Piaci Rövid Kötvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732052.json
 ;HU0000732045;VIG Fejlett Piaci Rövid Kötvény Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732045.json
-;HU0000731971;VIG Fejlett Piaci Rövid Kötvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731971.json
-;HU0000731963;VIG Fejlett Piaci Rövid Kötvény Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731963.json
-;HU0000735154;VIG Svájci Frank Rövid Kötvény Befektetési Alap CHF- I sorozat;CHF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735154.json
-;HU0000735139;VIG Svájci Frank Rövid Kötvény Befektetési Alap HUF-R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735139.json
 ;HU0000735147;VIG Svájci Frank Rövid Kötvény Befektetési Alap CHF-R sorozat;CHF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735147.json
+;HU0000735139;VIG Svájci Frank Rövid Kötvény Befektetési Alap HUF-R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735139.json
+;HU0000735154;VIG Svájci Frank Rövid Kötvény Befektetési Alap CHF- I sorozat;CHF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735154.json
 ;HU0000708201;Allianz Kötvényalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708201.json
-;HU0000701834;Amundi Magyar Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701834.json
-;HU0000734868;Amundi Magyar Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734868.json
 ;HU0000706635;Amundi Magyar Kötvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706635.json
+;HU0000734868;Amundi Magyar Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734868.json
+;HU0000701834;Amundi Magyar Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701834.json
 ;HU0000711692;Erste DPM Nyíltvégű Nemzetközi Kötvény Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711692.json
 ;HU0000719521;ERSTE Nyíltvégű XL Kötvény Befektetési Alap D sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719521.json
 ;HU0000707716;ERSTE Nyíltvégű XL Kötvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707716.json
 ;HU0000702592;Eurizon Kincsem Kötvény Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702592.json
-;HU0000705736;Generali Hazai Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705736.json
 ;HU0000702071;Generali Hazai Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702071.json
+;HU0000705736;Generali Hazai Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705736.json
 ;HU0000702857;Gránit Kötvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702857.json
 ;HU0000702030;HOLD Kötvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702030.json
-;HU0000720644;K&H Kötvény Nyíltvégű Befektetési Alap F Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720644.json
 ;HU0000702345;"K&H Kötvény Nyíltvégű Befektetési Alap ""normál"" sorozat";HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702345.json
-;HU0000702709;MBH Hazai Hosszú Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702709.json
+;HU0000720644;K&H Kötvény Nyíltvégű Befektetési Alap F Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720644.json
 ;HU0000720628;MBH Hazai Hosszú Kötvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720628.json
-;HU0000713904;OTP Maxima Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713904.json
+;HU0000702709;MBH Hazai Hosszú Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702709.json
 ;HU0000702865;OTP Maxima Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702865.json
-;HU0000725148;OTP Meta Globális Kötvény Alap I sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725148.json
+;HU0000713904;OTP Maxima Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713904.json
 ;HU0000724604;OTP Meta Globális Kötvény Alap A sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724604.json
-;HU0000702782;Raiffeisen Hazai Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702782.json
-;HU0000722848;Raiffeisen Hazai Kötvény Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722848.json
-;HU0000718259;Raiffeisen Hazai Kötvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718259.json
+;HU0000725148;OTP Meta Globális Kötvény Alap I sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725148.json
 ;HU0000708854;Raiffeisen Hazai Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708854.json
-;HU0000732144;VIG GreenBond Kötvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732144.json
-;HU0000732177;VIG GreenBond Kötvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732177.json
+;HU0000702782;Raiffeisen Hazai Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702782.json
+;HU0000718259;Raiffeisen Hazai Kötvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718259.json
+;HU0000722848;Raiffeisen Hazai Kötvény Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722848.json
 ;HU0000732136;VIG GreenBond Kötvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732136.json
+;HU0000732177;VIG GreenBond Kötvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732177.json
+;HU0000732144;VIG GreenBond Kötvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732144.json
 ;HU0000733332;VIG GreenBond Kötvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733332.json
+;HU0000705256;VIG Lengyel Kötvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705256.json
 ;HU0000710942;VIG Lengyel Kötvény Befektetési Alap I sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710942.json
 ;HU0000713565;VIG Lengyel Kötvény Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713565.json
-;HU0000705256;VIG Lengyel Kötvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705256.json
-;HU0000718127;VIG Magyar Kötvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718127.json
 ;HU0000702493;VIG Magyar Kötvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702493.json
+;HU0000718127;VIG Magyar Kötvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718127.json
+;HU0000722681;Amundi Rugalmas Kötvény Alap Z sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722681.json
+;HU0000734876;Amundi Rugalmas Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734876.json
 ;HU0000722673;Amundi Rugalmas Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722673.json
 ;HU0000722459;Amundi Rugalmas Kötvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722459.json
-;HU0000734876;Amundi Rugalmas Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734876.json
-;HU0000722681;Amundi Rugalmas Kötvény Alap Z sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722681.json
-;HU0000706494;APELSO INCOME Kötvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706494.json
 ;HU0000713367;APELSO INCOME Kötvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713367.json
-;HU0000719539;ERSTE Nyíltvégű Abszolút Hozamú Kötvényalap D sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719539.json
+;HU0000706494;APELSO INCOME Kötvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706494.json
 ;HU0000710694;ERSTE Nyíltvégű Abszolút Hozamú Kötvényalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710694.json
+;HU0000719539;ERSTE Nyíltvégű Abszolút Hozamú Kötvényalap D sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719539.json
 ;HU0000717525;Erste Nyíltvégű Dollár Abszolút Hozamú Kötvény Befektetési Alap;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717525.json
 ;HU0000719562;Erste Nyíltvégű Dollár Abszolút Hozamú Kötvény Befektetési Alap D sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719562.json
 ;HU0000728159;Erste Nyíltvégű Euró Abszolút Hozamú Kötvény Befektetési Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728159.json
 ;HU0000714621;Eurizon Globális Kötvény Alapok Részalapja, a Eurizon Esernyőalap részalapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714621.json
 ;HU0000710132;Eurizon Globális Vállalati Kötvény Alapok Részalapja, a Eurizon Esernyőalap részalapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710132.json
 ;HU0000723473;MBH Fejlett Piaci Vállalati Kötvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723473.json
-;HU0000723481;MBH Fejlett Piaci Vállalati Kötvény Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723481.json
 ;HU0000723499;MBH Fejlett Piaci Vállalati Kötvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723499.json
+;HU0000723481;MBH Fejlett Piaci Vállalati Kötvény Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723481.json
 ;HU0000711239;MBH Feltörekvő Piaci Kötvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711239.json
 ;HU0000708615;MBH Feltörekvő Piaci Kötvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708615.json
 ;HU0000709860;MBH Feltörekvő Piaci Kötvény Alap CZK sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709860.json
-;HU0000701560;MBH Vállalati Deviza Kötvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701560.json
 ;HU0000737499;MBH Vállalati Deviza Kötvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737499.json
 ;HU0000706429;MBH Vállalati Deviza Kötvény Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706429.json
 ;HU0000717830;MBH Vállalati Deviza Kötvény Alap I sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717830.json
-;HU0000711015;OTP EMEA Kötvény Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711015.json
+;HU0000701560;MBH Vállalati Deviza Kötvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701560.json
 ;HU0000718309;OTP EMEA Kötvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718309.json
+;HU0000711015;OTP EMEA Kötvény Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711015.json
 ;HU0000733480;OTP Stratégiai Euró Kötvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733480.json
 ;HU0000733472;OTP Stratégiai Euró Kötvény Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733472.json
 ;HU0000734934;SIFI Kötvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734934.json
-;HU0000702477;VIG Fejlett Piaci Államkötvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702477.json
 ;HU0000724224;VIG Fejlett Piaci Államkötvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724224.json
-;HU0000732235;VIG Fejlett Piaci Államkötvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732235.json
 ;HU0000732219;VIG Fejlett Piaci Államkötvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732219.json
-;HU0000724257;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724257.json
+;HU0000732235;VIG Fejlett Piaci Államkötvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732235.json
+;HU0000702477;VIG Fejlett Piaci Államkötvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702477.json
+;HU0000706114;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706114.json
 ;HU0000724232;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724232.json
 ;HU0000724273;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap Pl sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724273.json
-;HU0000724265;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724265.json
 ;HU0000718408;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718408.json
-;HU0000718416;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718416.json
 ;HU0000724240;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724240.json
-;HU0000706114;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706114.json
+;HU0000718416;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718416.json
+;HU0000724265;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724265.json
+;HU0000724257;VIG Globális Feltörekvő Piaci Kötvény Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724257.json
 ;HU0000737531;Erste Euro Megtakarítási Vegyes Értékpapíralap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737531.json
 ;HU0000709993;Erste Multi Asset Base Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709993.json
 ;HU0000715149;Eurizon Euró Relax Vegyes Részalap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715149.json
@@ -159,15 +159,15 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000737192;Eurizon Konzervatív Private Banking Vagyon Vegyes Alapok Részalapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737192.json
 ;HU0000715131;Eurizon Relax Vegyes Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715131.json
 ;HU0000732367;K&H kényelem felelős befektetés nyíltvégű alapok alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732367.json
-;HU0000724455;K&H kényelem felelős befektetés nyíltvégű alapok alapja normál sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724455.json
 ;HU0000724463;K&H kényelem felelős befektetés nyíltvégű alapok alapja rendszeres sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724463.json
-;HU0000718002;K&H nemzetközi vegyes alapok nyíltvégű befektetési alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718002.json
+;HU0000724455;K&H kényelem felelős befektetés nyíltvégű alapok alapja normál sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724455.json
 ;HU0000709175;K&H nemzetközi vegyes alapok nyíltvégű befektetési alapja EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709175.json
+;HU0000718002;K&H nemzetközi vegyes alapok nyíltvégű befektetési alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718002.json
 ;HU0000703418;K&H válogatott kényelem alapok alapja normál sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703418.json
 ;HU0000720750;K&H válogatott kényelem alapok alapja Rendszeres sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720750.json
 ;HU0000732334;K&H válogatott kényelem alapok alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732334.json
-;HU0000726252;OTP Céldátum 2025 Vegyes Alapba Fektető Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726252.json
 ;HU0000726260;OTP Céldátum 2025 Vegyes Alapba Fektető Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726260.json
+;HU0000726252;OTP Céldátum 2025 Vegyes Alapba Fektető Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726252.json
 ;HU0000715545;OTP Prémium Aktív Klasszikus Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715545.json
 ;HU0000705017;OTP Prémium Klasszikus Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705017.json
 ;HU0000715537;OTP Prémium Trend Klasszikus Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715537.json
@@ -175,24 +175,24 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000730536;Raiffeisen ESG Konzervatív Vegyes Alapok Alapja U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730536.json
 ;HU0000719059;Raiffeisen ESG Konzervatív Vegyes Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719059.json
 ;HU0000705983;Raiffeisen ESG Konzervatív Vegyes Alapok Alapja E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705983.json
-;HU0000725544;VIG Konzervatív Alapokba Fektető Részalap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725544.json
 ;HU0000714076;VIG Konzervatív Alapokba Fektető Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714076.json
+;HU0000725544;VIG Konzervatív Alapokba Fektető Részalap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725544.json
 ;HU0000714068;VIG Tempó Andante 1 Alapokba Fektető Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714068.json
 ;HU0000714084;VIG Tempó Andante 3 Alapokba Fektető Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714084.json
+;HU0000721774;Accorde Cuvée Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721774.json
 ;HU0000730890;Accorde Cuvée Befektetési Alap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730890.json
 ;HU0000721782;Accorde Cuvée Befektetési Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721782.json
-;HU0000721774;Accorde Cuvée Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721774.json
 ;HU0000720438;Accorde Techno Részalap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720438.json
 ;HU0000721949;Amundi Diszruptív Vállalatok Vegyes Alapok Alapja A;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721949.json
 ;HU0000717418;Amundi Jövő Infrastruktúrája Vegyes Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717418.json
 ;HU0000726211;Amundi Klímatudatos ESG Vegyes Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726211.json
 ;HU0000721931;Amundi Kor Trend Vegyes Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721931.json
+;HU0000701941;Amundi Nemzetközi Vegyes Alapok Alapja D Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701941.json
 ;HU0000706643;Amundi Nemzetközi Vegyes Alapok Alapja A Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706643.json
 ;HU0000706650;Amundi Nemzetközi Vegyes Alapok Alapja I Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706650.json
-;HU0000701941;Amundi Nemzetközi Vegyes Alapok Alapja D Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701941.json
 ;HU0000735923;APELSO Wealth Management Kiegyensúlyozott Vegyes Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735923.json
-;HU0000707732;APELSO Wealth Management Kiegyensúlyozott Vegyes Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707732.json
 ;HU0000726641;APELSO Wealth Management Kiegyensúlyozott Vegyes Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726641.json
+;HU0000707732;APELSO Wealth Management Kiegyensúlyozott Vegyes Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707732.json
 ;HU0000707187;BFM Balanced Alap;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707187.json
 ;HU0000705785;BFM Konzervativni Vegyes Alap;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705785.json
 ;HU0000717533;Erste Dollár Duett Alapok Alapja;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717533.json
@@ -211,37 +211,37 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000714944;Eurizon Euró Balance Vegyes Alapok Részalapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714944.json
 ;HU0000721451;Eurizon Kiegyensúlyozott Private Banking Vagyon Vegyes Alapok Részalapja HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721451.json
 ;HU0000716071;Gránit Harmónia Vegyes Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716071.json
+;HU0000724711;HOLD 2000 Nyíltvégű Vegyes Értékpapíralap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724711.json
 ;HU0000701693;HOLD 2000 Nyíltvégű Vegyes Értékpapíralap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701693.json
 ;HU0000724737;HOLD 2000 Nyíltvégű Vegyes Értékpapíralap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724737.json
-;HU0000724711;HOLD 2000 Nyíltvégű Vegyes Értékpapíralap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724711.json
-;HU0000715180;HOLD 3000 Nyíltvégű Vegyes Értékpapíralap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715180.json
-;HU0000724760;HOLD 3000 Nyíltvégű Vegyes Értékpapíralap I sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724760.json
 ;HU0000724745;HOLD 3000 Nyíltvégű Vegyes Értékpapíralap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724745.json
-;HU0000720768;K&H válogatott lendület alapok alapja Rendszeres sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720768.json
-;HU0000703426;K&H válogatott lendület alapok alapja normál sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703426.json
+;HU0000724760;HOLD 3000 Nyíltvégű Vegyes Értékpapíralap I sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724760.json
+;HU0000715180;HOLD 3000 Nyíltvégű Vegyes Értékpapíralap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715180.json
 ;HU0000732342;K&H válogatott lendület alapok alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732342.json
-;HU0000732565;MBH Egyensúly Vegyes Értékpapíralap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732565.json
-;HU0000736467;MBH Egyensúly Vegyes Értékpapíralap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736467.json
+;HU0000703426;K&H válogatott lendület alapok alapja normál sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703426.json
+;HU0000720768;K&H válogatott lendület alapok alapja Rendszeres sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720768.json
 ;HU0000736475;MBH Egyensúly Vegyes Értékpapíralap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736475.json
+;HU0000736467;MBH Egyensúly Vegyes Értékpapíralap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736467.json
 ;HU0000712203;MBH Egyensúly Vegyes Értékpapíralap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712203.json
+;HU0000732565;MBH Egyensúly Vegyes Értékpapíralap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732565.json
 ;HU0000735337;MBH Ingatlanpiaci Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735337.json
 ;HU0000716337;MBH Prémium Kiegyensúlyozott Vegyes Értékpapír Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716337.json
 ;HU0000716345;MBH Prémium Konzervatív Vegyes Értékpapír Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716345.json
-;HU0000736384;MBH Ütemező 3 Alapok Alapja EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736384.json
 ;HU0000736376;MBH Ütemező 3 Alapok Alapja HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736376.json
+;HU0000736384;MBH Ütemező 3 Alapok Alapja EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736384.json
 ;HU0000736392;MBH Ütemező 3 Alapok Alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736392.json
-;HU0000726278;OTP Céldátum 2030 Vegyes Alapba Fektető Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726278.json
 ;HU0000726286;OTP Céldátum 2030 Vegyes Alapba Fektető Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726286.json
+;HU0000726278;OTP Céldátum 2030 Vegyes Alapba Fektető Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726278.json
 ;HU0000729801;OTP Multi-Asset Kiegyensúlyozott Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729801.json
 ;HU0000729793;OTP Multi-Asset Konzervatív Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729793.json
 ;HU0000720313;OTP Paletta Származtatott Vegyes Értékpapíralap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720313.json
 ;HU0000702881;OTP Paletta Származtatott Vegyes Értékpapíralap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702881.json
 ;HU0000705041;OTP Prémium Euró Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705041.json
 ;HU0000705025;OTP Prémium Kiegyensúlyozott Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705025.json
-;HU0000724414;Raiffeisen ESG Vegyes Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724414.json
 ;HU0000724430;Raiffeisen ESG Vegyes Alapok Alapja F sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724430.json
-;HU0000724422;Raiffeisen ESG Vegyes Alapok Alapja U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724422.json
 ;HU0000714803;Raiffeisen ESG Vegyes Alapok Alapja E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714803.json
+;HU0000724422;Raiffeisen ESG Vegyes Alapok Alapja U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724422.json
+;HU0000724414;Raiffeisen ESG Vegyes Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724414.json
 ;HU0000736954;SIFI Optimum Vegyes Értékpapíralap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736954.json
 ;HU0000725551;VIG Kiegyensúlyozott Alapokba Fektető Részalap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725551.json
 ;HU0000714118;VIG Kiegyensúlyozott Alapokba Fektető Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714118.json
@@ -260,12 +260,12 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000728753;K&H iram felelős befektetés nyíltvégű alapok alapja rendszeres sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728753.json
 ;HU0000728746;K&H iram felelős befektetés nyíltvégű alapok alapja normál sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728746.json
 ;HU0000732078;K&H iram felelős befektetés nyíltvégű alapok alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732078.json
-;HU0000732060;K&H lendület felelős befektetés nyíltvégű alapok alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732060.json
 ;HU0000723176;K&H lendület felelős befektetés nyíltvégű alapok alapja rendszeres sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723176.json
+;HU0000732060;K&H lendület felelős befektetés nyíltvégű alapok alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732060.json
 ;HU0000723168;K&H lendület felelős befektetés nyíltvégű alapok alapja normál sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723168.json
 ;HU0000723010;K&H privátbanki hozamfizető nyíltvégű alapok alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723010.json
-;HU0000732359;K&H válogatott iram alapok alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732359.json
 ;HU0000722624;K&H válogatott iram alapok alapja Rendszeres sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722624.json
+;HU0000732359;K&H válogatott iram alapok alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732359.json
 ;HU0000703434;K&H válogatott iram alapok alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703434.json
 ;HU0000716329;MBH Prémium Dinamikus Vegyes Értékpapír Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716329.json
 ;HU0000716352;MBH Prémium Progresszív Vegyes Értékpapír Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716352.json
@@ -279,69 +279,69 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000726351;OTP Céldátum 2050 Alapba Fektető Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726351.json
 ;HU0000729785;OTP Multi-Asset Dinamikus Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729785.json
 ;HU0000705033;OTP Prémium Növekedési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705033.json
-;HU0000734645;VIG Active Beta Flexible Allocation Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734645.json
 ;HU0000734611;VIG Active Beta Flexible Allocation Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734611.json
-;HU0000734629;VIG Active Beta Flexible Allocation Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734629.json
+;HU0000734645;VIG Active Beta Flexible Allocation Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734645.json
 ;HU0000734652;VIG Active Beta Flexible Allocation Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734652.json
+;HU0000734629;VIG Active Beta Flexible Allocation Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734629.json
 ;HU0000734553;VIG Active Beta Flexible Allocation Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734553.json
-;HU0000716105;VIG Európai Részvény Alapokba Fektető Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716105.json
 ;HU0000734041;VIG Európai Részvény Alapokba Fektető Részalap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734041.json
-;HU0000725569;VIG Növekedési Alapokba Fektető Részalap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725569.json
+;HU0000716105;VIG Európai Részvény Alapokba Fektető Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716105.json
 ;HU0000714159;VIG Növekedési Alapokba Fektető Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714159.json
+;HU0000725569;VIG Növekedési Alapokba Fektető Részalap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725569.json
 ;HU0000716113;VIG Prémium Everest Alapokba Fektető Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716113.json
 ;HU0000714134;VIG Tempó Allegro 8 Alapokba Fektető Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714134.json
 ;HU0000714142;VIG Tempó Allegro 9 Alapokba Fektető Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714142.json
-;HU0000738505;Accorde Blanc Részvényalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000738505.json
-;HU0000726658;Accorde Blanc Részvényalap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726658.json
 ;HU0000726666;Accorde Blanc Részvényalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726666.json
-;HU0000718614;Accorde Első Román Részvényalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718614.json
+;HU0000726658;Accorde Blanc Részvényalap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726658.json
+;HU0000738505;Accorde Blanc Részvényalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000738505.json
 ;HU0000718622;Accorde Első Román Részvényalap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718622.json
 ;HU0000718606;Accorde Első Román Részvényalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718606.json
-;HU0000722590;Accorde Spartan Görög Részvényalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722590.json
+;HU0000718614;Accorde Első Román Részvényalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718614.json
 ;HU0000722608;Accorde Spartan Görög Részvényalap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722608.json
+;HU0000722590;Accorde Spartan Görög Részvényalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722590.json
 ;HU0000722582;Accorde Spartan Görög Részvényalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722582.json
-;HU0000720966;Accorde Wojtek Lengyel Részvényalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720966.json
 ;HU0000720958;Accorde Wojtek Lengyel Részvényalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720958.json
 ;HU0000720974;Accorde Wojtek Lengyel Részvényalap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720974.json
-;HU0000722475;Accorde World Nemzetközi Részvényalap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722475.json
-;HU0000730726;Accorde World Nemzetközi Részvényalap H sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730726.json
+;HU0000720966;Accorde Wojtek Lengyel Részvényalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720966.json
 ;HU0000734504;Accorde World Nemzetközi Részvényalap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734504.json
-;HU0000716436;Accorde World Nemzetközi Részvényalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716436.json
+;HU0000722475;Accorde World Nemzetközi Részvényalap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722475.json
 ;HU0000722467;Accorde World Nemzetközi Részvényalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722467.json
+;HU0000730726;Accorde World Nemzetközi Részvényalap H sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730726.json
+;HU0000716436;Accorde World Nemzetközi Részvényalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716436.json
 ;HU0000708375;Allianz Hazai Indexkövető Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708375.json
 ;HU0000706668;Amundi Közép-európai Részvény Alap I Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706668.json
 ;HU0000701891;Amundi Közép-Európai Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701891.json
 ;HU0000709811;Amundi Magyar Indexkövető Részvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709811.json
 ;HU0000701842;Amundi Magyar Indexkövető Részvény Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701842.json
-;HU0000706676;Amundi Selecta Európai Részvény Alapok Alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706676.json
 ;HU0000702014;Amundi Selecta Európai Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702014.json
+;HU0000706676;Amundi Selecta Európai Részvény Alapok Alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706676.json
 ;HU0000706684;Amundi USA Devizarészvény Alapok Alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706684.json
 ;HU0000701883;Amundi USA Devizarészvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701883.json
 ;HU0000706510;APELSO Megatrends Részvény Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706510.json
 ;HU0000733621;Artemisz Digital Assets Részalap Nyílt végû Befektetési jegy B sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733621.json
 ;HU0000733613;Artemisz Digital Assets Részalap Nyílt végû Befektetési jegy A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733613.json
 ;HU0000735055;Artemisz Digital Assets Részalap Nyílt végû Befektetési jegy W sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735055.json
+;HU0000733662;Artemisz Nemzetközi Tőzsdei Guruk Alapja Részalap Nyílt végû Befektetési jegy B sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733662.json
 ;HU0000735071;Artemisz Nemzetközi Tőzsdei Guruk Alapja Részalap Nyílt végû Befektetési jegy W sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735071.json
 ;HU0000733654;Artemisz Nemzetközi Tőzsdei Guruk Alapja Részalap Nyílt végû Befektetési jegy A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733654.json
-;HU0000733662;Artemisz Nemzetközi Tőzsdei Guruk Alapja Részalap Nyílt végû Befektetési jegy B sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733662.json
 ;HU0000734165;AXIOM SEP Részvényalap;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734165.json
-;HU0000738455;Compass Részvény Származtatott Befektetési Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000738455.json
 ;HU0000738448;Compass Részvény Származtatott Befektetési Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000738448.json
+;HU0000738455;Compass Részvény Származtatott Befektetési Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000738455.json
 ;HU0000738463;Compass Részvény Származtatott Befektetési Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000738463.json
 ;HU0000726823;EQUILOR Ingatlan Trend Befektetési Alap Befektetési jegy A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726823.json
 ;HU0000733241;EQUILOR Ingatlan Trend Befektetési Alap Befektetési jegy B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733241.json
 ;HU0000714746;EQUILOR Közép-európai Részvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714746.json
 ;HU0000724877;EQUILOR Közép-európai Részvény Befektetési Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724877.json
 ;HU0000714753;EQUILOR Noé Nemzetközi Részvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714753.json
-;HU0000733233;EQUILOR Telekom Trend Befektetési Alap Nyíltvégű Befektetési jegy B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733233.json
 ;HU0000730262;EQUILOR Telekom Trend Befektetési Alap Nyíltvégű Befektetési jegy A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730262.json
-;HU0000731146;EQUILOR Wealth Office Részvény Részalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731146.json
+;HU0000733233;EQUILOR Telekom Trend Befektetési Alap Nyíltvégű Befektetési jegy B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733233.json
 ;HU0000731138;EQUILOR Wealth Office Részvény Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731138.json
 ;HU0000731153;EQUILOR Wealth Office Részvény Részalap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731153.json
+;HU0000731146;EQUILOR Wealth Office Részvény Részalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731146.json
 ;HU0000708631;ERSTE DPM Globális Részvény Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708631.json
 ;HU0000708649;Erste DPM Megatrend Alapok Alapja HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708649.json
-;HU0000723440;Erste DPM Megatrend Alapok Alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723440.json
 ;HU0000723432;Erste DPM Megatrend Alapok Alapja EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723432.json
+;HU0000723440;Erste DPM Megatrend Alapok Alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723440.json
 ;HU0000732011;Erste Emerging Markets Stock Cost Averaging Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732011.json
 ;HU0000737325;Erste ESG Stock Cost Averaging 7 Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737325.json
 ;HU0000726674;Erste ESG Stock Cost Averaging Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726674.json
@@ -349,8 +349,8 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000727276;Erste ESG Stock Cost Averaging USD Alapok Alapja;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727276.json
 ;HU0000726070;Erste Megatrend Cost Averaging Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726070.json
 ;HU0000712492;Erste Stock Global HUF Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712492.json
-;HU0000704200;Erste Stock Hungary Indexkövető Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000704200.json
 ;HU0000723457;Erste Stock Hungary Indexkövető Befektetési Alap D sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723457.json
+;HU0000704200;Erste Stock Hungary Indexkövető Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000704200.json
 ;HU0000730718;Eurizon Európai Részvény Alapok Részalapja EUR A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730718.json
 ;HU0000719588;Eurizon Európai Részvény Alapok Részalapja HUF-A  sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719588.json
 ;HU0000716907;Eurizon Fejlett Részvénypiaci Alapok Részalapja HUF-I;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716907.json
@@ -368,45 +368,45 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000706825;Generali Fejlődő Piaci Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706825.json
 ;HU0000710728;Generali Fejlődő Piaci Részvény Alapok Alapja B sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710728.json
 ;HU0000708805;Generali Főnix Távol-Keleti Részvény V/E Befektetési Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708805.json
-;HU0000710785;Generali Gold Közép-kelet-európai Részvény Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710785.json
 ;HU0000706809;Generali Gold Közép-kelet-európai Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706809.json
+;HU0000710785;Generali Gold Közép-kelet-európai Részvény Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710785.json
 ;HU0000708821;Generali IC Ázsiai Részvény V/E Befektetési Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708821.json
-;HU0000727029;Generali Innováció Részvény Alap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727029.json
 ;HU0000733829;Generali Innováció Részvény Alap D sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733829.json
 ;HU0000727011;Generali Innováció Részvény Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727011.json
 ;HU0000708813;Generali Innováció Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708813.json
+;HU0000727029;Generali Innováció Részvény Alap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727029.json
 ;HU0000705603;Generali Mustang Screened Amerikai Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705603.json
 ;HU0000710702;Generali Mustang Screened Amerikai Részvény Alap B sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710702.json
 ;HU0000716089;Gránit Fejlett Piaci Származtatott Részvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716089.json
 ;HU0000725593;Gránit Jövőkép ESG Részvény Származtatott Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725593.json
 ;HU0000719125;Gránit Közép-Európai Részvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719125.json
-;HU0000735501;HOLD 2029 Deep Value Részvény Befektetési Alap F sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735501.json
-;HU0000722715;HOLD 2029 Deep Value Részvény Befektetési Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722715.json
 ;HU0000722723;HOLD 2029 Deep Value Részvény Befektetési Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722723.json
-;HU0000735493;HOLD 2029 Deep Value Részvény Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735493.json
 ;HU0000722731;HOLD 2029 Deep Value Részvény Befektetési Alap C sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722731.json
+;HU0000735501;HOLD 2029 Deep Value Részvény Befektetési Alap F sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735501.json
 ;HU0000735485;HOLD 2029 Deep Value Részvény Befektetési Alap D sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735485.json
+;HU0000722715;HOLD 2029 Deep Value Részvény Befektetési Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722715.json
+;HU0000735493;HOLD 2029 Deep Value Részvény Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735493.json
 ;HU0000711916;HOLD Hozamkereső Európai Származtatott Részvény Befektetési Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711916.json
 ;HU0000706163;HOLD Közép-európai Részvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706163.json
 ;HU0000702295;HOLD Nemzetközi Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702295.json
 ;HU0000725205;HOLD Nemzetközi Részvény Alapok Alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725205.json
-;HU0000724778;HOLD Részvény Befektetési Alap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724778.json
 ;HU0000702022;HOLD Részvény Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702022.json
+;HU0000724778;HOLD Részvény Befektetési Alap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724778.json
 ;HU0000732292;K&H Amerika Alapok Nyíltvégű Befektetési Alapja I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732292.json
 ;HU0000717210;K&H Amerika Alapok Nyíltvégű Befektetési Alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717210.json
 ;HU0000701982;K&H Amerika Alapok Nyíltvégű Befektetési Alapja HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701982.json
 ;HU0000704432;K&H Ázsia Nyíltvégű Értékpapír Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000704432.json
 ;HU0000734884;K&H Ázsia Nyíltvégű Értékpapír Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734884.json
 ;HU0000708342;K&H Európa alapok alapja EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708342.json
-;HU0000702360;K&H Európa alapok alapja HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702360.json
 ;HU0000732326;K&H Európa alapok alapja HUF I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732326.json
-;HU0000732318;K&H Közép Európai Részvény Nyíltvégű Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732318.json
+;HU0000702360;K&H Európa alapok alapja HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702360.json
 ;HU0000702915;K&H Közép Európai Részvény Nyíltvégű Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702915.json
+;HU0000732318;K&H Közép Európai Részvény Nyíltvégű Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732318.json
 ;HU0000702352;K&H Navigátor Indexkövető Nyíltvégű Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702352.json
 ;HU0000705645;K&H öko felelős befektetés nyíltvégű alapok alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705645.json
-;HU0000725700;MBH Dinamikus Európa Részvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725700.json
 ;HU0000721766;MBH Dinamikus Európa Részvény Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721766.json
 ;HU0000725692;MBH Dinamikus Európa Részvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725692.json
+;HU0000725700;MBH Dinamikus Európa Részvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725700.json
 ;HU0000725783;MBH ESG Globális Részvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725783.json
 ;HU0000725791;MBH ESG Globális Részvény Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725791.json
 ;HU0000725809;MBH ESG Globális Részvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725809.json
@@ -415,145 +415,145 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000715271;MBH Fejlett Piaci Részvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715271.json
 ;HU0000715438;MBH Fejlett Piaci Részvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715438.json
 ;HU0000701552;MBH Fejlett Piaci Részvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000701552.json
-;HU0000735535;MBH Feltörekvő Piaci Részvény Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735535.json
+;HU0000725684;MBH Feltörekvő Piaci Részvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725684.json
 ;HU0000715461;MBH Feltörekvő Piaci Részvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715461.json
 ;HU0000709852;MBH Feltörekvő Piaci Részvény Alap CZK sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709852.json
 ;HU0000708623;MBH Feltörekvő Piaci Részvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708623.json
-;HU0000725684;MBH Feltörekvő Piaci Részvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725684.json
+;HU0000735535;MBH Feltörekvő Piaci Részvény Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735535.json
 ;HU0000702931;MBH Globális Biztosítói Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702931.json
+;HU0000702717;MBH Közép-Európai Részvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702717.json
+;HU0000706387;MBH Közép-Európai Részvény Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706387.json
 ;HU0000715479;MBH Közép-Európai Részvény Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715479.json
 ;HU0000709845;MBH Közép-Európai Részvény Alap CZK sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709845.json
-;HU0000706387;MBH Közép-Európai Részvény Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706387.json
-;HU0000702717;MBH Közép-Európai Részvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702717.json
-;HU0000721014;MBH USA Részvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721014.json
 ;HU0000712351;MBH USA Részvény Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712351.json
+;HU0000721014;MBH USA Részvény Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721014.json
 ;HU0000727532;MBH Zöldülő Vállalatok Részvény Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727532.json
 ;HU0000726237;MFC Equity Genius Befektetési Alap;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726237.json
 ;HU0000726203;MFC Equity Mercury Befektetési Alap;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726203.json
+;HU0000709753;OTP Afrika Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709753.json
 ;HU0000709886;OTP Afrika Részvény Alap C sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709886.json
 ;HU0000709878;OTP Afrika Részvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709878.json
-;HU0000709753;OTP Afrika Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709753.json
 ;HU0000706726;OTP Ázsiai Részvény Alapok Alapja B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706726.json
 ;HU0000706718;OTP Ázsiai Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706718.json
 ;HU0000734454;OTP CETOP Indexkövető UCITS ETF Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734454.json
 ;HU0000713730;OTP Fundman Részvény Alap C sor.;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713730.json
-;HU0000713714;OTP Fundman Részvény Alap A sor.;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713714.json
 ;HU0000713722;OTP Fundman Részvény Alap B sor.;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713722.json
-;HU0000706247;OTP Klímaváltozás 130/30 Származtatott Részvény Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706247.json
+;HU0000713714;OTP Fundman Részvény Alap A sor.;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713714.json
 ;HU0000706239;OTP Klímaváltozás 130/30 Származtatott Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706239.json
+;HU0000706247;OTP Klímaváltozás 130/30 Származtatott Részvény Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706247.json
+;HU0000728670;OTP Közép-Európai Származtatott Részvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728670.json
 ;HU0000728688;OTP Közép-Európai Származtatott Részvény Alap I sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728688.json
 ;HU0000703855;OTP Közép-Európai Származtatott Részvény Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703855.json
-;HU0000728670;OTP Közép-Európai Származtatott Részvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728670.json
-;HU0000729033;OTP Nyugat-Európai Részvény Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729033.json
-;HU0000729041;OTP Nyugat-Európai Részvény Alap I sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729041.json
 ;HU0000729025;OTP Nyugat-Európai Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729025.json
-;HU0000703897;OTP Omega Fejlett Piaci Részvény Alapok Alapja B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703897.json
+;HU0000729041;OTP Nyugat-Európai Részvény Alap I sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729041.json
+;HU0000729033;OTP Nyugat-Európai Részvény Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729033.json
 ;HU0000702899;OTP Omega Fejlett Piaci Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702899.json
-;HU0000709092;OTP Orosz Részvény Alap C sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709092.json
+;HU0000703897;OTP Omega Fejlett Piaci Részvény Alapok Alapja B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703897.json
 ;HU0000709084;OTP Orosz Részvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709084.json
 ;HU0000709019;OTP Orosz Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709019.json
+;HU0000709092;OTP Orosz Részvény Alap C sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709092.json
+;HU0000731989;OTP Orosz Részvény Alap IL A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731989.json
 ;HU0000732003;OTP Orosz Részvény Alap IL C sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732003.json
 ;HU0000731997;OTP Orosz Részvény Alap IL B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731997.json
-;HU0000731989;OTP Orosz Részvény Alap IL A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731989.json
-;HU0000705561;OTP Planéta Feltörekvő Piaci Részvény Alapok Alapja B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705561.json
 ;HU0000705579;OTP Planéta Feltörekvő Piaci Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705579.json
-;HU0000702907;OTP Quality Származtatott Részvény Alap A Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702907.json
+;HU0000705561;OTP Planéta Feltörekvő Piaci Részvény Alapok Alapja B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705561.json
 ;HU0000706213;OTP Quality Származtatott Részvény Alap B Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706213.json
-;HU0000709001;OTP Török Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709001.json
+;HU0000702907;OTP Quality Származtatott Részvény Alap A Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702907.json
 ;HU0000709076;OTP Török Részvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709076.json
 ;HU0000709100;OTP Török Részvény Alap C sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709100.json
+;HU0000709001;OTP Török Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709001.json
 ;HU0000704960;OTP Tőzsdén Kereskedett BUX Indexkövető Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000704960.json
-;HU0000735097;OTP USA Részvény Alap B sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735097.json
 ;HU0000735105;OTP USA Részvény Alap C sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735105.json
+;HU0000735097;OTP USA Részvény Alap B sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735097.json
 ;HU0000735089;OTP USA Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735089.json
-;HU0000708870;Raiffeisen ESG Nemzetközi Részvény Alapok Alapja B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708870.json
-;HU0000727946;Raiffeisen ESG Nemzetközi Részvény Alapok Alapja U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727946.json
 ;HU0000722921;Raiffeisen ESG Nemzetközi Részvény Alapok Alapja Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722921.json
 ;HU0000719976;Raiffeisen ESG Nemzetközi Részvény Alapok Alapja E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719976.json
 ;HU0000702790;Raiffeisen ESG Nemzetközi Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702790.json
-;HU0000722863;Raiffeisen Közép-Kelet Európai Részvény Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722863.json
+;HU0000727946;Raiffeisen ESG Nemzetközi Részvény Alapok Alapja U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727946.json
+;HU0000708870;Raiffeisen ESG Nemzetközi Részvény Alapok Alapja B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708870.json
+;HU0000719208;Raiffeisen Közép-Kelet Európai Részvény Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719208.json
 ;HU0000702766;Raiffeisen Közép-Kelet Európai Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702766.json
 ;HU0000708862;Raiffeisen Közép-Kelet Európai Részvény Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708862.json
-;HU0000719208;Raiffeisen Közép-Kelet Európai Részvény Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719208.json
 ;HU0000737812;Raiffeisen Közép-Kelet Európai Részvény Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737812.json
-;HU0000728225;Raiffeisen Megatrend ESG Részvény Alapok Alapja U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728225.json
-;HU0000728217;Raiffeisen Megatrend ESG Részvény Alapok Alapja E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728217.json
+;HU0000722863;Raiffeisen Közép-Kelet Európai Részvény Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722863.json
+;HU0000705231;Raiffeisen Megatrend ESG Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705231.json
 ;HU0000709407;Raiffeisen Megatrend ESG Részvény Alapok Alapja B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709407.json
 ;HU0000722897;Raiffeisen Megatrend ESG Részvény Alapok Alapja Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722897.json
-;HU0000705231;Raiffeisen Megatrend ESG Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705231.json
+;HU0000728217;Raiffeisen Megatrend ESG Részvény Alapok Alapja E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728217.json
+;HU0000728225;Raiffeisen Megatrend ESG Részvény Alapok Alapja U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728225.json
 ;HU0000734744;SIFI Közép-Európai Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734744.json
 ;HU0000734736;SIFI Magyar Indexkövető Részvény Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734736.json
 ;HU0000734892;SIFI Nemzetközi Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734892.json
 ;HU0000734900;SIFI USA Részvény Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734900.json
-;HU0000734066;VIG Amerikai Részvény Alapokba Fektető Részalap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734066.json
 ;HU0000716097;VIG Amerikai Részvény Alapokba Fektető Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716097.json
-;HU0000723663;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723663.json
-;HU0000705272;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705272.json
-;HU0000723697;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723697.json
-;HU0000723671;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723671.json
-;HU0000705934;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705934.json
-;HU0000729561;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729561.json
+;HU0000734066;VIG Amerikai Részvény Alapokba Fektető Részalap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734066.json
 ;HU0000723655;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723655.json
+;HU0000723697;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723697.json
 ;HU0000723705;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723705.json
-;HU0000723689;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap Pi sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723689.json
+;HU0000729561;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729561.json
+;HU0000705272;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705272.json
 ;HU0000729553;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729553.json
+;HU0000705934;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705934.json
+;HU0000723671;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723671.json
+;HU0000723689;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap Pi sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723689.json
+;HU0000723663;VIG Feltörekvő Piaci ESG Részvény Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723663.json
+;HU0000733415;VIG GreenTrend Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733415.json
 ;HU0000733399;VIG GreenTrend Részvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733399.json
 ;HU0000733357;VIG GreenTrend Részvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733357.json
-;HU0000733415;VIG GreenTrend Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733415.json
 ;HU0000733365;VIG GreenTrend Részvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733365.json
 ;HU0000732961;VIG InnovationTrend ESG Részvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732961.json
 ;HU0000732995;VIG InnovationTrend ESG Részvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732995.json
-;HU0000732946;VIG InnovationTrend ESG Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732946.json
 ;HU0000732938;VIG InnovationTrend ESG Részvény Befektetési Alap A sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732938.json
 ;HU0000733001;VIG InnovationTrend ESG Részvény Befektetési Alap CI sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733001.json
 ;HU0000732953;VIG InnovationTrend ESG Részvény Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732953.json
 ;HU0000732979;VIG InnovationTrend ESG Részvény Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732979.json
+;HU0000732946;VIG InnovationTrend ESG Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732946.json
 ;HU0000732987;VIG InnovationTrend ESG Részvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732987.json
-;HU0000717392;VIG Közép-Európai Részvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717392.json
-;HU0000728183;VIG Közép-Európai Részvény Befektetési Alap Pi sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728183.json
-;HU0000702501;VIG Közép-Európai Részvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702501.json
-;HU0000730346;VIG Közép-Európai Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730346.json
 ;HU0000705926;VIG Közép-Európai Részvény Befektetési Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705926.json
-;HU0000730361;VIG Közép-Európai Részvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730361.json
+;HU0000728183;VIG Közép-Európai Részvény Befektetési Alap Pi sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728183.json
+;HU0000730346;VIG Közép-Európai Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730346.json
 ;HU0000709530;VIG Közép-Európai Részvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709530.json
-;HU0000710843;VIG Lengyel Részvény Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710843.json
+;HU0000702501;VIG Közép-Európai Részvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702501.json
+;HU0000730361;VIG Közép-Európai Részvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730361.json
+;HU0000717392;VIG Közép-Európai Részvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717392.json
 ;HU0000710850;VIG Lengyel Részvény Befektetési Alap I sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710850.json
 ;HU0000710835;VIG Lengyel Részvény Befektetési Alap A sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710835.json
+;HU0000710843;VIG Lengyel Részvény Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710843.json
 ;HU0000727482;VIG Magyar Indexkövető Részvény Részalap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727482.json
 ;HU0000735022;VIG Magyar Indexkövető Részvény Részalap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735022.json
 ;HU0000735014;VIG Magyar Indexkövető Részvény Részalap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735014.json
 ;HU0000727474;VIG Magyar Indexkövető Részvény Részalap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727474.json
-;HU0000729603;VIG MegaTrend Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729603.json
-;HU0000724661;VIG MegaTrend Részvény Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724661.json
-;HU0000707195;VIG MegaTrend Részvény Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707195.json
-;HU0000705520;VIG MegaTrend Részvény Befektetési Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705520.json
 ;HU0000730320;VIG MegaTrend Részvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730320.json
 ;HU0000737648;VIG MegaTrend Részvény Befektetési Alap EUR-IP sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737648.json
-;HU0000724646;VIG MegaTrend Részvény Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724646.json
 ;HU0000724653;VIG MegaTrend Részvény Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724653.json
 ;HU0000724638;VIG MegaTrend Részvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724638.json
+;HU0000729603;VIG MegaTrend Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729603.json
+;HU0000724646;VIG MegaTrend Részvény Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724646.json
+;HU0000707195;VIG MegaTrend Részvény Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707195.json
 ;HU0000724679;VIG MegaTrend Részvény Befektetési Alap Pi sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724679.json
-;HU0000736277;VIG Opportunity Fejlett Piaci Részvény Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736277.json
-;HU0000712393;VIG Opportunity Fejlett Piaci Részvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712393.json
-;HU0000702485;VIG Opportunity Fejlett Piaci Részvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702485.json
-;HU0000736251;VIG Opportunity Fejlett Piaci Részvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736251.json
+;HU0000724661;VIG MegaTrend Részvény Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724661.json
+;HU0000705520;VIG MegaTrend Részvény Befektetési Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705520.json
 ;HU0000705918;VIG Opportunity Fejlett Piaci Részvény Befektetési Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705918.json
-;HU0000731823;VIG Russia Részvény Befektetési Alap PIL sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731823.json
+;HU0000736251;VIG Opportunity Fejlett Piaci Részvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736251.json
+;HU0000712393;VIG Opportunity Fejlett Piaci Részvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712393.json
+;HU0000736277;VIG Opportunity Fejlett Piaci Részvény Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736277.json
+;HU0000702485;VIG Opportunity Fejlett Piaci Részvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702485.json
+;HU0000731815;VIG Russia Részvény Befektetési Alap IIL sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731815.json
 ;HU0000710157;VIG Russia Részvény Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710157.json
 ;HU0000731831;VIG Russia Részvény Befektetési Alap PIIL sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731831.json
-;HU0000713144;VIG Russia Részvény Befektetési Alap PI sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713144.json
-;HU0000709514;VIG Russia Részvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709514.json
 ;HU0000707401;VIG Russia Részvény Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707401.json
-;HU0000731815;VIG Russia Részvény Befektetési Alap IIL sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731815.json
+;HU0000709514;VIG Russia Részvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709514.json
+;HU0000713144;VIG Russia Részvény Befektetési Alap PI sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713144.json
 ;HU0000731807;VIG Russia Részvény Befektetési Alap AIL sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731807.json
+;HU0000731823;VIG Russia Részvény Befektetési Alap PIL sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731823.json
+;HU0000733068;VIG SocialTrend ESG Részvény Befektetési Alap CI sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733068.json
+;HU0000733019;VIG SocialTrend ESG Részvény Befektetési Alap A sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733019.json
+;HU0000733027;VIG SocialTrend ESG Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733027.json
+;HU0000733043;VIG SocialTrend ESG Részvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733043.json
+;HU0000733035;VIG SocialTrend ESG Részvény Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733035.json
 ;HU0000733076;VIG SocialTrend ESG Részvény Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733076.json
 ;HU0000733084;VIG SocialTrend ESG Részvény Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733084.json
-;HU0000733019;VIG SocialTrend ESG Részvény Befektetési Alap A sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733019.json
-;HU0000733043;VIG SocialTrend ESG Részvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733043.json
-;HU0000733027;VIG SocialTrend ESG Részvény Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733027.json
-;HU0000733035;VIG SocialTrend ESG Részvény Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733035.json
 ;HU0000733050;VIG SocialTrend ESG Részvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733050.json
-;HU0000733068;VIG SocialTrend ESG Részvény Befektetési Alap CI sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733068.json
 ;HU0000731328;Eurizon 30 Tőkevédett Származtatott Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731328.json
 ;HU0000737291;Eurizon Bankszektor 2 Tőkevédett Származtatott Részalap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737291.json
 ;HU0000717566;Eurizon Dollár Start Rövid Kötvény Részalap;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717566.json
@@ -579,54 +579,54 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000705157;VIG Ózon Éves Tőkevédett Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705157.json
 ;HU0000731385;VIG Ózon Éves Tőkevédett Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731385.json
 ;HU0000732409;VIG Robotok Kora Hozamvédett Zártvégű Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732409.json
-;HU0000730882;Accorde Abacus Abszolút Hozamú Alap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730882.json
 ;HU0000736574;Accorde Abacus Abszolút Hozamú Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736574.json
 ;HU0000716402;Accorde Abacus Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716402.json
+;HU0000730882;Accorde Abacus Abszolút Hozamú Alap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730882.json
 ;HU0000729678;Accorde Bond Abszolút Hozamú Kötvényalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729678.json
-;HU0000717145;Accorde Eklektika Alapok Alapja C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717145.json
 ;HU0000716501;Accorde Eklektika Alapok Alapja B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716501.json
 ;HU0000716519;Accorde Eklektika Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716519.json
+;HU0000717145;Accorde Eklektika Alapok Alapja C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717145.json
 ;HU0000731880;Accorde Eurobond Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731880.json
-;HU0000721469;Accorde Prizma Abszolút Hozamú Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721469.json
-;HU0000716410;Accorde Prizma Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716410.json
 ;HU0000725478;Accorde Prizma Abszolút Hozamú Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725478.json
+;HU0000716410;Accorde Prizma Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716410.json
+;HU0000721469;Accorde Prizma Abszolút Hozamú Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721469.json
 ;HU0000717590;Accorde Sharp Abszolút Hozamú Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717590.json
-;HU0000725460;Accorde Sharp Abszolút Hozamú Részalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725460.json
 ;HU0000725452;Accorde Sharp Abszolút Hozamú Részalap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725452.json
-;HU0000731930;ADÜTON Abszolút Hozamú Származtatott Befektetési Alap C sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731930.json
+;HU0000725460;Accorde Sharp Abszolút Hozamú Részalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725460.json
 ;HU0000715230;ADÜTON Abszolút Hozamú Származtatott Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715230.json
-;HU0000731922;ADÜTON Abszolút Hozamú Származtatott Befektetési Alap B sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731922.json
+;HU0000731930;ADÜTON Abszolút Hozamú Származtatott Befektetési Alap C sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731930.json
 ;HU0000731948;ADÜTON Abszolút Hozamú Származtatott Befektetési Alap D sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731948.json
-;HU0000720719;ALLEGRO Abszolút Hozamú Származtatott Részalap EUR Sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720719.json
+;HU0000731922;ADÜTON Abszolút Hozamú Származtatott Befektetési Alap B sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731922.json
 ;HU0000731955;ALLEGRO Abszolút Hozamú Származtatott Részalap USD Sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731955.json
 ;HU0000734819;ALLEGRO Abszolút Hozamú Származtatott Részalap EUR C Sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734819.json
+;HU0000720719;ALLEGRO Abszolút Hozamú Származtatott Részalap EUR Sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720719.json
 ;HU0000734827;ALLEGRO Abszolút Hozamú Származtatott Részalap HUF Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734827.json
 ;HU0000711296;Amundi Explorer Abszolút Hozamú Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711296.json
 ;HU0000715248;Amundi Explorer Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715248.json
-;HU0000711353;Amundi Regatta Plusz Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711353.json
 ;HU0000712666;Amundi Regatta Plusz Abszolút Hozamú Alap C sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712666.json
-;HU0000713375;APELSO ECHO Abszolút Hozamú Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713375.json
+;HU0000711353;Amundi Regatta Plusz Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711353.json
 ;HU0000709241;APELSO ECHO Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709241.json
+;HU0000713375;APELSO ECHO Abszolút Hozamú Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713375.json
 ;HU0000735295;AURICA Abszolút Hozamú Származtatott Befektetési Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735295.json
-;HU0000735287;AURICA Abszolút Hozamú Származtatott Befektetési Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735287.json
 ;HU0000735303;AURICA Abszolút Hozamú Származtatott Befektetési Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735303.json
+;HU0000735287;AURICA Abszolút Hozamú Származtatott Befektetési Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735287.json
 ;HU0000720552;AXIOM Aplus Abszolút Hozamú Származtatott Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720552.json
-;HU0000707948;Citadella Abszolút Hozamú Származtatott Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707948.json
 ;HU0000725189;Citadella Abszolút Hozamú Származtatott Befektetési Alap C sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725189.json
+;HU0000707948;Citadella Abszolút Hozamú Származtatott Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707948.json
 ;HU0000717137;Citadella Abszolút Hozamú Származtatott Befektetési Alap B sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717137.json
-;HU0000727722;Convexity Abszolút Hozamú Származtatott Befektetési Részalap D sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727722.json
-;HU0000727698;Convexity Abszolút Hozamú Származtatott Befektetési Részalap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727698.json
 ;HU0000727706;Convexity Abszolút Hozamú Származtatott Befektetési Részalap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727706.json
+;HU0000727698;Convexity Abszolút Hozamú Származtatott Befektetési Részalap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727698.json
 ;HU0000727714;Convexity Abszolút Hozamú Származtatott Befektetési Részalap C sorozat USD;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727714.json
+;HU0000727722;Convexity Abszolút Hozamú Származtatott Befektetési Részalap D sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727722.json
 ;HU0000731906;Creditum Abszolút Hozamú Származtatott Befektetési Alap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731906.json
-;HU0000731914;Creditum Abszolút Hozamú Származtatott Befektetési Alap C sorozat USD;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731914.json
 ;HU0000731898;Creditum Abszolút Hozamú Származtatott Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731898.json
+;HU0000731914;Creditum Abszolút Hozamú Származtatott Befektetési Alap C sorozat USD;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731914.json
 ;HU0000735279;DIVERZ NIMBUS Abszolút Hozamú Származtatott Részalap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735279.json
-;HU0000735238;DIVERZ SAPIENS Abszolút Hozamú Származtatott Részalap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735238.json
-;HU0000735246;DIVERZ SAPIENS Abszolút Hozamú Származtatott Részalap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735246.json
 ;HU0000735220;DIVERZ SAPIENS Abszolút Hozamú Származtatott Részalap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735220.json
-;HU0000735261;DIVERZ SPECIFIC Abszolút Hozamú Származtatott Részalap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735261.json
+;HU0000735246;DIVERZ SAPIENS Abszolút Hozamú Származtatott Részalap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735246.json
+;HU0000735238;DIVERZ SAPIENS Abszolút Hozamú Származtatott Részalap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735238.json
 ;HU0000735253;DIVERZ SPECIFIC Abszolút Hozamú Származtatott Részalap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735253.json
+;HU0000735261;DIVERZ SPECIFIC Abszolút Hozamú Származtatott Részalap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735261.json
 ;HU0000711783;EQUILOR Fregatt Származtatott Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711783.json
 ;HU0000719612;EQUILOR Hydra Származtatott Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719612.json
 ;HU0000724885;EQUILOR Optimus Befektetési Alapba Fektető Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724885.json
@@ -647,12 +647,12 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000706833;Generali Spirit Abszolút Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706833.json
 ;HU0000719992;Generali Spirit Abszolút Származtatott Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719992.json
 ;HU0000706817;Generali Titanium Abszolút Hozamú Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706817.json
-;HU0000714977;Generali Triumph Abszolút Hozamú Származtatott Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714977.json
 ;HU0000720255;Generali Triumph Abszolút Hozamú Származtatott Alap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720255.json
 ;HU0000720248;Generali Triumph Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720248.json
+;HU0000714977;Generali Triumph Abszolút Hozamú Származtatott Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714977.json
 ;HU0000707997;Gránit Abszolút Hozamú Származtatott Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707997.json
-;HU0000734264;Gránit Eurókamat Abszolút Hozamú Származtatott Alap I sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734264.json
 ;HU0000734256;Gránit Eurókamat Abszolút Hozamú Származtatott Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734256.json
+;HU0000734264;Gránit Eurókamat Abszolút Hozamú Származtatott Alap I sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734264.json
 ;HU0000732631;Gránit EuróPlusz Abszolút Hozamú Befektetési Alap I sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732631.json
 ;HU0000732623;Gránit EuróPlusz Abszolút Hozamú Befektetési Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732623.json
 ;HU0000711544;Gránit KamatPlusz Abszolút Hozamú Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711544.json
@@ -662,21 +662,21 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000713839;Gránit WM-2 Abszolút Hozamú Származtatott Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713839.json
 ;HU0000713847;Gránit WM-3 Abszolút Hozamú Származtatott Részalap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713847.json
 ;HU0000736152;HELIOS Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736152.json
-;HU0000736145;HELIOS Abszolút Hozamú Származtatott Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736145.json
 ;HU0000728084;HELIOS Abszolút Hozamú Származtatott Alap A sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728084.json
+;HU0000736145;HELIOS Abszolút Hozamú Származtatott Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736145.json
 ;HU0000722277;Himalája Abszolút Hozamú Származtatott Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722277.json
+;HU0000736913;HOLD Beat Abszolút Hozamú Származtatott Befektetési Alap C sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736913.json
 ;HU0000736905;HOLD Beat Abszolút Hozamú Származtatott Befektetési Alap B sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736905.json
 ;HU0000728928;HOLD Beat Abszolút Hozamú Származtatott Befektetési Alap A sorozat FIX HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728928.json
-;HU0000736913;HOLD Beat Abszolút Hozamú Származtatott Befektetési Alap C sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736913.json
-;HU0000726484;HOLD Columbus Globális Értékalapú Abszolút Hozamú Származtatott Befektetési Alap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726484.json
 ;HU0000705702;HOLD Columbus Globális Értékalapú Abszolút Hozamú Származtatott Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705702.json
+;HU0000726484;HOLD Columbus Globális Értékalapú Abszolút Hozamú Származtatott Befektetési Alap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726484.json
 ;HU0000724125;HOLD Diverzifikiáció Abszolút Hozamú Származtatott Befektetési Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724125.json
 ;HU0000715172;HOLD EURO PB2 Abszolút Hozamú Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715172.json
 ;HU0000707245;HOLD EURO PB3 Abszolút Hozamú Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707245.json
 ;HU0000710116;HOLD Galaxis Abszolút Hozamú Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710116.json
 ;HU0000712252;HOLD Galaxis EURO Abszolút Hozamú Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712252.json
-;HU0000716584;HOLD Molto Forte Abszolút Hozamú Alapokba Fektető Részalap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716584.json
 ;HU0000732557;HOLD Molto Forte Abszolút Hozamú Alapokba Fektető Részalap B sorozat USD;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732557.json
+;HU0000716584;HOLD Molto Forte Abszolút Hozamú Alapokba Fektető Részalap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716584.json
 ;HU0000716741;HOLD Molto Forte  EURO Abszolút Hozamú Alapokba Fektető Részalap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716741.json
 ;HU0000720339;HOLD Orion Abszolút Hozamú Származtatott Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720339.json
 ;HU0000732664;HOLD Orion Abszolút Hozamú Származtatott Befektetési Alap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732664.json
@@ -689,67 +689,67 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000705850;HOLD Széf USD Abszolút Hozamú Befektetési Alap;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705850.json
 ;HU0000715164;HOLD USD PB2 Abszolút Hozamú Alapok Alapja;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715164.json
 ;HU0000714670;HOLD USD PB3 Abszolút Hozamú Alapok Alapja;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714670.json
+;HU0000733688;HOLD VK 100 Abszolút Hozamú Alapokba Fektető Részalap C sorozat USD;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733688.json
 ;HU0000727730;HOLD VK 100 Abszolút Hozamú Alapokba Fektető Részalap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727730.json
 ;HU0000727748;HOLD VK 100 Abszolút Hozamú Alapokba Fektető Részalap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727748.json
-;HU0000733688;HOLD VK 100 Abszolút Hozamú Alapokba Fektető Részalap C sorozat USD;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733688.json
 ;HU0000727763;HOLD VK 200 Abszolút Hozamú Alapokba Fektető Részalap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727763.json
 ;HU0000727755;HOLD VK 200 Abszolút Hozamú Alapokba Fektető Részalap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727755.json
 ;HU0000733696;HOLD VK 200 Abszolút Hozamú Alapokba Fektető Részalap C sorozat USD;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733696.json
+;HU0000727771;HOLD VK 300 Abszolút Hozamú Alapokba Fektető Részalap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727771.json
 ;HU0000727789;HOLD VK 300 Abszolút Hozamú Alapokba Fektető Részalap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727789.json
 ;HU0000733704;HOLD VK 300 Abszolút Hozamú Alapokba Fektető Részalap C sorozat USD;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733704.json
-;HU0000727771;HOLD VK 300 Abszolút Hozamú Alapokba Fektető Részalap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727771.json
-;HU0000717111;HOLD VM Abszolút Hozamú Származtatott Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717111.json
 ;HU0000717129;HOLD VM Abszolút Hozamú Származtatott Befektetési Alap C sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717129.json
+;HU0000717111;HOLD VM Abszolút Hozamú Származtatott Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717111.json
 ;HU0000703749;HOLD VM Abszolút Hozamú Származtatott Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703749.json
 ;HU0000708938;HOLD VM EURO Abszolút Hozamú Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708938.json
 ;HU0000734439;Investrium Abszolút Hozamú Származtatott Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734439.json
 ;HU0000734447;Investrium Abszolút Hozamú Származtatott Befektetési Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734447.json
+;HU0000736400;MBH Adaptív Abszolút Hozamú Származtatott Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736400.json
 ;HU0000736418;MBH Adaptív Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736418.json
 ;HU0000715362;MBH Adaptív Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715362.json
-;HU0000736400;MBH Adaptív Abszolút Hozamú Származtatott Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736400.json
-;HU0000736426;MBH Aktív Alfa Abszolút Hozamú Származtatott Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736426.json
 ;HU0000736434;MBH Aktív Alfa Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736434.json
 ;HU0000714225;MBH Aktív Alfa Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714225.json
+;HU0000736426;MBH Aktív Alfa Abszolút Hozamú Származtatott Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736426.json
 ;HU0000712211;MBH Ambíció Abszolút Hozamú Származtatott Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712211.json
 ;HU0000737879;MBH Ambíció Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737879.json
 ;HU0000737887;MBH Ambíció Abszolút Hozamú Származtatott Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737887.json
 ;HU0000737861;MBH Centrál Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737861.json
 ;HU0000702964;MBH Centrál Abszolút Hozamú Származtatott Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702964.json
-;HU0000710595;MBH Global Titans Abszolút Hozamú Alapok Alapja HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710595.json
 ;HU0000737366;MBH Global Titans Abszolút Hozamú Alapok Alapja EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737366.json
 ;HU0000737374;MBH Global Titans Abszolút Hozamú Alapok Alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737374.json
+;HU0000710595;MBH Global Titans Abszolút Hozamú Alapok Alapja HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710595.json
 ;HU0000720727;MBH Hazai Feltörekvő Abszolút Hozamú Származtatott Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720727.json
-;HU0000705058;MBH Ingatlanpiaci Abszolút Hozamú Származtatott Alap A Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705058.json
 ;HU0000711304;MBH Ingatlanpiaci Abszolút Hozamú Származtatott Alap IL sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711304.json
-;HU0000715487;MBH Kontroll Abszolút Hozamú Származtatott Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715487.json
+;HU0000705058;MBH Ingatlanpiaci Abszolút Hozamú Származtatott Alap A Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705058.json
 ;HU0000702741;MBH Kontroll Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702741.json
 ;HU0000737853;MBH Kontroll Abszolút Hozamú Származtatott Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737853.json
+;HU0000715487;MBH Kontroll Abszolút Hozamú Származtatott Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715487.json
 ;HU0000737846;MBH Kontroll Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737846.json
-;HU0000723507;MBH NEXT Technológia Abszolút Hozamú Származtatott Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723507.json
-;HU0000728530;MBH NEXT Technológia Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728530.json
 ;HU0000723515;MBH NEXT Technológia Abszolút Hozamú Származtatott Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723515.json
+;HU0000728530;MBH NEXT Technológia Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728530.json
+;HU0000723507;MBH NEXT Technológia Abszolút Hozamú Származtatott Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723507.json
 ;HU0000737911;MBH Paradigma Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737911.json
 ;HU0000737929;MBH Paradigma Abszolút Hozamú Származtatott Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737929.json
-;HU0000713409;MBH Paradigma Abszolút Hozamú Származtatott Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713409.json
 ;HU0000715495;MBH Paradigma Abszolút Hozamú Származtatott Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715495.json
+;HU0000713409;MBH Paradigma Abszolút Hozamú Származtatott Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713409.json
 ;HU0000714241;MBH PB TOP Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714241.json
 ;HU0000733092;MBH PB TOP Abszolút Hozamú Származtatott Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733092.json
-;HU0000736459;MBH PB TOP Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736459.json
 ;HU0000736442;MBH PB TOP Abszolút Hozamú Származtatott Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736442.json
-;HU0000722285;MBH Rotunda Abszolút Hozamú Származtatott Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722285.json
+;HU0000736459;MBH PB TOP Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736459.json
 ;HU0000737895;MBH Rotunda Abszolút Hozamú Származtatott Alap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737895.json
 ;HU0000737903;MBH Rotunda Abszolút Hozamú Származtatott Alap USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737903.json
+;HU0000722285;MBH Rotunda Abszolút Hozamú Származtatott Alap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722285.json
 ;HU0000708714;New Wave EUR Abszolút Hozamú Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708714.json
 ;HU0000704457;OTP Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000704457.json
 ;HU0000704440;OTP Abszolút Hozamú Származtatott Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000704440.json
 ;HU0000713755;OTP AHA Euró Származtatott Alapba Fektető Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713755.json
-;HU0000706361;OTP EMDA Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706361.json
 ;HU0000720271;OTP EMDA Abszolút Hozamú Származtatott Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720271.json
+;HU0000706361;OTP EMDA Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706361.json
 ;HU0000728282;OTP EMDA Euró Származtatott Alapba Fektető Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728282.json
 ;HU0000728290;OTP EMDA Euró Származtatott Alapba Fektető Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000728290.json
 ;HU0000707633;OTP Föld Kincsei Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707633.json
-;HU0000716121;OTP Föld Kincsei Abszolút Hozamú Származtatott Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716121.json
 ;HU0000707641;OTP Föld Kincsei Abszolút Hozamú Származtatott Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707641.json
+;HU0000716121;OTP Föld Kincsei Abszolút Hozamú Származtatott Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716121.json
 ;HU0000710249;OTP Prémium Származtatott Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000710249.json
 ;HU0000718473;OTP Prémium Származtatott Euró Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718473.json
 ;HU0000715891;OTP Sigma Származtatott Abszolút Hozamú Alap I Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715891.json
@@ -759,109 +759,109 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000706379;OTP Supra Abszolút Hozamú Származtatott Alap A Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706379.json
 ;HU0000718481;OTP Supra Dollár Alapba Fektető Alap;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718481.json
 ;HU0000713748;OTP Supra Euró Alapba Fektető Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713748.json
-;HU0000711049;OTP Trend Abszolút Hozamú Származtatott Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711049.json
 ;HU0000711007;OTP Trend Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711007.json
-;HU0000720305;OTP Új Európa Abszolút Hozamú Származtatott Alap I Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720305.json
+;HU0000711049;OTP Trend Abszolút Hozamú Származtatott Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000711049.json
 ;HU0000705835;OTP Új Európa Abszolút Hozamú Származtatott Alap B Sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705835.json
+;HU0000720305;OTP Új Európa Abszolút Hozamú Származtatott Alap I Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000720305.json
 ;HU0000705827;OTP Új Európa Abszolút Hozamú Származtatott Alap A Sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705827.json
 ;HU0000713763;OTP Új-Európa Euró Alapba Fektető Alap;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713763.json
-;HU0000729694;Palomar Abszolút Hozamú Származtatott Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729694.json
 ;HU0000729702;Palomar Abszolút Hozamú Származtatott Befektetési Alap B sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729702.json
 ;HU0000729710;Palomar Abszolút Hozamú Származtatott Befektetési Alap C sorozat USD;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729710.json
 ;HU0000729728;Palomar Abszolút Hozamú Származtatott Befektetési Alap D sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729728.json
-;HU0000736871;Platina Delta Abszolút Hozamú Származtatott Befektetési Alap X sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736871.json
+;HU0000729694;Palomar Abszolút Hozamú Származtatott Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729694.json
 ;HU0000736889;Platina Delta Abszolút Hozamú Származtatott Befektetési Alap Y sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736889.json
-;HU0000704671;Platina Delta Abszolút Hozamú Származtatott Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000704671.json
 ;HU0000736897;Platina Delta Abszolút Hozamú Származtatott Befektetési Alap E sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736897.json
+;HU0000704671;Platina Delta Abszolút Hozamú Származtatott Befektetési Alap A sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000704671.json
+;HU0000736871;Platina Delta Abszolút Hozamú Származtatott Befektetési Alap X sorozat HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000736871.json
 ;HU0000714571;Prestige Abszolút Hozamú Származtatott Részalap HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714571.json
 ;HU0000714563;Prestige Abszolút Hozamú Származtatott Részalap EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714563.json
+;HU0000737283;PRESTIGE Select Értékpapír Alapok Alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737283.json
 ;HU0000737242;PRESTIGE Select Értékpapír Alapok Alapja EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737242.json
 ;HU0000727185;PRESTIGE Select Értékpapír Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727185.json
-;HU0000737283;PRESTIGE Select Értékpapír Alapok Alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737283.json
 ;HU0000727433;Primus All Weather Abszolút Hozamú Származtatott Alap I sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727433.json
-;HU0000703707;Raiffeisen Etalon Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703707.json
-;HU0000727805;Raiffeisen Etalon Abszolút Hozamú Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727805.json
 ;HU0000727813;Raiffeisen Etalon Abszolút Hozamú Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727813.json
 ;HU0000722889;Raiffeisen Etalon Abszolút Hozamú Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722889.json
-;HU0000722871;Raiffeisen Forte Abszolút Hozamú Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722871.json
-;HU0000719216;Raiffeisen Forte Abszolút Hozamú Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719216.json
-;HU0000703699;Raiffeisen Forte Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703699.json
+;HU0000703707;Raiffeisen Etalon Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703707.json
+;HU0000727805;Raiffeisen Etalon Abszolút Hozamú Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727805.json
 ;HU0000727920;Raiffeisen Forte Abszolút Hozamú Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727920.json
+;HU0000703699;Raiffeisen Forte Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703699.json
+;HU0000719216;Raiffeisen Forte Abszolút Hozamú Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719216.json
 ;HU0000727938;Raiffeisen Forte Abszolút Hozamú Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727938.json
+;HU0000722871;Raiffeisen Forte Abszolút Hozamú Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722871.json
 ;HU0000737200;Raiffeisen Genezis Abszolút Hozamú Származtatott Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737200.json
+;HU0000718556;Raiffeisen Megoldás Plusz Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718556.json
 ;HU0000724398;Raiffeisen Megoldás Plusz Abszolút Hozamú Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724398.json
-;HU0000705652;Raiffeisen Megoldás Plusz Abszolút Hozamú Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705652.json
 ;HU0000719943;Raiffeisen Megoldás Plusz Abszolút Hozamú Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719943.json
 ;HU0000722913;Raiffeisen Megoldás Plusz Abszolút Hozamú Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722913.json
-;HU0000718556;Raiffeisen Megoldás Plusz Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718556.json
-;HU0000719968;Raiffeisen Megoldás Pro Abszolút Hozamú Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719968.json
+;HU0000705652;Raiffeisen Megoldás Plusz Abszolút Hozamú Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705652.json
+;HU0000724406;Raiffeisen Megoldás Pro Abszolút Hozamú Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724406.json
 ;HU0000722855;Raiffeisen Megoldás Pro Abszolút Hozamú Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722855.json
+;HU0000718531;Raiffeisen Megoldás Pro Abszolút Hozamú Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718531.json
+;HU0000719968;Raiffeisen Megoldás Pro Abszolút Hozamú Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719968.json
 ;HU0000702774;Raiffeisen Megoldás Pro Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702774.json
 ;HU0000708888;Raiffeisen Megoldás Pro Abszolút Hozamú Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708888.json
-;HU0000718531;Raiffeisen Megoldás Pro Abszolút Hozamú Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718531.json
-;HU0000724406;Raiffeisen Megoldás Pro Abszolút Hozamú Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724406.json
+;HU0000722905;Raiffeisen Megoldás Start Abszolút Hozamú Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722905.json
+;HU0000705660;Raiffeisen Megoldás Start Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705660.json
 ;HU0000709381;Raiffeisen Megoldás Start Abszolút Hozamú Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709381.json
+;HU0000718549;Raiffeisen Megoldás Start Abszolút Hozamú Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718549.json
 ;HU0000719950;Raiffeisen Megoldás Start Abszolút Hozamú Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719950.json
 ;HU0000724448;Raiffeisen Megoldás Start Abszolút Hozamú Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724448.json
-;HU0000705660;Raiffeisen Megoldás Start Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000705660.json
-;HU0000718549;Raiffeisen Megoldás Start Abszolút Hozamú Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718549.json
-;HU0000722905;Raiffeisen Megoldás Start Abszolút Hozamú Alap Q sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722905.json
 ;HU0000719695;SIFI Norma Abszolút Hozamú Alap P sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719695.json
 ;HU0000719687;SIFI Norma Abszolút Hozamú Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719687.json
 ;HU0000719703;SIFI Orion Abszolút Hozamú Származtatott Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719703.json
 ;HU0000719711;SIFI Orion Abszolút Hozamú Származtatott Alap P sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719711.json
-;HU0000718986;Superposition Abszolút Hozamú Származtatott Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718986.json
-;HU0000735824;Superposition Abszolút Hozamú Származtatott Befektetési Alap D sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735824.json
-;HU0000713243;Superposition Abszolút Hozamú Származtatott Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713243.json
 ;HU0000718994;Superposition Abszolút Hozamú Származtatott Befektetési Alap C sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718994.json
-;HU0000708318;VIG Alfa Abszolút Hozamú Befektetési Alap B sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708318.json
-;HU0000715982;VIG Alfa Abszolút Hozamú Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715982.json
+;HU0000713243;Superposition Abszolút Hozamú Származtatott Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713243.json
+;HU0000735824;Superposition Abszolút Hozamú Származtatott Befektetési Alap D sorozat EUR;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735824.json
+;HU0000718986;Superposition Abszolút Hozamú Származtatott Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718986.json
+;HU0000729538;VIG Alfa Abszolút Hozamú Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729538.json
+;HU0000715990;VIG Alfa Abszolút Hozamú Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715990.json
 ;HU0000715974;VIG Alfa Abszolút Hozamú Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715974.json
 ;HU0000727383;VIG Alfa Abszolút Hozamú Befektetési Alap Pi sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727383.json
-;HU0000729538;VIG Alfa Abszolút Hozamú Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729538.json
-;HU0000729520;VIG Alfa Abszolút Hozamú Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729520.json
-;HU0000703970;VIG Alfa Abszolút Hozamú Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703970.json
-;HU0000715990;VIG Alfa Abszolút Hozamú Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715990.json
-;HU0000712286;VIG Alfa Abszolút Hozamú Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712286.json
-;HU0000737432;VIG Alfa Abszolút Hozamú Befektetési Alap HUF-I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737432.json
 ;HU0000716006;VIG Alfa Abszolút Hozamú Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716006.json
-;HU0000727045;VIG BondMaxx Total Return Kötvény Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727045.json
-;HU0000712260;VIG BondMaxx Total Return Kötvény Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712260.json
-;HU0000709597;VIG BondMaxx Total Return Kötvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709597.json
-;HU0000717400;VIG BondMaxx Total Return Kötvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717400.json
-;HU0000712401;VIG BondMaxx Total Return Kötvény Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712401.json
+;HU0000715982;VIG Alfa Abszolút Hozamú Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000715982.json
+;HU0000703970;VIG Alfa Abszolút Hozamú Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703970.json
+;HU0000737432;VIG Alfa Abszolút Hozamú Befektetési Alap HUF-I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737432.json
+;HU0000729520;VIG Alfa Abszolút Hozamú Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729520.json
+;HU0000708318;VIG Alfa Abszolút Hozamú Befektetési Alap B sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708318.json
+;HU0000712286;VIG Alfa Abszolút Hozamú Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712286.json
 ;HU0000727391;VIG BondMaxx Total Return Kötvény Befektetési Alap Pi sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727391.json
+;HU0000709597;VIG BondMaxx Total Return Kötvény Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709597.json
+;HU0000712260;VIG BondMaxx Total Return Kötvény Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712260.json
 ;HU0000709605;VIG BondMaxx Total Return Kötvény Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709605.json
 ;HU0000727037;VIG BondMaxx Total Return Kötvény Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727037.json
-;HU0000714936;VIG Maraton ESG Abszolút Hozamú Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714936.json
-;HU0000714902;VIG Maraton ESG Abszolút Hozamú Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714902.json
-;HU0000737440;VIG Maraton ESG Abszolút Hozamú Befektetési Alap HUF-I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737440.json
-;HU0000714910;VIG Maraton ESG Abszolút Hozamú Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714910.json
-;HU0000714928;VIG Maraton ESG Abszolút Hozamú Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714928.json
+;HU0000717400;VIG BondMaxx Total Return Kötvény Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717400.json
+;HU0000727045;VIG BondMaxx Total Return Kötvény Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727045.json
+;HU0000712401;VIG BondMaxx Total Return Kötvény Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712401.json
 ;HU0000714886;VIG Maraton ESG Abszolút Hozamú Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714886.json
-;HU0000714894;VIG Maraton ESG Abszolút Hozamú Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714894.json
 ;HU0000729579;VIG Maraton ESG Abszolút Hozamú Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729579.json
-;HU0000716055;VIG Maraton ESG Abszolút Hozamú Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716055.json
+;HU0000737440;VIG Maraton ESG Abszolút Hozamú Befektetési Alap HUF-I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737440.json
+;HU0000714902;VIG Maraton ESG Abszolút Hozamú Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714902.json
+;HU0000714936;VIG Maraton ESG Abszolút Hozamú Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714936.json
 ;HU0000729587;VIG Maraton ESG Abszolút Hozamú Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729587.json
+;HU0000716055;VIG Maraton ESG Abszolút Hozamú Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716055.json
+;HU0000714894;VIG Maraton ESG Abszolút Hozamú Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714894.json
+;HU0000714928;VIG Maraton ESG Abszolút Hozamú Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714928.json
+;HU0000714910;VIG Maraton ESG Abszolút Hozamú Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714910.json
+;HU0000712278;VIG MoneyMaxx Feltörekvő Piaci Abszolút Hozamú Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712278.json
 ;HU0000716048;VIG MoneyMaxx Feltörekvő Piaci Abszolút Hozamú Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716048.json
+;HU0000716014;VIG MoneyMaxx Feltörekvő Piaci Abszolút Hozamú Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716014.json
 ;HU0000716022;VIG MoneyMaxx Feltörekvő Piaci Abszolút Hozamú Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716022.json
 ;HU0000716030;VIG MoneyMaxx Feltörekvő Piaci Abszolút Hozamú Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716030.json
-;HU0000712385;VIG MoneyMaxx Feltörekvő Piaci Abszolút Hozamú Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712385.json
-;HU0000712278;VIG MoneyMaxx Feltörekvő Piaci Abszolút Hozamú Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712278.json
 ;HU0000703145;VIG MoneyMaxx Feltörekvő Piaci Abszolút Hozamú Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703145.json
-;HU0000716014;VIG MoneyMaxx Feltörekvő Piaci Abszolút Hozamú Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716014.json
-;HU0000729629;VIG Panoráma Abszolút Hozamú Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729629.json
-;HU0000737457;VIG Panoráma Abszolút Hozamú Befektetési Alap HUF-I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737457.json
-;HU0000714282;VIG Panoráma Abszolút Hozamú Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714282.json
-;HU0000714308;VIG Panoráma Abszolút Hozamú Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714308.json
-;HU0000729611;VIG Panoráma Abszolút Hozamú Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729611.json
-;HU0000714266;VIG Panoráma Abszolút Hozamú Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714266.json
-;HU0000730635;VIG Panoráma Abszolút Hozamú Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730635.json
-;HU0000714274;VIG Panoráma Abszolút Hozamú Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714274.json
+;HU0000712385;VIG MoneyMaxx Feltörekvő Piaci Abszolút Hozamú Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712385.json
 ;HU0000714290;VIG Panoráma Abszolút Hozamú Befektetési Alap P sorozat;PLN;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714290.json
 ;HU0000714316;VIG Panoráma Abszolút Hozamú Befektetési Alap R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714316.json
-;HU0000708169;VIG Smart Money Befektetési Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708169.json
+;HU0000737457;VIG Panoráma Abszolút Hozamú Befektetési Alap HUF-I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737457.json
+;HU0000729611;VIG Panoráma Abszolút Hozamú Befektetési Alap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729611.json
+;HU0000714274;VIG Panoráma Abszolút Hozamú Befektetési Alap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714274.json
+;HU0000714282;VIG Panoráma Abszolút Hozamú Befektetési Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714282.json
+;HU0000714308;VIG Panoráma Abszolút Hozamú Befektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714308.json
+;HU0000729629;VIG Panoráma Abszolút Hozamú Befektetési Alap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000729629.json
+;HU0000730635;VIG Panoráma Abszolút Hozamú Befektetési Alap C sorozat;CZK;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730635.json
+;HU0000714266;VIG Panoráma Abszolút Hozamú Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714266.json
 ;HU0000726450;VIG Smart Money Befektetési Alapok Alapja R sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000726450.json
+;HU0000708169;VIG Smart Money Befektetési Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708169.json
 ;HU0000719927;Biggeorge 12. Ingatlanforgalmazó Ingatlanbefektetési Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719927.json
 ;HU0000734074;Biggeorge 15. Ingatlanforgalmazó Ingatlanbefektetési Alap C sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734074.json
 ;HU0000735741;Biggeorge 18. Ingatlanforgalmazó Ingatlanbefektetési Alap C sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735741.json
@@ -884,30 +884,30 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000738745;Biggeorge 50. Ingatlanfejlesztő Ingatlanbefektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000738745.json
 ;HU0000739271;Biggeorge 51. Ingatlanfejlesztő Ingatlanbefektetési Alap A sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000739271.json
 ;HU0000739362;Biggeorge 53. Ingatlanfejlesztő Ingatlanbefektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000739362.json
-;HU0000722442;ERSTE Nyíltvégű Euro Ingatlan Befektetési Alap T180 sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722442.json
 ;HU0000707740;ERSTE Nyíltvégű Euro Ingatlan Befektetési Alap T sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707740.json
-;HU0000732490;Erste Nyíltvégű Ingatlan Befektetési Alap M180 sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732490.json
-;HU0000738844;Erste Nyíltvégű Ingatlan Befektetési Alap L sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000738844.json
+;HU0000722442;ERSTE Nyíltvégű Euro Ingatlan Befektetési Alap T180 sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722442.json
 ;HU0000703160;Erste Nyíltvégű Ingatlan Befektetési Alap T sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703160.json
+;HU0000738844;Erste Nyíltvégű Ingatlan Befektetési Alap L sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000738844.json
+;HU0000732490;Erste Nyíltvégű Ingatlan Befektetési Alap M180 sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000732490.json
 ;HU0000722434;Erste Nyíltvégű Ingatlan Befektetési Alap T180 sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722434.json
 ;HU0000707724;Európa Ingatlanbefektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707724.json
 ;HU0000714464;"Magyar Posta Takarék Ingatlan Befektetési Alap ""I"" Sorozat";HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000714464.json
 ;HU0000722616;"Magyar Posta Takarék Ingatlan Befektetési Alap ""B"" sorozat";HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722616.json
 ;HU0000713482;"Magyar Posta Takarék Ingatlan Befektetési Alap ""A"" Sorozat";HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713482.json
 ;HU0000727219;MBH Ingatlan Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000727219.json
-;HU0000733670;OTP Ingatlanbefektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733670.json
-;HU0000719570;OTP Ingatlanbefektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719570.json
 ;HU0000702451;OTP Ingatlanbefektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000702451.json
+;HU0000719570;OTP Ingatlanbefektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719570.json
+;HU0000733670;OTP Ingatlanbefektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733670.json
 ;HU0000718960;OTP PRIME Ingatlanbefektetési Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718960.json
 ;HU0000718523;OTP PRIME Ingatlanbefektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718523.json
 ;HU0000719190;Raiffeisen Ingatlan Alap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719190.json
-;HU0000717954;Raiffeisen Ingatlan Alap D sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717954.json
-;HU0000724828;Raiffeisen Ingatlan Alap A180 sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724828.json
-;HU0000707872;Raiffeisen Ingatlan Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707872.json
-;HU0000724810;Raiffeisen Ingatlan Alap U180 sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724810.json
 ;HU0000707864;Raiffeisen Ingatlan Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707864.json
+;HU0000724810;Raiffeisen Ingatlan Alap U180 sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724810.json
 ;HU0000724802;Raiffeisen Ingatlan Alap D180 sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724802.json
 ;HU0000707880;Raiffeisen Ingatlan Alap C sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707880.json
+;HU0000724828;Raiffeisen Ingatlan Alap A180 sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000724828.json
+;HU0000717954;Raiffeisen Ingatlan Alap D sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717954.json
+;HU0000707872;Raiffeisen Ingatlan Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707872.json
 ;HU0000722764;Torony Ingatlan Befektetési Alap B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000722764.json
 ;HU0000713276;Torony Ingatlan Befektetési Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000713276.json
 ;HU0000737788;APELSO Ingatlanfejlesztő Alapok Alapja EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737788.json
@@ -917,41 +917,41 @@ ticker symbol;isin;security name;currency;note;
 ;HU0000717806;OTP Euró Ingatlanpiaci Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000717806.json
 ;HU0000716378;OTP Ingatlanvilág Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000716378.json
 ;HU0000721477;OTP PRIME Euró Ingatlanpiaci Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000721477.json
+;HU0000725528;Erste Arany Alapok Alapja DPM HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725528.json
 ;HU0000723580;Erste Arany Alapok Alapja DPM EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723580.json
 ;HU0000723572;Erste Arany Alapok Alapja HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723572.json
-;HU0000723598;Erste Arany Alapok Alapja DPM USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723598.json
-;HU0000725528;Erste Arany Alapok Alapja DPM HUF sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000725528.json
 ;HU0000735568;Erste Arany Alapok Alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735568.json
 ;HU0000738612;Erste Arany Alapok Alapja EUR sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000738612.json
+;HU0000723598;Erste Arany Alapok Alapja DPM USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000723598.json
 ;HU0000737523;Erste Gold Cost Averaging Alapok Alapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737523.json
 ;HU0000719133;Eurizon Arany Alapok Részalapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000719133.json
 ;HU0000704234;Eurizon Nyersanyag Alapok Részalapja;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000704234.json
 ;HU0000708078;K&H Nyersanyag Alapok Nyíltvégű Befektetési Alapja HUF;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708078.json
 ;HU0000708060;K&H Nyersanyag Alapok Nyíltvégű Befektetési Alapja USD;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708060.json
-;HU0000737937;MBH Arany Alapok Alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737937.json
 ;HU0000709290;MBH Arany Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000709290.json
+;HU0000737937;MBH Arany Alapok Alapja USD sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000737937.json
 ;HU0000707971;MBH Nyersanyag Származtatott Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000707971.json
 ;HU0000730791;OTP Terra Árupiaci Alap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730791.json
-;HU0000730809;OTP Terra Árupiaci Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730809.json
 ;HU0000730817;OTP Terra Árupiaci Alap I sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730817.json
+;HU0000730809;OTP Terra Árupiaci Alap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000730809.json
 ;HU0000708912;Raiffeisen Nyersanyag Alapok Alapja B sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000708912.json
 ;HU0000703715;Raiffeisen Nyersanyag Alapok Alapja A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000703715.json
-;HU0000733837;VIG Arany Alapokba Fektető Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733837.json
 ;HU0000734967;VIG Arany Alapokba Fektető Részalap UI sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734967.json
-;HU0000733845;VIG Arany Alapokba Fektető Részalap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733845.json
-;HU0000733852;VIG Arany Alapokba Fektető Részalap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733852.json
 ;HU0000734959;VIG Arany Alapokba Fektető Részalap EI sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000734959.json
-;HU0000735402;Artemisz Elite Alapok Alapja Részalap Nyílt végű Befektetési jegy A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735402.json
+;HU0000733852;VIG Arany Alapokba Fektető Részalap U sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733852.json
+;HU0000733837;VIG Arany Alapokba Fektető Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733837.json
+;HU0000733845;VIG Arany Alapokba Fektető Részalap E sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733845.json
 ;HU0000735428;Artemisz Elite Alapok Alapja Részalap Nyílt végű Befektetési jegy W sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735428.json
+;HU0000735402;Artemisz Elite Alapok Alapja Részalap Nyílt végű Befektetési jegy A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735402.json
 ;HU0000735410;Artemisz Elite Alapok Alapja Részalap Nyílt végű Befektetési jegy B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735410.json
-;HU0000733639;Artemisz Kötvény Származtatott Részalap Nyílt végû Befektetési jegy A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733639.json
 ;HU0000733647;Artemisz Kötvény Származtatott Részalap Nyílt végû Befektetési jegy B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733647.json
+;HU0000733639;Artemisz Kötvény Származtatott Részalap Nyílt végû Befektetési jegy A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733639.json
 ;HU0000735063;Artemisz Megatrend Származtatott Részalap Nyílt végû Befektetési jegy W sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000735063.json
 ;HU0000733597;Artemisz Megatrend Származtatott Részalap Nyílt végû Befektetési jegy A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733597.json
 ;HU0000733605;Artemisz Megatrend Származtatott Részalap Nyílt végû Befektetési jegy B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000733605.json
 ;HU0000731195;EQUILOR Wealth Office Alapok Alapja Származtatott Részalap A sorozat;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731195.json
-;HU0000731203;EQUILOR Wealth Office Alapok Alapja Származtatott Részalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731203.json
 ;HU0000731211;EQUILOR Wealth Office Alapok Alapja Származtatott Részalap C sorozat;USD;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731211.json
+;HU0000731203;EQUILOR Wealth Office Alapok Alapja Származtatott Részalap B sorozat;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000731203.json
 ;HU0000706528;Fókusz HUF Származtatott Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000706528.json
 ;HU0000712062;Gránit Származtatott Befektetési Alap;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000712062.json
 ;HU0000718903;Sequoia Abszolút Hozamú Alapok Alapja;EUR;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/bamosz/hu0000718903.json
