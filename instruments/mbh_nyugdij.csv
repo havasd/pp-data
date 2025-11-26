@@ -1,6 +1,1 @@
 ticker symbol;isin;security name;currency;note;
-MBHNY_KISZÁ;;MBH Gondoskodás Nyugdíjpénztár Kiszámítható portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mbh_nyugdij/kiszamithato.json
-MBHNY_KLASS;;MBH Gondoskodás Nyugdíjpénztár Klasszikus portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mbh_nyugdij/klasszikus.json
-MBHNY_KIEGY;;MBH Gondoskodás Nyugdíjpénztár Kiegyensúlyozott portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mbh_nyugdij/kiegyensulyozott.json
-MBHNY_NÖVEK;;MBH Gondoskodás Nyugdíjpénztár Növekedési portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mbh_nyugdij/novekedesi.json
-MBHNY_LENDÜ;;MBH Gondoskodás Nyugdíjpénztár Lendületes portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/mbh_nyugdij/lenduletes.json
