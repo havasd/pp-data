@@ -1,5 +1,5 @@
 ticker symbol;isin;security name;currency;note;
-HONÖNYP_KLASS;;Honvéd Közszolgálati Önkéntes Nyugdíjpénztár Klasszikus;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/honved_nyugdij/klasszikus.json
-HONÖNYP_KIEGY;;Honvéd Közszolgálati Önkéntes Nyugdíjpénztár Kiegyensúlyozott;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/honved_nyugdij/kiegyensulyozott.json
-HONÖNYP_NÖVEK;;Honvéd Közszolgálati Önkéntes Nyugdíjpénztár Növekedési;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/honved_nyugdij/novekedesi.json
-HONÖNYP_PÉNZP;;Honvéd Közszolgálati Önkéntes Nyugdíjpénztár Pénzpiaci;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/honved_nyugdij/penzpiaci.json
+HONÖNYP_KLASS;;Honvéd Közszolgálati Önkéntes Nyugdíjpénztár Klasszikus;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/honved_nyugdij/klasszikus.json
+HONÖNYP_KIEGY;;Honvéd Közszolgálati Önkéntes Nyugdíjpénztár Kiegyensúlyozott;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/honved_nyugdij/kiegyensulyozott.json
+HONÖNYP_NÖVEK;;Honvéd Közszolgálati Önkéntes Nyugdíjpénztár Növekedési;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/honved_nyugdij/novekedesi.json
+HONÖNYP_PÉNZP;;Honvéd Közszolgálati Önkéntes Nyugdíjpénztár Pénzpiaci;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/honved_nyugdij/penzpiaci.json

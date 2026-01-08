@@ -1,6 +1,6 @@
 ticker symbol;isin;security name;currency;note;
-ERÖNYP_KISZÁ;;Erste Nyugdíjpénztár Kiszámítható portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/erste_nyugdij/kiszamithato.json
-ERÖNYP_BÁZIS;;Erste Nyugdíjpénztár Bázis portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/erste_nyugdij/bazis.json
-ERÖNYP_LENDÜ;;Erste Nyugdíjpénztár Lendület portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/erste_nyugdij/lendulet.json
-ERÖNYP_SZOLG;;Erste Nyugdíjpénztár Szolgáltatási portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/erste_nyugdij/szolgaltatasi.json
-ERÖNYP_TREND;;Erste Nyugdíjpénztár Trend portfólió;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/erste_nyugdij/trend.json
+ERÖNYP_KISZÁ;;Erste Nyugdíjpénztár Kiszámítható portfólió;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/erste_nyugdij/kiszamithato.json
+ERÖNYP_BÁZIS;;Erste Nyugdíjpénztár Bázis portfólió;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/erste_nyugdij/bazis.json
+ERÖNYP_LENDÜ;;Erste Nyugdíjpénztár Lendület portfólió;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/erste_nyugdij/lendulet.json
+ERÖNYP_SZOLG;;Erste Nyugdíjpénztár Szolgáltatási portfólió;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/erste_nyugdij/szolgaltatasi.json
+ERÖNYP_TREND;;Erste Nyugdíjpénztár Trend portfólió;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/erste_nyugdij/trend.json

@@ -1,10 +1,10 @@
 ticker symbol;isin;security name;currency;note;
-ARANY_CSEND;;Aranykor Csendélet;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/csendelet.json
-ARANY_KLASS;;Aranykor Klasszikus;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/klasszikus.json
-ARANY_EGYEN;;Aranykor Egyensúly;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/egyensuly.json
-ARANY_LENDÜ;;Aranykor Lendület;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/lendulet.json
-ARANY_ESG D;;Aranykor ESG Dinamikus;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/esg_dinamikus.json
-ARANY_POSTÁS BÁZ;;Aranykor Postás Bázis-Céldátum;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/postas_bazis-celdatum.json
-ARANY_POSTÁS X.1;;Aranykor Postás X.1 Generáció 2027;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/postas_x.1_generacio_2027.json
-ARANY_POSTÁS X.2;;Aranykor Postás X.2 Generáció 2037;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/postas_x.2_generacio_2037.json
-ARANY_POSTÁS Y G;;Aranykor Postás Y Generáció 2047;HUF;JSON feed url: https://cdn.statically.io/gh/havasd/pp-data/main/aranykor/postas_y_generacio_2047.json
+ARANY_CSEND;;Aranykor Csendélet;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/aranykor/csendelet.json
+ARANY_KLASS;;Aranykor Klasszikus;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/aranykor/klasszikus.json
+ARANY_EGYEN;;Aranykor Egyensúly;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/aranykor/egyensuly.json
+ARANY_LENDÜ;;Aranykor Lendület;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/aranykor/lendulet.json
+ARANY_ESG D;;Aranykor ESG Dinamikus;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/aranykor/esg_dinamikus.json
+ARANY_POSTÁS BÁZ;;Aranykor Postás Bázis-Céldátum;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/aranykor/postas_bazis-celdatum.json
+ARANY_POSTÁS X.1;;Aranykor Postás X.1 Generáció 2027;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/aranykor/postas_x.1_generacio_2027.json
+ARANY_POSTÁS X.2;;Aranykor Postás X.2 Generáció 2037;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/aranykor/postas_x.2_generacio_2037.json
+ARANY_POSTÁS Y G;;Aranykor Postás Y Generáció 2047;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/aranykor/postas_y_generacio_2047.json
