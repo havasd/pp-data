@@ -29,7 +29,6 @@ DKJ260819;;Diszkont Kincstárjegy 260819;HUF;JSON feed url: https://cdn.jsdelivr
 DKJ261028;;Diszkont Kincstárjegy 261028;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/dkj_d261028.json
 DKJ261223;;Diszkont Kincstárjegy 261223;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/dkj_d261223.json
 DKJ270217;;Diszkont Kincstárjegy 270217;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/dkj_d270217.json
-KTV_2026/E;;Magyar Államkötvény 2026/E;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2026_e.json
 PMÁP_2026/I;;Prémium Magyar Állampapír 2026/I;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pmap_2026_i.json
 KTV_2026/F;;Magyar Államkötvény 2026/F;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2026_f.json
 BMÁP_2026/N;;Bónusz Magyar Állampapír 2026/N;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/bmap_2026_n.json
@@ -86,8 +85,8 @@ PMÁP_2031/I;;Prémium Magyar Állampapír 2031/I;HUF;JSON feed url: https://cdn
 KTV_2031/B;;Magyar Államkötvény 2031/B;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2031_b.json
 BMÁP_2031/R2;;Bónusz Magyar Állampapír 2031/R2;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/bmap_2031_r2.json
 KTV_2031/A;;Magyar Államkötvény 2031/A;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2031_a.json
-PMÁP_2032/J;;Prémium Magyar Állampapír 2032/J;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pmap_2032_j.json
 PMÁP_2032/I;;Prémium Magyar Állampapír 2032/I;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pmap_2032_i.json
+PMÁP_2032/J;;Prémium Magyar Állampapír 2032/J;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pmap_2032_j.json
 KTV_2032/G;;Magyar Államkötvény 2032/G;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2032_g.json
 KTV_2032/B;;Magyar Államkötvény 2032/B;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2032_b.json
 KTV_2032/A;;Magyar Államkötvény 2032/A;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2032_a.json
