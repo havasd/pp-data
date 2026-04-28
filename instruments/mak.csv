@@ -28,6 +28,7 @@ DKJ260819;;Diszkont Kincstárjegy 260819;HUF;JSON feed url: https://cdn.jsdelivr
 DKJ261028;;Diszkont Kincstárjegy 261028;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/dkj_d261028.json
 DKJ261223;;Diszkont Kincstárjegy 261223;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/dkj_d261223.json
 DKJ270217;;Diszkont Kincstárjegy 270217;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/dkj_d270217.json
+DKJ270428;;Diszkont Kincstárjegy 270428;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/dkj_d270428.json
 PMÁP_2026/I;;Prémium Magyar Állampapír 2026/I;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pmap_2026_i.json
 KTV_2026/F;;Magyar Államkötvény 2026/F;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2026_f.json
 BMÁP_2026/N;;Bónusz Magyar Állampapír 2026/N;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/bmap_2026_n.json
@@ -100,7 +101,6 @@ KTV_2037/A;;Magyar Államkötvény 2037/A;HUF;JSON feed url: https://cdn.jsdeliv
 KTV_2038/A;;Magyar Államkötvény 2038/A;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2038_a.json
 KTV_2041/A;;Magyar Államkötvény 2041/A;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2041_a.json
 KTV_2051/G;;Magyar Államkötvény 2051/G;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/ktv_2051_g.json
-MÁPP_N2026/18;;Magyar Állampapír Plusz N2026/18;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/mapp_n2026_18.json
 MÁPP_N2026/19;;Magyar Állampapír Plusz N2026/19;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/mapp_n2026_19.json
 MÁPP_N2026/20;;Magyar Állampapír Plusz N2026/20;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/mapp_n2026_20.json
 MÁPP_N2026/21;;Magyar Állampapír Plusz N2026/21;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/mapp_n2026_21.json
