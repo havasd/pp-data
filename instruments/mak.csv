@@ -1,12 +1,4 @@
 ticker symbol;isin;security name;currency;note;
-EMÁP_2026/U;;Euro Magyar Állampapír 2026/U;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/emap_2026_u_eur.json
-PEMÁP_2026/X;;Prémium Euró Magyar Állampapír 2026/X;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pemap_2026_x_eur.json
-PEMÁP_2027/X;;Prémium Euró Magyar Állampapír 2027/X;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pemap_2027_x_eur.json
-EMÁP_2027/U;;Euro Magyar Állampapír 2027/U;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/emap_2027_u_eur.json
-PEMÁP_2028/X;;Prémium Euró Magyar Állampapír 2028/X;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pemap_2028_x_eur.json
-PEMÁP_2028/Y;;Prémium Euró Magyar Állampapír 2028/Y;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pemap_2028_y_eur.json
-EMÁP_2028/U;;Euro Magyar Állampapír 2028/U;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/emap_2028_u_eur.json
-EMÁP_2029/U;;Euro Magyar Állampapír 2029/U;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/emap_2029_u_eur.json
 DKJ260819;;Diszkont Kincstárjegy D260819;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/dkj_d260819.json
 DKJ260930;;Diszkont Kincstárjegy D260930;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/dkj_d260930.json
 DKJ261028;;Diszkont Kincstárjegy D261028;HUF;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/dkj_d261028.json
