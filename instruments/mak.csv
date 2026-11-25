@@ -1,5 +1,4 @@
 ticker symbol;isin;security name;currency;note;
-PEMÁP_2026/X;;Prémium Euró Magyar Állampapír 2026/X;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pemap_2026_x_eur.json
 PEMÁP_2027/X;;Prémium Euró Magyar Állampapír 2027/X;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pemap_2027_x_eur.json
 EMÁP_2027/U;;Euro Magyar Állampapír 2027/U;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/emap_2027_u_eur.json
 PEMÁP_2028/X;;Prémium Euró Magyar Állampapír 2028/X;EUR;JSON feed url: https://cdn.jsdelivr.net/gh/havasd/pp-data@main/mak/pemap_2028_x_eur.json
